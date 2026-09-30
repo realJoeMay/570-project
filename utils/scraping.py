@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 from hashlib import sha256
 from urllib.parse import urljoin
@@ -5,14 +6,22 @@ from urllib.parse import urljoin
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from dotenv import dotenv_values
+
+def get_cache_dir(cache_dir: str | Path | None = None) -> Path:
+    """Resolve an explicit folder, HTML_CACHE_DIR, .env, or the local default."""
+    if cache_dir is None:
+        cache_dir = (
+            os.environ.get("HTML_CACHE_DIR")
+            or dotenv_values(".env").get("HTML_CACHE_DIR")
+            or "data/cache/html"
+        )
+    return Path(cache_dir).expanduser()
 
 
-
-
-
-def get_page(url: str, cache_dir: Path = Path("data/cache/html")) -> tuple[bytes, str]:
+def get_page(url: str, cache_dir: str | Path | None = None) -> tuple[bytes, str]:
     """Read cached HTML, or download and cache a successful response."""
-    cache_dir = Path(cache_dir)
+    cache_dir = get_cache_dir(cache_dir)
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_key = sha256(url.encode("utf-8")).hexdigest()
     html_path = cache_dir / f"{cache_key}.html"
@@ -33,8 +42,10 @@ def get_page(url: str, cache_dir: Path = Path("data/cache/html")) -> tuple[bytes
     return response.content, response.url
 
 
-def scrape_parishes(diocese: str, url: str) -> pd.DataFrame:
-    html, page_url = get_page(url)
+def scrape_parishes(
+    diocese: str, url: str, cache_dir: str | Path | None = None,
+) -> pd.DataFrame:
+    html, page_url = get_page(url, cache_dir=cache_dir)
     soup = BeautifulSoup(html, "html.parser")
     parishes = []
 

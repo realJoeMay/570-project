@@ -11,7 +11,9 @@ from bs4 import BeautifulSoup
 from utils.scraping import get_page
 
 
-def discover_site_pages(site_url: str, cache_dir: Path) -> tuple[list[dict], list[dict]]:
+def discover_site_pages(
+    site_url: str, cache_dir: str | Path | None = None,
+) -> tuple[list[dict], list[dict]]:
     """Return deduplicated same-site pages and any discovery errors.
 
     Follow sitemap indexes recursively, but do not crawl individual page links.

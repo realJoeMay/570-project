@@ -1,0 +1,74 @@
+[
+  {
+    "parish_index":1,
+    "name":"Holy Spirit Catholic Parish",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/holyspiritmgm.org\/",
+    "page_url":"https:\/\/holyspiritmgm.org\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/holyspiritmgm.org\/cdn-cgi\/l\/email-protection"
+  },
+  {
+    "parish_index":2,
+    "name":"Blessed Francis Xavier Seelos Parish",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/francisxseelos.org\/",
+    "page_url":"https:\/\/francisxseelos.org\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/francisxseelos.org\/cdn-cgi\/l\/email-protection"
+  },
+  {
+    "parish_index":4,
+    "name":"Christ the King Catholic Church",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/ctkdaphne.org\/",
+    "page_url":"http:\/\/www.ctkdaphne.org\/parish-staff",
+    "sources":"homepage_link",
+    "error":"403 Client Error: Forbidden for url: http:\/\/www.ctkdaphne.org\/parish-staff"
+  },
+  {
+    "parish_index":5,
+    "name":"Our Lady of the Gulf Catholic Church",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/olgal.org\/",
+    "page_url":"https:\/\/olgal.org\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/olgal.org\/cdn-cgi\/l\/email-protection"
+  },
+  {
+    "parish_index":5,
+    "name":"Our Lady of the Gulf Catholic Church",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/olgal.org\/",
+    "page_url":"https:\/\/olgal.org\/give",
+    "sources":"homepage_link, sitemap",
+    "error":"403 Client Error: Forbidden for url: https:\/\/olgal.org\/give"
+  },
+  {
+    "parish_index":6,
+    "name":"Shrine of the Holy Cross & St. John Mission",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/shrineoftheholycross.org\/",
+    "page_url":"https:\/\/shrineoftheholycross.org\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/shrineoftheholycross.org\/cdn-cgi\/l\/email-protection"
+  },
+  {
+    "parish_index":7,
+    "name":"St Robert Bellarmine Catholic Church",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/strobertatmore.com\/",
+    "page_url":"https:\/\/strobertatmore.com\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/strobertatmore.com\/cdn-cgi\/l\/email-protection"
+  },
+  {
+    "parish_index":9,
+    "name":"St. Bartholomew",
+    "diocese":"Archdiocese of Mobile",
+    "site_url":"https:\/\/stbartselberta.org\/",
+    "page_url":"https:\/\/stbartselberta.org\/cdn-cgi\/l\/email-protection",
+    "sources":"homepage_link",
+    "error":"404 Client Error: Not Found for url: https:\/\/stbartselberta.org\/cdn-cgi\/l\/email-protection"
+  }
+]
