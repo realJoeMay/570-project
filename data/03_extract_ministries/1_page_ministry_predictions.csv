@@ -1,0 +1,6 @@
+parish_index,name,diocese,site_url,page_url,sources,final_url,page_title,clean_text,predicted_ministries,llm_model,prediction_status,prediction_error
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/,"homepage, homepage_link, sitemap",,,,"[{""name"": ""Exceptional Children Support"", ""category"": ""Pastoral Care""}]",qwen3:8b,ok,
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/admission,"homepage_link, sitemap",,,,[],qwen3:8b,ok,
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/blog,sitemap,,,,[],qwen3:8b,ok,
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/bulletins,sitemap,,,,[],qwen3:8b,ok,
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/calendar,sitemap,,,,[],qwen3:8b,ok,

@@ -9,11 +9,14 @@ Parish Ministry Benchmark is a Python data-mining project that collects Catholic
 The project is notebook-first. Each major pipeline step has one numbered notebook at the project root:
 
 1. `01_build_site_list.ipynb`
-2. `02_extract_ministries.ipynb`
-3. `03_validate_ministries.ipynb`
+2. `02_build_page_list.ipynb`
+3. `03_extract_ministries.ipynb`
 4. `04_extract_features.ipynb`
 5. `05_cluster_parishes.ipynb`
 6. `06_generate_reports.ipynb`
+
+11. `11_validate_ministries.ipynb`
+
 
 Data produced by each step belongs in the corresponding numbered directory under `data/`.
 
