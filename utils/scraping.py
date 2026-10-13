@@ -19,8 +19,14 @@ def get_cache_dir(cache_dir: str | Path | None = None) -> Path:
     return Path(cache_dir).expanduser()
 
 
-def get_page(url: str, cache_dir: str | Path | None = None) -> tuple[bytes, str]:
-    """Read cached HTML, or download and cache a successful response."""
+def get_page(
+    url: str, cache_dir: str | Path | None = None,
+    *, fetch_sources: list[str] | None = None,
+) -> tuple[bytes, str]:
+    """Read cached HTML, or download and cache a successful response.
+
+    Optionally record whether each fetch uses the cache or the web.
+    """
     cache_dir = get_cache_dir(cache_dir)
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_key = sha256(url.encode("utf-8")).hexdigest()
@@ -28,10 +34,14 @@ def get_page(url: str, cache_dir: str | Path | None = None) -> tuple[bytes, str]
     url_path = cache_dir / f"{cache_key}.url"
 
     if html_path.is_file():
+        if fetch_sources is not None:
+            fetch_sources.append("cache")
         # Preserve the final URL after redirects for relative website links.
         page_url = url_path.read_text(encoding="utf-8") if url_path.is_file() else url
         return html_path.read_bytes(), page_url
 
+    if fetch_sources is not None:
+        fetch_sources.append("web")
     response = requests.get(url, timeout=30)
     response.raise_for_status()
     url_path.write_text(response.url, encoding="utf-8")

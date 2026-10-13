@@ -7,4 +7,6 @@ dependencies = [
     "requests",
     "beautifulsoup4",
     "python-dotenv",
+    "ollama",
+    "pydantic>=2",
 ]
