@@ -1,3 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["utils", "utils.*"]
+namespaces = false
+
 [project]
 name = "parish-ministry-benchmark"
 version = "0.1.0"
@@ -8,5 +16,6 @@ dependencies = [
     "beautifulsoup4",
     "python-dotenv",
     "ollama",
+    "openai",
     "pydantic>=2",
 ]
