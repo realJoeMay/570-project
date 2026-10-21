@@ -1,0 +1,865 @@
+parish_index,name,diocese,is_reference,n_observed_features,imputed_features
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,True,4,
+1,Holy Spirit Catholic Parish,Archdiocese of Mobile,True,4,
+2,Blessed Francis Xavier Seelos Parish,Archdiocese of Mobile,True,4,
+3,Chapel of Our Lady of Bon Secour,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+4,Christ the King Catholic Church,Archdiocese of Mobile,True,4,
+5,Our Lady of the Gulf Catholic Church,Archdiocese of Mobile,True,4,
+6,Shrine of the Holy Cross & St. John Mission,Archdiocese of Mobile,True,4,
+7,St Robert Bellarmine Catholic Church,Archdiocese of Mobile,True,4,
+8,St. Agatha Parish,Archdiocese of Mobile,True,4,
+9,St. Bartholomew,Archdiocese of Mobile,True,4,
+10,St. John the Baptist Parish,Archdiocese of Mobile,True,4,
+11,St. Joseph Catholic Church,Archdiocese of Mobile,True,4,
+12,St. Lawrence Parish,Archdiocese of Mobile,True,4,
+13,St. Margaret of Scotland Parish,Archdiocese of Mobile,True,4,
+14,St. Maurice Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+15,St. Patrick Parish,Archdiocese of Mobile,True,4,
+16,St. Thomas by the Sea Catholic Church,Archdiocese of Mobile,True,4,
+17,Christ the King Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+18,Holy Redeemer Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+19,Our Lady of Guadalupe Mission,Archdiocese of Mobile,True,4,
+20,St. Columba Catholic Church,Archdiocese of Mobile,True,4,
+21,St. John Parish,Archdiocese of Mobile,True,4,
+22,St. John the Evangelist Parish,Archdiocese of Mobile,True,4,
+23,St. Joseph Parish,Archdiocese of Mobile,True,4,
+24,St. Martin of Tours Parish,Archdiocese of Mobile,True,4,
+25,St. Mary Mission,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+26,St. Pius X Mission,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+27,Annunciation Parish,Archdiocese of Mobile,True,4,
+28,Cathedral-Basilica of the Immaculate Conception,Archdiocese of Mobile,True,4,
+29,Corpus Christi Parish,Archdiocese of Mobile,True,4,
+30,Holy Family Parish,Archdiocese of Mobile,True,4,
+31,Holy Name of Jesus Parish,Archdiocese of Mobile,True,4,
+32,Little Flower Parish,Archdiocese of Mobile,True,4,
+33,Most Pure Heart of Mary Catholic Church,Archdiocese of Mobile,True,4,
+34,Our Lady of Lourdes Parish,Archdiocese of Mobile,True,4,
+35,Our Lady of Sorrows Mission,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+36,Our Mother of Mercy Parish,Archdiocese of Mobile,False,2,"county_population, county_median_age"
+37,Our Savior Parish,Archdiocese of Mobile,True,4,
+38,Prince of Peace Parish,Archdiocese of Mobile,True,4,
+39,Sacred Heart of Jesus Catholic Student Center (USA),Archdiocese of Mobile,True,4,
+40,Sacred Heart Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+41,St. Bridget Parish,Archdiocese of Mobile,True,4,
+42,St. Catherine of Siena Catholic Church,Archdiocese of Mobile,True,4,
+43,St. Cecilia Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+44,St. Dominic Parish,Archdiocese of Mobile,True,4,
+45,St. Edmund By the Sea Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+46,St. Francis Xavier Parish,Archdiocese of Mobile,True,4,
+47,St. Ignatius Parish,Archdiocese of Mobile,True,4,
+48,St. James Major Parish,Archdiocese of Mobile,True,4,
+49,St. Joan of Arc Parish,Archdiocese of Mobile,True,4,
+50,St. John the Baptist Catholic Church,Archdiocese of Mobile,True,4,
+51,St. John the Evangelist Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+52,St. Joseph Mission,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+53,St. Joseph Parish (Maysville),Archdiocese of Mobile,True,4,
+54,St. Margaret Parish,Archdiocese of Mobile,True,4,
+55,St. Mary Parish,Archdiocese of Mobile,True,4,
+56,St. Matthew Catholic Parish,Archdiocese of Mobile,True,4,
+57,St. Michael Mission,Archdiocese of Mobile,True,4,
+58,St. Monica Parish,Archdiocese of Mobile,True,4,
+59,St. Peter the Apostle Parish & Our Lady of Sorrows Mission,Archdiocese of Mobile,True,4,
+60,St. Philip Neri Parish,Archdiocese of Mobile,True,4,
+61,St. Pius X Parish,Archdiocese of Mobile,True,4,
+62,St. Rose Of Lima Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+63,St. Theresa Catholic Church,Archdiocese of Mobile,True,4,
+64,St. Thomas Aquinas Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+65,St. Thomas the Apostle Parish,Archdiocese of Mobile,True,4,
+66,St. Vincent de Paul Parish,Archdiocese of Mobile,True,4,
+67,Auburn+Catholic Campus Ministry,Archdiocese of Mobile,True,4,
+68,City of St. Jude,Archdiocese of Mobile,True,4,
+69,Holy Spirit Parish,Archdiocese of Mobile,True,4,
+70,Immaculate Conception,Archdiocese of Mobile,True,4,
+71,Our Lady of Guadalupe Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+72,Our Lady Queen of Mercy Catholic Church,Archdiocese of Mobile,True,4,
+73,Our Lady Queen of Peace,Archdiocese of Mobile,True,4,
+74,Resurrection Parish,Archdiocese of Mobile,True,4,
+75,Saint Michael the Archangel Parish,Archdiocese of Mobile,True,4,
+76,St Joseph,Archdiocese of Mobile,True,4,
+77,St Vincent De Paul Catholic Parish,Archdiocese of Mobile,True,4,
+78,St. Andrew Kim Taegon Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+79,St. Bede the Venerable Parish,Archdiocese of Mobile,True,4,
+80,St. Elizabeth Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+81,St. John the Baptist Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+82,St. Joseph Parish,Archdiocese of Mobile,True,4,
+83,St. Mary Catholic Church,Archdiocese of Mobile,True,4,
+84,St. Peter Catholic Parish,Archdiocese of Mobile,True,4,
+85,St. Vincent De Paul Parish,Archdiocese of Mobile,False,2,"n_social_links, attached_school"
+86,Corpus Christi,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+87,All Saints Catholic Church,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+88,Sacred Heart of Jesus,Diocese of Birmingham,True,4,
+89,St. Charles Borromeo,Diocese of Birmingham,True,4,
+90,St. Joachim,Diocese of Birmingham,True,4,
+91,Holy Family,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+92,St. Michael the Archangel,Diocese of Birmingham,True,4,
+93,Resurrection,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+94,St. Mark,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+95,Our Lady of Shoals,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+96,Sacred Heart of Jesus,Diocese of Birmingham,True,4,
+97,St. Boniface,Diocese of Birmingham,True,4,
+98,Our Lady of the Valley,Diocese of Birmingham,True,4,
+99,St.James,Diocese of Birmingham,False,2,"county_population, county_median_age"
+100,Holy Family,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+101,Good Shepherd,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+102,St. Mary,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+103,St.Jude,Diocese of Birmingham,False,0,"county_population, county_median_age, n_social_links, attached_school"
+104,Blessed Sacrament,Diocese of Birmingham,True,4,
+105,Cathedral of St. Paul,Diocese of Birmingham,True,4,
+106,Holy Family,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+107,Holy Infant of Prague,Diocese of Birmingham,True,4,
+108,Holy Rosary,Diocese of Birmingham,True,4,
+109,Our Lady of Fatima,Diocese of Birmingham,True,4,
+110,Our Lady of La Vang-Vietnamese Parish@ St.John Bosco Church,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+111,Our Lady of Lourdes,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+112,Our Lady of Sorrows,Diocese of Birmingham,True,4,
+113,Our Lady Queen of the Universe,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+114,Prince of Peace,Diocese of Birmingham,True,4,
+115,Sacred Heart of Jesus,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+116,St. Barnabas,Diocese of Birmingham,True,4,
+117,St. Elias(Maronite Rite),Diocese of Birmingham,True,4,
+118,St. Francis of Assisi,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+119,St. Francis Xavier,Diocese of Birmingham,True,4,
+120,St. George the Great Martyr(Melkite Rite),Diocese of Birmingham,True,4,
+121,St. Joseph,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+122,St. Luke Hwang,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+123,St. Mary,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+124,St. Patrick,Diocese of Birmingham,True,4,
+125,St. Stanislaus,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+126,St. Stephen the Martyr Catholic University Chapel,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+127,St. Theresa of the Child Jesus,Diocese of Birmingham,True,4,
+128,St.Aloysius,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+129,St.Elizabeth Ann Seton,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+130,St.Henry,Diocese of Birmingham,False,2,"county_population, county_median_age"
+131,St.Peter the Apostle,Diocese of Birmingham,True,4,
+132,St. Joseph,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+133,St. Michael's,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+134,Resurrection Catholic Chapel,Diocese of Birmingham,True,4,
+135,Most Merciful Jesus,Diocese of Birmingham,True,4,
+136,St. Paul,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+137,Good Shepherd,Diocese of Birmingham,True,4,
+138,Holy Spirit,Diocese of Birmingham,True,4,
+139,Huntsville Korean Community,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+140,Our Lady Queen of the Universe,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+141,"Our Lady, Help of Christians",Diocese of Birmingham,True,4,
+142,St. John the Baptist,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+143,St. Joseph,Diocese of Birmingham,True,4,
+144,St. Mary of the Visitation,Diocese of Birmingham,True,4,
+145,St. Leo the Great,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+146,Holy Spirit,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+147,Chapel of the Holy Cross,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+148,St. William,Diocese of Birmingham,True,4,
+149,Annunciation of the Lord,Diocese of Birmingham,True,4,
+150,St. Robert Bellarmine,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+151,Immaculate Conception,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+152,Our Lady of the Valley,Diocese of Birmingham,True,4,
+153,St. Mark the Evangelist,Diocese of Birmingham,True,4,
+154,St. Thomas the Apostle,Diocese of Birmingham,True,4,
+155,Our Lady of the Lake,Diocese of Birmingham,True,4,
+156,St. Francis of Assisi,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+157,Holy Name of Jesus,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+158,St. Francis of Assisi,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+159,St.Jude,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+160,St. John the Apostle,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+161,Holy Spirit,Diocese of Birmingham,True,4,
+162,St. Francis of Assisi University Parish,Diocese of Birmingham,True,4,
+163,St. John the Baptist,Diocese of Birmingham,False,0,"county_population, county_median_age, n_social_links, attached_school"
+164,St. Cecilia,Diocese of Birmingham,True,4,
+165,Our Lady of Guadalupe,Diocese of Birmingham,False,2,"n_social_links, attached_school"
+166,Co-Cathedral of the Nativity of the Blessed Virgin Mary,Archdiocese of Anchorage-Juneau,True,4,
+167,National Shrine of St. Therese,Archdiocese of Anchorage-Juneau,True,4,
+168,St. Paul the Apostle,Archdiocese of Anchorage-Juneau,True,4,
+169,Arctic Warrior Chapel,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+170,Midnight Sun Chapel,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+171,Our Lady Star of the Sea,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+172,Cathedral of Our Lady of Guadalupe,Archdiocese of Anchorage-Juneau,True,4,
+173,Holy Cross Parish,Archdiocese of Anchorage-Juneau,True,4,
+174,Holy Family Parish,Archdiocese of Anchorage-Juneau,True,4,
+175,Holy Spirit Center,Archdiocese of Anchorage-Juneau,True,4,
+176,"Monastery, Sisters of Perpetual Adoration",Archdiocese of Anchorage-Juneau,True,4,
+177,Our Lady of Providence Chapel,Archdiocese of Anchorage-Juneau,True,4,
+178,Our Lady of the Snows Mission,Archdiocese of Anchorage-Juneau,True,4,
+179,St. Andrew Kim Parish,Archdiocese of Anchorage-Juneau,True,4,
+180,St. Andrew Parish,Archdiocese of Anchorage-Juneau,True,4,
+181,St. Anthony Parish,Archdiocese of Anchorage-Juneau,True,4,
+182,St. Benedict Parish,Archdiocese of Anchorage-Juneau,True,4,
+183,St. Elizabeth Ann Seton Parish,Archdiocese of Anchorage-Juneau,True,4,
+184,St. Patrick Parish,Archdiocese of Anchorage-Juneau,True,4,
+185,Holy Family Parish,Archdiocese of Anchorage-Juneau,True,4,
+186,Holy Rosary Parish,Archdiocese of Anchorage-Juneau,True,4,
+187,Our Lady of Perpetual Help Parish,Archdiocese of Anchorage-Juneau,True,4,
+188,Our Lady of the Angels Parish,Archdiocese of Anchorage-Juneau,True,4,
+189,Our Lady of the Lake Parish,Archdiocese of Anchorage-Juneau,True,4,
+190,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,True,4,
+191,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,True,4,
+192,St. Bernard Parish,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+193,St. Christopher by the Sea Parish,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+194,St. Christopher Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+195,St. Francis Xavier Parish,Archdiocese of Anchorage-Juneau,True,4,
+196,St. John Neumann Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+197,St. John the Baptist Parish,Archdiocese of Anchorage-Juneau,True,4,
+198,St. Joseph Parish,Archdiocese of Anchorage-Juneau,True,4,
+199,St. Mary Parish,Archdiocese of Anchorage-Juneau,True,4,
+200,St. Michael Parish,Archdiocese of Anchorage-Juneau,True,4,
+201,St. Peter the Apostle Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+202,St. Peter the Fisherman Mission,Archdiocese of Anchorage-Juneau,True,4,
+203,St. Philip Benizi Mission,Archdiocese of Anchorage-Juneau,False,0,"county_population, county_median_age, n_social_links, attached_school"
+204,St. Theresa Mission,Archdiocese of Anchorage-Juneau,True,4,
+205,Body of Christ Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+206,Holy Family Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+207,Holy Family Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+208,Holy Name Parish,Archdiocese of Anchorage-Juneau,True,4,
+209,Kake Catholic Community Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+210,Sacred Heart Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+211,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,True,4,
+212,St. Ann Parish,Archdiocese of Anchorage-Juneau,False,0,"county_population, county_median_age, n_social_links, attached_school"
+213,St. Catherine of Siena Parish,Archdiocese of Anchorage-Juneau,True,4,
+214,St. Francis Mission,Archdiocese of Anchorage-Juneau,False,2,"n_social_links, attached_school"
+215,St. Gregory Nazianzen Parish,Archdiocese of Anchorage-Juneau,True,4,
+216,St. John by the Sea Parish,Archdiocese of Anchorage-Juneau,True,4,
+217,St. Rose of Lima Parish,Archdiocese of Anchorage-Juneau,True,4,
+218,St. Therese of the Child Jesus Parish,Archdiocese of Anchorage-Juneau,True,4,
+219,Blessed Sacrament Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+220,Church of the Holy Angels Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+221,Church of the Nativity Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+222,Holy Family Catholic Church,Diocese of Fairbanks,False,0,"county_population, county_median_age, n_social_links, attached_school"
+223,Holy Family Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+224,Holy Mary of Guadalupe Catholic Church,Diocese of Fairbanks,True,4,
+225,Holy Rosary Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+226,Immaculate Conception Catholic Church,Diocese of Fairbanks,True,4,
+227,Immaculate Conception Catholic Church,Diocese of Fairbanks,True,4,
+228,Immaculate Conception Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+229,Immaculate Heart of Mary Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+230,Little Flower of Jesus Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+231,Our Lady of Guadalupe Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+232,Our Lady of Perpetual Help Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+233,Our Lady of Sorrows Catholic Church,Diocese of Fairbanks,True,4,
+234,Our Lady of the Snows Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+235,Sacred Heart Cathedral,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+236,Sacred Heart Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+237,Sacred Heart Catholic Church,Diocese of Fairbanks,False,0,"county_population, county_median_age, n_social_links, attached_school"
+238,Saint Aloysius Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+239,Saint Ann Catholic Church,Diocese of Fairbanks,True,4,
+240,Saint Bernard Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+241,Saint Catherine of Siena Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+242,Saint Charles Spinola Catholic Church,Diocese of Fairbanks,False,0,"county_population, county_median_age, n_social_links, attached_school"
+243,Saint Francis Regis Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+244,Saint Francis Xavier,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+245,Saint Francis Xavier Catholic Church,Diocese of Fairbanks,True,4,
+246,Saint Ignatius Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+247,Saint John Berchmans Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+248,Saint Joseph Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+249,Saint Joseph Catholic Church,Diocese of Fairbanks,True,4,
+250,Saint Joseph Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+251,Saint Jude Catholic Church,Diocese of Fairbanks,False,2,"county_population, county_median_age"
+252,Saint Lawrence Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+253,Saint Mark's University Parish,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+254,Saint Michael Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+255,Saint Michael Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+256,Saint Nicholas Catholic Church,Diocese of Fairbanks,True,4,
+257,Saint Patrick Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+258,Saint Patrick Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+259,Saint Peter Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+260,Saint Peter in Chains Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+261,Saint Peter the Fisherman Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+262,Saint Raphael Catholic Church,Diocese of Fairbanks,True,4,
+263,Saint Teresa Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+264,Saint Theresa Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+265,Saint Theresa Catholic Church,Diocese of Fairbanks,False,2,"n_social_links, attached_school"
+266,Saint Andrews Catholic Church,Diocese of Tucson,True,4,
+267,St. Augustine Cathedral,Diocese of Tucson,True,4,
+268,Immaculate Conception,Diocese of Tucson,True,4,
+269,Our Lady of Lourdes,Diocese of Tucson,True,4,
+270,Our Lady of the Mountains,Diocese of Tucson,True,4,
+271,Sacred Heart of Jesus,Diocese of Tucson,False,2,"n_social_links, attached_school"
+272,Sacred Heart of Jesus,Diocese of Tucson,True,4,
+273,Saint Andrew the Apostle,Diocese of Tucson,True,4,
+274,Saint Bernard,Diocese of Tucson,True,4,
+275,Saint Francis of Assisi Mission,Diocese of Tucson,False,0,"county_population, county_median_age, n_social_links, attached_school"
+276,Saint Jude Thaddeus,Diocese of Tucson,False,2,"n_social_links, attached_school"
+277,Saint Luke,Diocese of Tucson,True,4,
+278,Saint Patrick,Diocese of Tucson,True,4,
+279,Blessed Sacrament,Diocese of Tucson,True,4,
+280,Holy Angels,Diocese of Tucson,True,4,
+281,Holy Cross,Diocese of Tucson,False,2,"n_social_links, attached_school"
+282,Infant Jesus of Prague,Diocese of Tucson,False,2,"n_social_links, attached_school"
+283,Our Lady of Guadalupe,Diocese of Tucson,True,4,
+284,Our Lady of the Blessed Sacrament,Diocese of Tucson,True,4,
+285,Sacred Heart,Diocese of Tucson,False,2,"n_social_links, attached_school"
+286,Saint Bartholomew,Diocese of Tucson,True,4,
+287,Saint Charles Apache Mission Church,Diocese of Tucson,False,2,"n_social_links, attached_school"
+288,Saint Helen,Diocese of Tucson,True,4,
+289,Saint Joseph,Diocese of Tucson,False,2,"n_social_links, attached_school"
+290,Saint Philip the Apostle,Diocese of Tucson,True,4,
+291,Saint Rose of Lima,Diocese of Tucson,True,4,
+292,St. Francis of Assisi Church,Diocese of Tucson,True,4,
+293,Most Holy Trinity,Diocese of Tucson,True,4,
+294,Our Lady of La Vang / St. Frances Cabrini,Diocese of Tucson,False,2,"n_social_links, attached_school"
+295,Sacred Heart,Diocese of Tucson,True,4,
+296,Saint Ambrose,Diocese of Tucson,True,4,
+297,Saint Thomas More Newman Center,Diocese of Tucson,True,4,
+298,Sts. Peter and Paul Catholic Church,Diocese of Tucson,True,4,
+299,Corpus Christi,Diocese of Tucson,True,4,
+300,Our Lady Star of the Sea (Korean Community),Diocese of Tucson,False,2,"n_social_links, attached_school"
+301,Our Mother of Sorrows,Diocese of Tucson,True,4,
+302,Saint Cyril of Alexandria,Diocese of Tucson,True,4,
+303,Saint Joseph,Diocese of Tucson,True,4,
+304,Saint Rita in the Desert,Diocese of Tucson,True,4,
+305,St. Francis de Sales Parish,Diocese of Tucson,True,4,
+306,St. Pius X,Diocese of Tucson,True,4,
+307,Our Lady of the Desert Conventual Church,Diocese of Tucson,True,4,
+308,Santa Catalina,Diocese of Tucson,True,4,
+309,St. Christopher,Diocese of Tucson,True,4,
+310,St. Elizabeth Ann Seton,Diocese of Tucson,True,4,
+311,St. Elizabeth Ann Seton,Diocese of Tucson,True,4,
+312,St. Mark the Evangelist,Diocese of Tucson,True,4,
+313,St. Odilia,Diocese of Tucson,True,4,
+314,St. Thomas the Apostle,Diocese of Tucson,True,4,
+315,Holy Family,Diocese of Tucson,True,4,
+316,Our Lady of Fatima,Diocese of Tucson,True,4,
+317,Our Lady Queen of All Saints,Diocese of Tucson,False,2,"n_social_links, attached_school"
+318,Saint Augustine Cathedral,Diocese of Tucson,True,4,
+319,Saint Gianna Oratory,Diocese of Tucson,True,4,
+320,Saint John the Evangelist,Diocese of Tucson,True,4,
+321,Saint Margaret Mary Alacoque,Diocese of Tucson,True,4,
+322,Saint Mary of the Desert Mission,Diocese of Tucson,False,2,"n_social_links, attached_school"
+323,Saint Monica,Diocese of Tucson,True,4,
+324,Santa Cruz,Diocese of Tucson,True,4,
+325,Immaculate Conception,Diocese of Tucson,False,2,"n_social_links, attached_school"
+326,San Solano Missions,Diocese of Tucson,True,4,
+327,San Xavier del Bac Mission,Diocese of Tucson,True,4,
+328,St. Kateri Tekakwitha Indian Mission,Diocese of Tucson,True,4,
+329,Assumption of the Blessed Virgin Mary Catholic Church,Diocese of Tucson,True,4,
+330,Our Lady of Grace,Diocese of Tucson,True,4,
+331,Saint Anthony of Padua,Diocese of Tucson,True,4,
+332,Saint George,Diocese of Tucson,True,4,
+333,Saint Helen of the Cross,Diocese of Tucson,True,4,
+334,Saint James the Apostle Catholic Church,Diocese of Tucson,True,4,
+335,Saint Michael the Archangel,Diocese of Tucson,True,4,
+336,Most Holy Nativity of Our Lord Jesus Christ,Diocese of Tucson,True,4,
+337,Our Lady of the Angels Mission,Diocese of Tucson,True,4,
+338,Our Lady of the Valley,Diocese of Tucson,True,4,
+339,Sacred Heart of Jesus,Diocese of Tucson,True,4,
+340,Saint Ann,Diocese of Tucson,True,4,
+341,San Felipe de Jesus,Diocese of Tucson,True,4,
+342,San Martin de Porres,Diocese of Tucson,True,4,
+343,St. Therese of Lisieux,Diocese of Tucson,True,4,
+344,Immaculate Conception,Diocese of Tucson,False,2,"n_social_links, attached_school"
+345,Immaculate Heart of Mary,Diocese of Tucson,True,4,
+346,Sacred Heart,Diocese of Tucson,True,4,
+347,Saint Francis of Assisi,Diocese of Tucson,True,4,
+348,Saint Joseph the Worker,Diocese of Tucson,True,4,
+349,Saint Jude Thaddeus,Diocese of Tucson,False,2,"n_social_links, attached_school"
+350,St. John Neumann,Diocese of Tucson,True,4,
+351,Christ the King,Diocese of Fresno,True,4,
+352,Our Lady of Perpetual Help,Diocese of Fresno,True,4,
+353,Our Lady of the Snows Mission,Diocese of Fresno,True,4,
+354,Sacred Heart,Diocese of Fresno,True,4,
+355,San Clemente Mission Parish,Diocese of Fresno,False,2,"n_social_links, attached_school"
+356,"Shrine of Our Lady of Guadalupe, Co-Patroness of the Unborn",Diocese of Fresno,True,4,
+357,St. Augustine,Diocese of Fresno,True,4,
+358,St. Elizabeth Ann Seton,Diocese of Fresno,True,4,
+359,St. Francis of Assisi,Diocese of Fresno,False,2,"n_social_links, attached_school"
+360,St. Joseph,Diocese of Fresno,False,2,"n_social_links, attached_school"
+361,St. Philip the Apostle,Diocese of Fresno,True,4,
+362,St. Thomas the Apostle,Diocese of Fresno,False,2,"n_social_links, attached_school"
+363,Holy Spirit,Diocese of Fresno,False,2,"n_social_links, attached_school"
+364,Catholic Community of St. Jude and Our Lady of the Assumption,Diocese of Fresno,True,4,
+365,"Divine Mercy, Clovis; station: Shaver Laker  Community Chapel",Diocese of Fresno,True,4,
+366,"Holy Spirit, Fresno",Diocese of Fresno,True,4,
+367,Our Lady of La Vang,Diocese of Fresno,False,2,"n_social_links, attached_school"
+368,Our Lady of Mount Carmel,Diocese of Fresno,False,2,"n_social_links, attached_school"
+369,Our Lady of Perpetual Help,Diocese of Fresno,True,4,
+370,Our Lady of the Assumption,Diocese of Fresno,True,4,
+371,Our Lady of Victory,Diocese of Fresno,True,4,
+372,Sacred Heart,Diocese of Fresno,True,4,
+373,St Anthony Mary Claret Church,Diocese of Fresno,True,4,
+374,St. Alphonsus,Diocese of Fresno,False,2,"n_social_links, attached_school"
+375,St. Anthony of Padua,Diocese of Fresno,True,4,
+376,St. Genevieve,Diocese of Fresno,False,2,"n_social_links, attached_school"
+377,St. Helen,Diocese of Fresno,True,4,
+378,St. John's Cathedral,Diocese of Fresno,True,4,
+379,St. Mary Queen of Apostles,Diocese of Fresno,True,4,
+380,St. Paul Catholic Newman Center,Diocese of Fresno,True,4,
+381,The Shrine of St. Therese,Diocese of Fresno,False,2,"county_population, county_median_age"
+382,Christ the King,Diocese of Fresno,False,2,"n_social_links, attached_school"
+383,Infant Jesus of Prague,Diocese of Fresno,False,2,"n_social_links, attached_school"
+384,St. Agnes,Diocese of Fresno,False,2,"n_social_links, attached_school"
+385,Holy Family,Diocese of Fresno,False,2,"county_population, county_median_age"
+386,Our Lady of Sorrows,Diocese of Fresno,True,4,
+387,St. Anthony of Padua,Diocese of Fresno,True,4,
+388,St. Catherine of Siena,Diocese of Fresno,True,4,
+389,St. Isidore the Farmer,Diocese of Fresno,False,2,"n_social_links, attached_school"
+390,St. Joseph,Diocese of Fresno,False,2,"n_social_links, attached_school"
+391,St. Katherine,Diocese of Fresno,True,4,
+392,St. Lucy,Diocese of Fresno,True,4,
+393,St. Mary,Diocese of Fresno,False,2,"n_social_links, attached_school"
+394,St. Mary,Diocese of Fresno,True,4,
+395,Santa Cruz,Diocese of Fresno,False,2,"n_social_links, attached_school"
+396,St. John the Baptist,Diocese of Fresno,True,4,
+397,St. Katherine,Diocese of Fresno,False,2,"n_social_links, attached_school"
+398,St. Rita,Diocese of Fresno,False,2,"n_social_links, attached_school"
+399,Our Lady of Lourdes,Diocese of Fresno,False,2,"county_population, county_median_age"
+400,Our Lady of Perpetual Help,Diocese of Fresno,True,4,
+401,"Santa Rosa; Stations:  Death Valley, Furnace Creek, Olancha",Diocese of Fresno,False,2,"n_social_links, attached_school"
+402,St. Ann,Diocese of Fresno,True,4,
+403,St. Malachy,Diocese of Fresno,True,4,
+404,St. Mary of the Desert,Diocese of Fresno,False,2,"n_social_links, attached_school"
+405,St. Therese of Lisieux,Diocese of Fresno,True,4,
+406,Santa Barbara,Diocese of Fresno,False,2,"n_social_links, attached_school"
+407,St. Francis of Assisi,Diocese of Fresno,False,2,"n_social_links, attached_school"
+408,St. John the Baptist,Diocese of Fresno,False,2,"n_social_links, attached_school"
+409,St. Joseph,Diocese of Fresno,False,2,"n_social_links, attached_school"
+410,St. Stephen,Diocese of Fresno,False,2,"n_social_links, attached_school"
+411,St. Therese,Diocese of Fresno,False,2,"n_social_links, attached_school"
+412,St. Vivian,Diocese of Fresno,False,2,"n_social_links, attached_school"
+413,Our Lady of Guadalupe,Diocese of Fresno,True,4,
+414,St. Elizabeth,Diocese of Fresno,False,2,"n_social_links, attached_school"
+415,St. John the Evangelist,Diocese of Fresno,True,4,
+416,St. Jude Thaddeus,Diocese of Fresno,False,2,"county_population, county_median_age"
+417,St. Jude Thaddeus,Diocese of Fresno,False,2,"n_social_links, attached_school"
+418,St. Mary,Diocese of Fresno,False,2,"n_social_links, attached_school"
+419,St. Mary,Diocese of Fresno,True,4,
+420,St. Mary of the Miraculous Medal,Diocese of Fresno,True,4,
+421,Nuestra de la Paz,Diocese of Fresno,False,2,"n_social_links, attached_school"
+422,St. Vincent de Paul,Diocese of Fresno,False,2,"n_social_links, attached_school"
+423,Immaculate Heart of Mary,Diocese of Fresno,False,2,"n_social_links, attached_school"
+424,Our Lady of Lourdes,Diocese of Fresno,False,2,"n_social_links, attached_school"
+425,Shrine Of Our Lady of Fatima,Diocese of Fresno,True,4,
+426,"St. Ann; Holy Family, Five Points",Diocese of Fresno,True,4,
+427,St. Brigid,Diocese of Fresno,False,2,"county_population, county_median_age"
+428,St. Frances Cabrini,Diocese of Fresno,False,2,"n_social_links, attached_school"
+429,St. Joseph,Diocese of Fresno,True,4,
+430,St. Paul the Apostle,Diocese of Fresno,False,2,"n_social_links, attached_school"
+431,St. Peter Prince of Apostles,Diocese of Fresno,True,4,
+432,Sacred Heart,Diocese of Fresno,False,2,"n_social_links, attached_school"
+433,St. Cecilia,Diocese of Fresno,False,2,"n_social_links, attached_school"
+434,St. Joseph,Diocese of Fresno,False,2,"n_social_links, attached_school"
+435,Our Lady of Guadalupe,Diocese of Fresno,True,4,
+436,Our Lady of the Sierra,Diocese of Fresno,True,4,
+437,Sacred Heart,Diocese of Fresno,True,4,
+438,St. Columba,Diocese of Fresno,True,4,
+439,St. Joachim,Diocese of Fresno,True,4,
+440,St. Joseph,Diocese of Fresno,True,4,
+441,St. Patrick,Diocese of Fresno,True,4,
+442,St. Paul,Diocese of Fresno,True,4,
+443,Our Lady of Lourdes,Diocese of Fresno,False,2,"n_social_links, attached_school"
+444,Our Lady of the Snows,Diocese of Fresno,False,2,"n_social_links, attached_school"
+445,St. Agnes Chapel,Diocese of Fresno,False,2,"n_social_links, attached_school"
+446,St. Anne Chapel,Diocese of Fresno,False,2,"n_social_links, attached_school"
+447,St. Dominic Savio,Diocese of Fresno,False,2,"n_social_links, attached_school"
+448,St. George,Diocese of Fresno,False,2,"n_social_links, attached_school"
+449,St. Joseph the Worker,Diocese of Fresno,False,2,"n_social_links, attached_school"
+450,St. Vincent de Paul,Diocese of Fresno,False,2,"n_social_links, attached_school"
+451,"Holy Rosary; St. Mary, Stevinson",Diocese of Fresno,True,4,
+452,Our Lady of Mercy,Diocese of Fresno,True,4,
+453,Our Lady of the Snows,Diocese of Fresno,True,4,
+454,Sacred Heart,Diocese of Fresno,True,4,
+455,Sacred Heart,Diocese of Fresno,False,2,"n_social_links, attached_school"
+456,Shrine of Our Lady of Miracles,Diocese of Fresno,False,2,"n_social_links, attached_school"
+457,Shrine of St. Jude Thaddeus,Diocese of Fresno,True,4,
+458,St. Anthony,Diocese of Fresno,False,2,"n_social_links, attached_school"
+459,St. Joseph,Diocese of Fresno,True,4,
+460,St. Joseph,Diocese of Fresno,True,4,
+461,St. Patrick,Diocese of Fresno,True,4,
+462,Immaculate Conception,Diocese of Fresno,False,2,"n_social_links, attached_school"
+463,Our Lady of Lourdes,Diocese of Fresno,False,2,"n_social_links, attached_school"
+464,St. Catherine of Siena,Diocese of Fresno,False,2,"n_social_links, attached_school"
+465,St. Teresa of Calcutta,Diocese of Fresno,False,2,"n_social_links, attached_school"
+466,Holy Family,Diocese of Fresno,True,4,
+467,"Sacred Heart; St. Anthony of Egypt, Farmersville",Diocese of Fresno,True,4,
+468,"Sacred Heart; Station: Santa Cruz, Lindsay",Diocese of Fresno,False,2,"n_social_links, attached_school"
+469,St. Aloysius,Diocese of Fresno,True,4,
+470,St. Anne Parish,Diocese of Fresno,True,4,
+471,St. Anthony Retreat Center,Diocese of Fresno,True,4,
+472,St. Charles Borromeo,Diocese of Fresno,False,2,"county_population, county_median_age"
+473,St. Frances Cabrini,Diocese of Fresno,False,2,"n_social_links, attached_school"
+474,"St. John the Evangelist; Station:  Our Lady of Assumption, Pixley",Diocese of Fresno,False,2,"n_social_links, attached_school"
+475,St. Rita,Diocese of Fresno,True,4,
+476,St. Teresita Youth Retreat Center,Diocese of Fresno,True,4,
+477,The Nativity of the Blessed Virgin Mary,Diocese of Fresno,True,4,
+478,Blessed Miguel Agustin Pro,Diocese of Fresno,True,4,
+479,Holy Cross Church,Diocese of Fresno,True,4,
+480,Mater Dolorosa,Diocese of Fresno,False,2,"n_social_links, attached_school"
+481,San Felipe de Jesus,Diocese of Fresno,False,2,"n_social_links, attached_school"
+482,St. Anthony,Diocese of Fresno,False,2,"n_social_links, attached_school"
+483,St. Clair,Diocese of Fresno,False,2,"n_social_links, attached_school"
+484,St. Francis of Assisi,Diocese of Fresno,False,2,"n_social_links, attached_school"
+485,St. James,Diocese of Fresno,False,2,"n_social_links, attached_school"
+486,St. Maximillian Kolbe,Diocese of Fresno,True,4,
+487,Carmel Mission Basilica,Diocese of Monterey,True,4,
+488,Christ Child Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+489,Christ the King Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+490,Holy Cross Church,Diocese of Monterey,True,4,
+491,Holy Eucharist Church,Diocese of Monterey,True,4,
+492,Holy Trinity Church,Diocese of Monterey,True,4,
+493,Immaculate Conception Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+494,Madonna del Sasso Church,Diocese of Monterey,True,4,
+495,Mission San Antonio de Padua,Diocese of Monterey,True,4,
+496,Nativity of Our Lady Church,Diocese of Monterey,True,4,
+497,Old Mission Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+498,Old Mission Church,Diocese of Monterey,True,4,
+499,Old Mission Church,Diocese of Monterey,True,4,
+500,Our Lady Help of Christians Church,Diocese of Monterey,True,4,
+501,Our Lady of Mt. Carmel Church,Diocese of Monterey,True,4,
+502,Our Lady of Refuge Church,Diocese of Monterey,True,4,
+503,Our Lady of Solitude Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+504,Our Lady of the Assumption Church,Diocese of Monterey,True,4,
+505,Our Lady Star of the Sea Church,Diocese of Monterey,True,4,
+506,Resurrection Church,Diocese of Monterey,True,4,
+507,Sacred Heart & St. Benedict's Pastoral Center,Diocese of Monterey,True,4,
+508,Sacred Heart Church,Diocese of Monterey,True,4,
+509,San Agustin Church,Diocese of Monterey,True,4,
+510,San Carlos Cathedral,Diocese of Monterey,True,4,
+511,Santa Margarita de Cortona,Diocese of Monterey,False,2,"n_social_links, attached_school"
+512,Santa Rosa Church,Diocese of Monterey,True,4,
+513,Shrine of St. Joseph,Diocese of Monterey,False,2,"n_social_links, attached_school"
+514,St. Angela Merici Church,Diocese of Monterey,True,4,
+515,St. Elizabeth Seton Parish,Diocese of Monterey,True,4,
+516,St. Francis Xavier Church,Diocese of Monterey,True,4,
+517,St. John the Baptist Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+518,St. John’s Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+519,St. Joseph's Church,Diocese of Monterey,True,4,
+520,St. Joseph’s Church,Diocese of Monterey,True,4,
+521,St. Joseph’s Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+522,St. Joseph’s Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+523,St. Jude’s Catholic Church & Shrine,Diocese of Monterey,True,4,
+524,St. Mary of the Nativity Church,Diocese of Monterey,True,4,
+525,St. Michael’s Church,Diocese of Monterey,True,4,
+526,St. Patrick's Church,Diocese of Monterey,True,4,
+527,St. Patrick's Church,Diocese of Monterey,True,4,
+528,St. Paul the Apostle Church,Diocese of Monterey,True,4,
+529,St. Rose of Lima Church,Diocese of Monterey,True,4,
+530,St. Theodore’s Church,Diocese of Monterey,False,2,"n_social_links, attached_school"
+531,St. Timothy’s Church,Diocese of Monterey,True,4,
+532,St. Vincent de Paul Church c/o Shrine of St. Joseph,Diocese of Monterey,False,2,"n_social_links, attached_school"
+533,St. William’s Church,Diocese of Monterey,True,4,
+534,Blessed Sacrament Mission,Diocese of Santa Rosa,True,4,
+535,Cal Poly Newman Center,Diocese of Santa Rosa,True,4,
+536,Cathedral of St. Eugene,Diocese of Santa Rosa,True,4,
+537,Christ the King Church,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+538,Church of the Assumption,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+539,Hanna Boys Center,Diocese of Santa Rosa,True,4,
+540,Holy Family Church,Diocese of Santa Rosa,True,4,
+541,Holy Family Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+542,Holy Spirit Church,Diocese of Santa Rosa,True,4,
+543,Holy Trinity Mission (Christ The King),Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+544,Mary Star of the Sea Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+545,Our Lady of Good Counsel Church,Diocese of Santa Rosa,True,4,
+546,Our Lady of Guadalupe Church,Diocese of Santa Rosa,True,4,
+547,Our Lady of Mount Carmel Mission,Diocese of Santa Rosa,False,0,"county_population, county_median_age, n_social_links, attached_school"
+548,Our Lady of Perpetual Help Church,Diocese of Santa Rosa,True,4,
+549,Our Lady of the Lakes,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+550,Our Lady of the Redwoods Church,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+551,Our Lady Queen of Peace Church,Diocese of Santa Rosa,True,4,
+552,Our Lady Queen of Peace Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+553,Queen of the Rosary Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+554,Resurrection Church,Diocese of Santa Rosa,True,4,
+555,Sacred Heart Church,Diocese of Santa Rosa,True,4,
+556,Sonoma State Newman Center,Diocese of Santa Rosa,True,4,
+557,St. Aloysius Church,Diocese of Santa Rosa,True,4,
+558,St. Anthony Church,Diocese of Santa Rosa,True,4,
+559,St. Anthony of Padua Church,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+560,St. Apollinaris Church,Diocese of Santa Rosa,True,4,
+561,St. Bernard Church,Diocese of Santa Rosa,True,4,
+562,St. Catherine of Siena Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+563,St. Colman Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+564,St. Elizabeth Ann Seton Church,Diocese of Santa Rosa,True,4,
+565,St. Elizabeth Church,Diocese of Santa Rosa,True,4,
+566,St. Francis Solano Church,Diocese of Santa Rosa,True,4,
+567,St. Helena Church,Diocese of Santa Rosa,True,4,
+568,St. James Church,Diocese of Santa Rosa,True,4,
+569,St. Joan of Arc Church,Diocese of Santa Rosa,True,4,
+570,St. John the Baptist Church,Diocese of Santa Rosa,True,4,
+571,St. John the Baptist Church,Diocese of Santa Rosa,True,4,
+572,St. Joseph Church,Diocese of Santa Rosa,True,4,
+573,St. Joseph Church,Diocese of Santa Rosa,True,4,
+574,St. Joseph Church,Diocese of Santa Rosa,True,4,
+575,St. Joseph Church,Diocese of Santa Rosa,True,4,
+576,St. Joseph Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+577,St. Joseph Mission Church,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+578,St. Kateri Tekakwitha Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+579,St. Leo the Great Church,Diocese of Santa Rosa,True,4,
+580,St. Mary Church,Diocese of Santa Rosa,True,4,
+581,St. Mary Immaculate Church,Diocese of Santa Rosa,True,4,
+582,St. Mary of the Angels Church,Diocese of Santa Rosa,True,4,
+583,St. Patrick Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+584,St. Patrick Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+585,St. Peter Church,Diocese of Santa Rosa,True,4,
+586,St. Peter Mission,Diocese of Santa Rosa,True,4,
+587,St. Philip the Apostle Church,Diocese of Santa Rosa,True,4,
+588,"St. Robert & St. Anne Mission, (St. Joseph, Crescent City) Klamath",Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+589,St. Rose of Lima Church,Diocese of Santa Rosa,True,4,
+590,St. Sebastian Church,Diocese of Santa Rosa,True,4,
+591,St. Teresa of Avila Mission,Diocese of Santa Rosa,False,2,"n_social_links, attached_school"
+592,St. Thomas Aquinas Church,Diocese of Santa Rosa,True,4,
+593,St. Vincent de Paul Church,Diocese of Santa Rosa,True,4,
+594,Star of the Valley Church,Diocese of Santa Rosa,True,4,
+595,Our Lady of the Rosary Parish,Diocese of Pensacola-Tallahassee,True,4,
+596,Our Lady Queen of Peace Mission,Diocese of Pensacola-Tallahassee,True,4,
+597,St. Anne Parish,Diocese of Pensacola-Tallahassee,True,4,
+598,St. Bernadette Parish,Diocese of Pensacola-Tallahassee,True,4,
+599,St. Dominic Parish,Diocese of Pensacola-Tallahassee,True,4,
+600,St. Francis of Assisi Parish,Diocese of Pensacola-Tallahassee,False,2,"n_social_links, attached_school"
+601,St. John the Evangelist Parish,Diocese of Pensacola-Tallahassee,True,4,
+602,St. Joseph Parish,Diocese of Pensacola-Tallahassee,True,4,
+603,St. Joseph the Worker Parish,Diocese of Pensacola-Tallahassee,True,4,
+604,St. Patrick Parish,Diocese of Pensacola-Tallahassee,True,4,
+605,St. Theresa Parish,Diocese of Pensacola-Tallahassee,True,4,
+606,Sts. Peter and Paul Vietnamese Parish,Diocese of Pensacola-Tallahassee,True,4,
+607,Blessed Sacrament Parish,Diocese of Pensacola-Tallahassee,True,4,
+608,Co-Cathedral of St. Thomas More,Diocese of Pensacola-Tallahassee,True,4,
+609,Good Shepherd Parish,Diocese of Pensacola-Tallahassee,True,4,
+610,Immaculate Conception Parish,Diocese of Pensacola-Tallahassee,True,4,
+611,Sacred Heart of Jesus Parish,Diocese of Pensacola-Tallahassee,True,4,
+612,St. Augustine Yu Korean Mission,Diocese of Pensacola-Tallahassee,False,2,"n_social_links, attached_school"
+613,St. Elizabeth Ann Seton Parish,Diocese of Pensacola-Tallahassee,True,4,
+614,St. Eugene Mission,Diocese of Pensacola-Tallahassee,True,4,
+615,St. John Paul II Catholic Chapel,Diocese of Pensacola-Tallahassee,True,4,
+616,St. Louis Parish,Diocese of Pensacola-Tallahassee,True,4,
+617,St. Margaret Parish,Diocese of Pensacola-Tallahassee,False,2,"n_social_links, attached_school"
+618,St. Thomas the Apostle Parish,Diocese of Pensacola-Tallahassee,True,4,
+619,St. Vincent de Paul Parish,Diocese of Pensacola-Tallahassee,False,2,"n_social_links, attached_school"
+620,Msgr. James Amos Pastoral Center,Diocese of Pensacola-Tallahassee,True,4,
+621,Blessed Trinity Parish,Diocese of Pensacola-Tallahassee,False,2,"county_population, county_median_age"
+622,Christ Our Redeemer Parish,Diocese of Pensacola-Tallahassee,True,4,
+623,Christ the King Parish,Diocese of Pensacola-Tallahassee,True,4,
+624,Corpus Christi Parish,Diocese of Pensacola-Tallahassee,True,4,
+625,Holy Name of Jesus Parish,Diocese of Pensacola-Tallahassee,True,4,
+626,Our Lady of Victory Parish,Diocese of Pensacola-Tallahassee,True,4,
+627,Resurrection Parish,Diocese of Pensacola-Tallahassee,True,4,
+628,St. Margaret of Scotland Parish,Diocese of Pensacola-Tallahassee,True,4,
+629,St. Mary Parish,Diocese of Pensacola-Tallahassee,True,4,
+630,St. Peter Parish,Diocese of Pensacola-Tallahassee,True,4,
+631,St. Rita Parish,Diocese of Pensacola-Tallahassee,True,4,
+632,Basilica of St. Michael the Archangel,Diocese of Pensacola-Tallahassee,True,4,
+633,Cathedral of the Sacred Heart,Diocese of Pensacola-Tallahassee,True,4,
+634,Holy Spirit Parish,Diocese of Pensacola-Tallahassee,True,4,
+635,Little Flower Parish,Diocese of Pensacola-Tallahassee,True,4,
+636,Nativity of Our Lord Parish,Diocese of Pensacola-Tallahassee,True,4,
+637,Our Lady of the Assumption Mission,Diocese of Pensacola-Tallahassee,True,4,
+638,Our Lady Queen of Martyrs Parish,Diocese of Pensacola-Tallahassee,True,4,
+639,St. Ann Parish,Diocese of Pensacola-Tallahassee,True,4,
+640,St. Anne Parish,Diocese of Pensacola-Tallahassee,True,4,
+641,St. Anthony of Padua Parish,Diocese of Pensacola-Tallahassee,True,4,
+642,St. Elizabeth of Hungary Mission,Diocese of Pensacola-Tallahassee,True,4,
+643,St. John the Evangelist Parish,Diocese of Pensacola-Tallahassee,True,4,
+644,St. Joseph Parish,Diocese of Pensacola-Tallahassee,True,4,
+645,St. Jude Thaddeus Parish,Diocese of Pensacola-Tallahassee,True,4,
+646,St. Mary Parish,Diocese of Pensacola-Tallahassee,True,4,
+647,St. Paul Parish,Diocese of Pensacola-Tallahassee,True,4,
+648,St. Rose of Lima Parish,Diocese of Pensacola-Tallahassee,True,4,
+649,St. Stephen Parish,Diocese of Pensacola-Tallahassee,True,4,
+650,St. Sylvester Parish,Diocese of Pensacola-Tallahassee,True,4,
+651,St. Thomas More Parish,Diocese of Pensacola-Tallahassee,True,4,
+652,All Saints Parish (St. John the Baptist Campus),Archdiocese of Indianapolis,True,4,
+653,All Saints Parish (St. Joseph Campus),Archdiocese of Indianapolis,True,4,
+654,All Saints Parish (St. Martin Campus),Archdiocese of Indianapolis,True,4,
+655,All Saints Parish (St. Paul Campus),Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+656,American Martyrs (Church of the) Parish,Archdiocese of Indianapolis,True,4,
+657,Annunciation Parish,Archdiocese of Indianapolis,True,4,
+658,Christ the King Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+659,Good Shepherd Parish,Archdiocese of Indianapolis,True,4,
+660,Holy Angels (Church of the) Parish,Archdiocese of Indianapolis,True,4,
+661,Holy Cross Parish,Archdiocese of Indianapolis,True,4,
+662,Holy Family Parish,Archdiocese of Indianapolis,True,4,
+663,Holy Family Parish,Archdiocese of Indianapolis,True,4,
+664,"Holy Name (of Jesus, Church of the Most) Parish",Archdiocese of Indianapolis,True,4,
+665,Holy Rosary (Our Lady of the Most) Parish,Archdiocese of Indianapolis,True,4,
+666,Holy Spirit Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+667,Holy Trinity Parish,Archdiocese of Indianapolis,True,4,
+668,Immaculate Conception Parish,Archdiocese of Indianapolis,True,4,
+669,Immaculate Heart of Mary Parish,Archdiocese of Indianapolis,True,4,
+670,Mary Queen of Peace Parish,Archdiocese of Indianapolis,True,4,
+671,Most Sorrowful Mother of God Parish,Archdiocese of Indianapolis,True,4,
+672,Nativity (of Our Lord Jesus Christ) Parish,Archdiocese of Indianapolis,True,4,
+673,Our Lady of Lourdes Parish,Archdiocese of Indianapolis,True,4,
+674,Our Lady of Perpetual Help Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+675,Our Lady of the Greenwood Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+676,Our Lady of the Springs Parish,Archdiocese of Indianapolis,True,4,
+677,Our Lord Jesus Christ the King Parish,Archdiocese of Indianapolis,True,4,
+678,Prince of Peace Parish,Archdiocese of Indianapolis,True,4,
+679,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,True,4,
+680,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,True,4,
+681,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,True,4,
+682,Sacred Heart Parish,Archdiocese of Indianapolis,True,4,
+683,St. Agnes Parish,Archdiocese of Indianapolis,True,4,
+684,St. Ambrose Parish,Archdiocese of Indianapolis,True,4,
+685,St. Andrew the Apostle Parish,Archdiocese of Indianapolis,True,4,
+686,St. Ann Parish,Archdiocese of Indianapolis,True,4,
+687,St. Anne Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+688,St. Anne Parish,Archdiocese of Indianapolis,True,4,
+689,St. Anthony of Padua Parish,Archdiocese of Indianapolis,True,4,
+690,St. Anthony of Padua Parish,Archdiocese of Indianapolis,True,4,
+691,St. Anthony Parish,Archdiocese of Indianapolis,True,4,
+692,St. Augustine Parish,Archdiocese of Indianapolis,True,4,
+693,St. Augustine Parish,Archdiocese of Indianapolis,True,4,
+694,St. Barnabas Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+695,St. Bartholomew Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+696,St. Benedict Parish,Archdiocese of Indianapolis,True,4,
+697,St. Bernard Parish,Archdiocese of Indianapolis,True,4,
+698,St. Boniface Parish,Archdiocese of Indianapolis,True,4,
+699,St. Bridget of Ireland Parish,Archdiocese of Indianapolis,True,4,
+700,St. Catherine of Siena Parish (St. John the Evangelist Campus),Archdiocese of Indianapolis,True,4,
+701,St. Catherine of Siena Parish (St. Maurice Campus),Archdiocese of Indianapolis,True,4,
+702,St. Charles Borromeo Parish,Archdiocese of Indianapolis,True,4,
+703,St. Charles Borromeo Parish,Archdiocese of Indianapolis,True,4,
+704,St. Christopher Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+705,St. Elizabeth Ann Seton Parish (Holy Family Campus),Archdiocese of Indianapolis,True,4,
+706,St. Elizabeth Ann Seton Parish (St. Andrew Campus),Archdiocese of Indianapolis,True,4,
+707,St. Elizabeth Ann Seton Parish (St. Mary Campus),Archdiocese of Indianapolis,True,4,
+708,St. Elizabeth of Hungary Parish,Archdiocese of Indianapolis,True,4,
+709,St. Francis & Clare Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+710,St. Francis Xavier Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+711,St. Gabriel Parish,Archdiocese of Indianapolis,True,4,
+712,St. Gabriel the Archangel Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+713,St. Isidore the Farmer Parish,Archdiocese of Indianapolis,True,4,
+714,St. Joan of Arc Parish,Archdiocese of Indianapolis,True,4,
+715,St. John Paul II Parish,Archdiocese of Indianapolis,True,4,
+716,St. John the Apostle Parish,Archdiocese of Indianapolis,True,4,
+717,St. John the Baptist Parish,Archdiocese of Indianapolis,True,4,
+718,St. John the Baptist Parish,Archdiocese of Indianapolis,True,4,
+719,St. John the Evangelist Parish,Archdiocese of Indianapolis,True,4,
+720,St. Joseph Parish,Archdiocese of Indianapolis,True,4,
+721,St. Joseph Parish,Archdiocese of Indianapolis,True,4,
+722,St. Joseph Parish,Archdiocese of Indianapolis,True,4,
+723,St. Joseph Parish,Archdiocese of Indianapolis,True,4,
+724,St. Joseph Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+725,St. Joseph Parish,Archdiocese of Indianapolis,True,4,
+726,St. Joseph University Parish,Archdiocese of Indianapolis,True,4,
+727,St. Jude Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+728,St. Jude the Apostle Parish,Archdiocese of Indianapolis,True,4,
+729,St. Lawrence Parish,Archdiocese of Indianapolis,True,4,
+730,St. Lawrence Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+731,St. Louis Parish,Archdiocese of Indianapolis,True,4,
+732,St. Luke the Evangelist Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+733,St. Malachy Parish,Archdiocese of Indianapolis,True,4,
+734,St. Margaret Mary Parish,Archdiocese of Indianapolis,True,4,
+735,St. Mark Parish,Archdiocese of Indianapolis,True,4,
+736,St. Mark the Evangelist Parish,Archdiocese of Indianapolis,True,4,
+737,St. Martin of Tours Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+738,St. Mary (Immaculate Conception) Parish,Archdiocese of Indianapolis,True,4,
+739,St. Mary of the Annunciation Parish,Archdiocese of Indianapolis,True,4,
+740,St. Mary of the Immaculate Conception Parish,Archdiocese of Indianapolis,True,4,
+741,St. Mary Parish,Archdiocese of Indianapolis,True,4,
+742,St. Mary Parish,Archdiocese of Indianapolis,True,4,
+743,St. Mary Parish,Archdiocese of Indianapolis,True,4,
+744,St. Mary Parish,Archdiocese of Indianapolis,True,4,
+745,St. Mary Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+746,St. Mary Parish,Archdiocese of Indianapolis,True,4,
+747,St. Mary-of-the-Knobs Parish,Archdiocese of Indianapolis,True,4,
+748,St. Mary-of-the-Woods Parish,Archdiocese of Indianapolis,True,4,
+749,St. Matthew the Apostle Parish,Archdiocese of Indianapolis,True,4,
+750,St. Maurice Parish,Archdiocese of Indianapolis,True,4,
+751,St. Meinrad Parish,Archdiocese of Indianapolis,True,4,
+752,St. Michael Church,Archdiocese of Indianapolis,True,4,
+753,St. Michael Parish,Archdiocese of Indianapolis,True,4,
+754,St. Michael Parish,Archdiocese of Indianapolis,True,4,
+755,St. Michael Parish,Archdiocese of Indianapolis,True,4,
+756,St. Michael Parish,Archdiocese of Indianapolis,True,4,
+757,St. Michael the Archangel Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+758,St. Monica Parish,Archdiocese of Indianapolis,True,4,
+759,St. Nicholas Parish,Archdiocese of Indianapolis,True,4,
+760,St. Patrick Parish,Archdiocese of Indianapolis,True,4,
+761,St. Patrick Parish,Archdiocese of Indianapolis,True,4,
+762,St. Patrick Parish,Archdiocese of Indianapolis,True,4,
+763,St. Paul Catholic Center,Archdiocese of Indianapolis,True,4,
+764,St. Paul Parish,Archdiocese of Indianapolis,True,4,
+765,St. Paul the Apostle Parish,Archdiocese of Indianapolis,True,4,
+766,St. Peter,Archdiocese of Indianapolis,True,4,
+767,St. Peter & Paul Cathedral,Archdiocese of Indianapolis,True,4,
+768,St. Philip Neri Parish,Archdiocese of Indianapolis,True,4,
+769,St. Philomena & Cecilia Oratory,Archdiocese of Indianapolis,True,4,
+770,St. Pius V Parish,Archdiocese of Indianapolis,True,4,
+771,St. Pius X Parish,Archdiocese of Indianapolis,True,4,
+772,St. Rita Parish,Archdiocese of Indianapolis,True,4,
+773,St. Roch Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+774,St. Rose of Lima Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+775,St. Simon the Apostle Parish,Archdiocese of Indianapolis,True,4,
+776,St. Susanna Parish,Archdiocese of Indianapolis,True,4,
+777,St. Teresa Benedicta of the Cross Parish,Archdiocese of Indianapolis,True,4,
+778,St. Therese of the Infant Jesus (Little Flower) Parish,Archdiocese of Indianapolis,True,4,
+779,St. Thomas Aquinas Parish,Archdiocese of Indianapolis,True,4,
+780,St. Thomas More Parish,Archdiocese of Indianapolis,True,4,
+781,St. Thomas the Apostle Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+782,St. Vincent de Paul Parish,Archdiocese of Indianapolis,True,4,
+783,St. Vincent de Paul Parish,Archdiocese of Indianapolis,False,2,"n_social_links, attached_school"
+784,Blessed Sacrament,Diocese of Fort Wayne-South Bend,True,4,
+785,Cathedral of the Immaculate Conception,Diocese of Fort Wayne-South Bend,True,4,
+786,Christ the King,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+787,Corpus Christi,Diocese of Fort Wayne-South Bend,True,4,
+788,Holy Cross,Diocese of Fort Wayne-South Bend,True,4,
+789,Holy Family,Diocese of Fort Wayne-South Bend,True,4,
+790,"Immaculate Conception, Auburn",Diocese of Fort Wayne-South Bend,True,4,
+791,"Immaculate Conception, Kendallville",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+792,"Immaculate Conception, LaOtto",Diocese of Fort Wayne-South Bend,True,4,
+793,Most Precious Blood,Diocese of Fort Wayne-South Bend,True,4,
+794,Our Lady of Good Hope,Diocese of Fort Wayne-South Bend,True,4,
+795,Our Lady of Guadalupe,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+796,Our Lady of Hungary,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+797,Queen of Angels,Diocese of Fort Wayne-South Bend,True,4,
+798,Queen of Peace,Diocese of Fort Wayne-South Bend,True,4,
+799,Sacred Heart of Jesus,Diocese of Fort Wayne-South Bend,True,4,
+800,"Sacred Heart, Fort Wayne",Diocese of Fort Wayne-South Bend,True,4,
+801,"Sacred Heart, Notre Dame",Diocese of Fort Wayne-South Bend,True,4,
+802,"Sacred Heart, Warsaw",Diocese of Fort Wayne-South Bend,True,4,
+803,SS. Casimir and Adalbert,Diocese of Fort Wayne-South Bend,True,4,
+804,SS. Peter and Paul,Diocese of Fort Wayne-South Bend,True,4,
+805,St. Aloysius,Diocese of Fort Wayne-South Bend,True,4,
+806,St. Anthony de Padua,Diocese of Fort Wayne-South Bend,True,4,
+807,St. Anthony of Padua,Diocese of Fort Wayne-South Bend,True,4,
+808,St. Augustine,Diocese of Fort Wayne-South Bend,True,4,
+809,St. Bavo,Diocese of Fort Wayne-South Bend,True,4,
+810,St. Bernard,Diocese of Fort Wayne-South Bend,True,4,
+811,St. Catherine of Alexandria,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+812,St. Charles Borromeo,Diocese of Fort Wayne-South Bend,True,4,
+813,St. Dominic,Diocese of Fort Wayne-South Bend,True,4,
+814,St. Elizabeth Ann Seton,Diocese of Fort Wayne-South Bend,True,4,
+815,St. Francis Xavier,Diocese of Fort Wayne-South Bend,True,4,
+816,St. Gaspar del Bufalo,Diocese of Fort Wayne-South Bend,True,4,
+817,St. Henry,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+818,St. John Bosco,Diocese of Fort Wayne-South Bend,True,4,
+819,"St. John the Baptist, Fort Wayne",Diocese of Fort Wayne-South Bend,True,4,
+820,"St. John the Baptist, New Haven",Diocese of Fort Wayne-South Bend,True,4,
+821,"St. John the Baptist, South Bend",Diocese of Fort Wayne-South Bend,True,4,
+822,St. John the Evangelist,Diocese of Fort Wayne-South Bend,True,4,
+823,St. Joseph - Hessen Cassel,Diocese of Fort Wayne-South Bend,True,4,
+824,"St. Joseph, Bluffton",Diocese of Fort Wayne-South Bend,True,4,
+825,"St. Joseph, Fort Wayne",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+826,"St. Joseph, Garrett",Diocese of Fort Wayne-South Bend,True,4,
+827,"St. Joseph, LaGrange",Diocese of Fort Wayne-South Bend,True,4,
+828,"St. Joseph, Mishawaka",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+829,"St. Joseph, Roanoke",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+830,"St. Joseph, South Bend",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+831,"St. Jude, Fort Wayne",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+832,"St. Jude, South Bend",Diocese of Fort Wayne-South Bend,True,4,
+833,St. Louis Besancon,Diocese of Fort Wayne-South Bend,True,4,
+834,St. Martin de Porres,Diocese of Fort Wayne-South Bend,True,4,
+835,St. Mary,Diocese of Fort Wayne-South Bend,True,4,
+836,St. Mary Mother of God,Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+837,St. Mary of the Annunciation,Diocese of Fort Wayne-South Bend,True,4,
+838,"St. Mary of the Assumption, Avilla",Diocese of Fort Wayne-South Bend,True,4,
+839,"St. Mary of the Assumption, Decatur",Diocese of Fort Wayne-South Bend,True,4,
+840,St. Mary of the Lake,Diocese of Fort Wayne-South Bend,True,4,
+841,St. Mary of the Presentation,Diocese of Fort Wayne-South Bend,True,4,
+842,St. Matthew Cathedral,Diocese of Fort Wayne-South Bend,True,4,
+843,St. Michael,Diocese of Fort Wayne-South Bend,True,4,
+844,St. Michael the Archangel,Diocese of Fort Wayne-South Bend,True,4,
+845,St. Monica,Diocese of Fort Wayne-South Bend,True,4,
+846,St. Patrick-St. Hedwig,Diocese of Fort Wayne-South Bend,True,4,
+847,"St. Patrick, Arcola",Diocese of Fort Wayne-South Bend,True,4,
+848,"St. Patrick, Fort Wayne",Diocese of Fort Wayne-South Bend,False,2,"n_social_links, attached_school"
+849,"St. Patrick, Ligonier",Diocese of Fort Wayne-South Bend,True,4,
+850,"St. Patrick, Walkerton",Diocese of Fort Wayne-South Bend,True,4,
+851,St. Paul of the Cross,Diocese of Fort Wayne-South Bend,True,4,
+852,St. Paul Oratory,Diocese of Fort Wayne-South Bend,True,4,
+853,St. Peter,Diocese of Fort Wayne-South Bend,True,4,
+854,St. Pius X,Diocese of Fort Wayne-South Bend,True,4,
+855,St. Robert Bellarmine,Diocese of Fort Wayne-South Bend,True,4,
+856,St. Rose of Lima,Diocese of Fort Wayne-South Bend,True,4,
+857,St. Stanislaus Bishop and Martyr,Diocese of Fort Wayne-South Bend,True,4,
+858,St. Stanislaus Kostka,Diocese of Fort Wayne-South Bend,True,4,
+859,St. Therese,Diocese of Fort Wayne-South Bend,True,4,
+860,"St. Thérèse, Little Flower",Diocese of Fort Wayne-South Bend,True,4,
+861,St. Thomas the Apostle,Diocese of Fort Wayne-South Bend,True,4,
+862,"St. Vincent de Paul, Elkhart",Diocese of Fort Wayne-South Bend,True,4,
+863,"St. Vincent de Paul, Fort Wayne",Diocese of Fort Wayne-South Bend,True,4,

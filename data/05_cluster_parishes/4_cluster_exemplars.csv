@@ -1,0 +1,16 @@
+cluster,parish_index,name,diocese,county_population,county_median_age,n_social_links,attached_school,distance_to_centroid
+0,813,St. Dominic,Diocese of Fort Wayne-South Bend,46095.0,40.2,4.0,False,0.551365997508116
+0,337,Our Lady of the Angels Mission,Diocese of Tucson,47669.0,40.2,4.0,False,0.5542631298847636
+0,190,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,58799.0,42.3,3.0,False,0.5579791013574622
+1,800,"Sacred Heart, Fort Wayne",Diocese of Fort Wayne-South Bend,385410.0,36.2,0.0,False,0.36560529163019057
+1,178,Our Lady of the Snows Mission,Archdiocese of Anchorage-Juneau,291247.0,35.2,0.0,False,0.41675610398939306
+1,179,St. Andrew Kim Parish,Archdiocese of Anchorage-Juneau,291247.0,35.2,0.0,False,0.41675610398939306
+2,288,Saint Helen,Diocese of Tucson,425264.0,40.4,2.0,False,0.2836343019554136
+2,330,Our Lady of Grace,Diocese of Tucson,425264.0,40.4,2.0,False,0.2836343019554136
+2,333,Saint Helen of the Cross,Diocese of Tucson,425264.0,40.4,2.0,False,0.2836343019554136
+3,852,St. Paul Oratory,Diocese of Fort Wayne-South Bend,34435.0,42.8,0.0,False,0.46266735263245656
+3,19,Our Lady of Guadalupe Mission,Archdiocese of Mobile,25223.0,42.9,0.0,False,0.4975950605874494
+3,70,Immaculate Conception,Archdiocese of Mobile,38462.0,42.3,0.0,False,0.4979134674365748
+4,524,St. Mary of the Nativity Church,Diocese of Monterey,439035.0,35.0,4.0,False,0.49402790652833506
+4,180,St. Andrew Parish,Archdiocese of Anchorage-Juneau,291247.0,35.2,4.0,False,0.4989600567960317
+4,487,Carmel Mission Basilica,Diocese of Monterey,439035.0,35.0,3.0,False,0.5579994649176996

@@ -1,0 +1,81 @@
+target_parish_index,target_name,cluster,assignment_quality,imputed_features,n_available_peers,n_matches,match_status
+784,Blessed Sacrament,3,complete,,91,10,ok
+785,Cathedral of the Immaculate Conception,4,complete,,121,10,ok
+786,Christ the King,4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+787,Corpus Christi,4,complete,,121,10,ok
+788,Holy Cross,4,complete,,121,10,ok
+789,Holy Family,4,complete,,121,10,ok
+790,"Immaculate Conception, Auburn",0,complete,,100,10,ok
+791,"Immaculate Conception, Kendallville",0,provisional_imputed,"n_social_links, attached_school",101,10,ok
+792,"Immaculate Conception, LaOtto",3,complete,,91,10,ok
+793,Most Precious Blood,4,complete,,121,10,ok
+794,Our Lady of Good Hope,4,complete,,121,10,ok
+795,Our Lady of Guadalupe,0,provisional_imputed,"n_social_links, attached_school",101,10,ok
+796,Our Lady of Hungary,4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+797,Queen of Angels,1,complete,,127,10,ok
+798,Queen of Peace,1,complete,,127,10,ok
+799,Sacred Heart of Jesus,4,complete,,121,10,ok
+800,"Sacred Heart, Fort Wayne",1,complete,,127,10,ok
+801,"Sacred Heart, Notre Dame",1,complete,,127,10,ok
+802,"Sacred Heart, Warsaw",0,complete,,100,10,ok
+803,SS. Casimir and Adalbert,1,complete,,127,10,ok
+804,SS. Peter and Paul,0,complete,,100,10,ok
+805,St. Aloysius,4,complete,,121,10,ok
+806,St. Anthony de Padua,4,complete,,121,10,ok
+807,St. Anthony of Padua,0,complete,,100,10,ok
+808,St. Augustine,1,complete,,127,10,ok
+809,St. Bavo,1,complete,,127,10,ok
+810,St. Bernard,0,complete,,100,10,ok
+811,St. Catherine of Alexandria,0,provisional_imputed,"n_social_links, attached_school",101,10,ok
+812,St. Charles Borromeo,4,complete,,121,10,ok
+813,St. Dominic,0,complete,,100,10,ok
+814,St. Elizabeth Ann Seton,4,complete,,121,10,ok
+815,St. Francis Xavier,3,complete,,91,10,ok
+816,St. Gaspar del Bufalo,3,complete,,91,10,ok
+817,St. Henry,4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+818,St. John Bosco,3,complete,,91,10,ok
+819,"St. John the Baptist, Fort Wayne",1,complete,,127,10,ok
+820,"St. John the Baptist, New Haven",1,complete,,127,10,ok
+821,"St. John the Baptist, South Bend",4,complete,,121,10,ok
+822,St. John the Evangelist,4,complete,,121,10,ok
+823,St. Joseph - Hessen Cassel,1,complete,,127,10,ok
+824,"St. Joseph, Bluffton",0,complete,,100,10,ok
+825,"St. Joseph, Fort Wayne",4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+826,"St. Joseph, Garrett",0,complete,,100,10,ok
+827,"St. Joseph, LaGrange",4,complete,,121,10,ok
+828,"St. Joseph, Mishawaka",4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+829,"St. Joseph, Roanoke",0,provisional_imputed,"n_social_links, attached_school",101,10,ok
+830,"St. Joseph, South Bend",4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+831,"St. Jude, Fort Wayne",4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+832,"St. Jude, South Bend",1,complete,,127,10,ok
+833,St. Louis Besancon,4,complete,,121,10,ok
+834,St. Martin de Porres,3,complete,,91,10,ok
+835,St. Mary,0,complete,,100,10,ok
+836,St. Mary Mother of God,4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+837,St. Mary of the Annunciation,4,complete,,121,10,ok
+838,"St. Mary of the Assumption, Avilla",3,complete,,91,10,ok
+839,"St. Mary of the Assumption, Decatur",4,complete,,121,10,ok
+840,St. Mary of the Lake,0,complete,,100,10,ok
+841,St. Mary of the Presentation,1,complete,,127,10,ok
+842,St. Matthew Cathedral,1,complete,,127,10,ok
+843,St. Michael,0,complete,,100,10,ok
+844,St. Michael the Archangel,3,complete,,91,10,ok
+845,St. Monica,4,complete,,121,10,ok
+846,St. Patrick-St. Hedwig,1,complete,,127,10,ok
+847,"St. Patrick, Arcola",1,complete,,127,10,ok
+848,"St. Patrick, Fort Wayne",4,provisional_imputed,"n_social_links, attached_school",122,10,ok
+849,"St. Patrick, Ligonier",0,complete,,100,10,ok
+850,"St. Patrick, Walkerton",1,complete,,127,10,ok
+851,St. Paul of the Cross,0,complete,,100,10,ok
+852,St. Paul Oratory,3,complete,,91,10,ok
+853,St. Peter,4,complete,,121,10,ok
+854,St. Pius X,4,complete,,121,10,ok
+855,St. Robert Bellarmine,0,complete,,100,10,ok
+856,St. Rose of Lima,4,complete,,121,10,ok
+857,St. Stanislaus Bishop and Martyr,1,complete,,127,10,ok
+858,St. Stanislaus Kostka,4,complete,,121,10,ok
+859,St. Therese,4,complete,,121,10,ok
+860,"St. Thérèse, Little Flower",4,complete,,121,10,ok
+861,St. Thomas the Apostle,1,complete,,127,10,ok
+862,"St. Vincent de Paul, Elkhart",1,complete,,127,10,ok
+863,"St. Vincent de Paul, Fort Wayne",4,complete,,121,10,ok

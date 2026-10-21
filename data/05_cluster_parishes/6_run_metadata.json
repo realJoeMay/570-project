@@ -1,0 +1,99 @@
+{
+  "input_path": "data/04_extract_features/7_parish_features.csv",
+  "input_sha256": "b13fc00b5621ed069bffb624f0d5187bd340a40ce13f4505afb81095ac690c92",
+  "target_diocese": "Diocese of Fort Wayne-South Bend",
+  "top_n": 10,
+  "features": [
+    "county_population",
+    "county_median_age",
+    "n_social_links",
+    "attached_school"
+  ],
+  "model_features": [
+    "log_county_population",
+    "county_median_age",
+    "log_n_social_links",
+    "attached_school"
+  ],
+  "transforms": {
+    "county_population": "log1p then standardize",
+    "county_median_age": "standardize",
+    "n_social_links": "log1p then standardize",
+    "attached_school": "0/1, no standardization"
+  },
+  "fit_population": "complete cases only; parish weighted",
+  "missing_targets": "training continuous medians and school mode; provisional assignment",
+  "candidate_peers": "complete reference members in the same cluster, excluding self",
+  "selected_k": 5,
+  "tested_k": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "seeds": [
+    42,
+    7,
+    21,
+    83,
+    101
+  ],
+  "n_init": 20,
+  "minimum_reference_cluster_size": 22,
+  "minimum_stability_ari": 0.9,
+  "silhouette_tolerance": 0.02,
+  "selected_metrics": {
+    "silhouette": 0.26475289753662,
+    "davies_bouldin": 1.2035638650081557,
+    "inertia": 748.333344183648,
+    "min_cluster_size": 92,
+    "max_cluster_size": 146,
+    "mean_seed_ari": 0.9978241298636259,
+    "min_seed_ari": 0.9912965194545037,
+    "peer_pool_ok": true,
+    "stable": true,
+    "near_best_silhouette": false,
+    "shortlisted": false
+  },
+  "selection_reason": "Selected k=2 from current feasible candidates by highest silhouette; ties favor lower Davies-Bouldin, then fewer clusters. The selected count is in the near-best silhouette shortlist.",
+  "requested_k": null,
+  "n_input_parishes": 864,
+  "n_reference_parishes": 589,
+  "n_targets": 80,
+  "n_matches": 800,
+  "interpretation_diagnostics": {
+    "feature_separation": [
+      {
+        "model_feature": "log_county_population",
+        "explained_variance_fraction": 0.6161633995393117
+      },
+      {
+        "model_feature": "county_median_age",
+        "explained_variance_fraction": 0.5824673059542207
+      },
+      {
+        "model_feature": "log_n_social_links",
+        "explained_variance_fraction": 0.7252457422820546
+      },
+      {
+        "model_feature": "attached_school",
+        "explained_variance_fraction": 0.07221988687371306
+      }
+    ],
+    "same_county_pair_share": 0.2,
+    "zero_distance_pairs": 73,
+    "negative_reference_silhouette_share": 0.022071307300509338
+  },
+  "n_provisional_targets": 13,
+  "versions": {
+    "python": "3.11.7",
+    "pandas": "2.1.4",
+    "numpy": "1.26.4",
+    "scikit_learn": "1.2.2"
+  }
+}

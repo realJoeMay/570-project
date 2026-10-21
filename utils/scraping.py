@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 from hashlib import sha256
 from urllib.parse import urljoin, urlparse
@@ -13,6 +14,9 @@ from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 from bs4 import BeautifulSoup
 from dotenv import dotenv_values
+
+
+PARISH_COLUMNS = ["name", "address", "site_url", "diocese", "category", "parish_list_url"]
 
 
 def get_cache_dir(cache_dir: str | Path | None = None) -> Path:
@@ -31,10 +35,12 @@ def get_page(
     cache_dir: str | Path | None = None,
     *,
     fetch_sources: list[str] | None = None,
+    cache_only: bool = False,
 ) -> tuple[bytes, str]:
     """Read cached HTML, or download and cache a successful response.
 
     Optionally record whether each fetch uses the cache or the web.
+    With cache_only=True, raise FileNotFoundError rather than downloading.
     """
     cache_dir = get_cache_dir(cache_dir)
     cache_dir.mkdir(parents=True, exist_ok=True)
@@ -48,6 +54,9 @@ def get_page(
         # Preserve the final URL after redirects for relative website links.
         page_url = url_path.read_text(encoding="utf-8") if url_path.is_file() else url
         return html_path.read_bytes(), page_url
+
+    if cache_only:
+        raise FileNotFoundError(f"No cached HTML for {url}")
 
     if fetch_sources is not None:
         fetch_sources.append("web")
@@ -95,9 +104,17 @@ def get_page(
         parser = robotparser.RobotFileParser()
         parser.set_url(urljoin(origin, "/robots.txt"))
         try:
-            parser.read()
-        except Exception:
-            # If robots.txt cannot be fetched/parsed, default to permissive behavior
+            # Use the same User-Agent as page requests. Some sites reject the
+            # default urllib agent even though their published rules allow us.
+            robots_response = session.get(parser.url, timeout=30)
+            if robots_response.status_code in {401, 403}:
+                parser.disallow_all = True
+            elif 400 <= robots_response.status_code < 500:
+                parser.allow_all = True
+            else:
+                robots_response.raise_for_status()
+                parser.parse(robots_response.text.splitlines())
+        except requests.RequestException:
             pass
         _robots_parsers[origin] = parser
 
@@ -171,6 +188,22 @@ def scrape_parishes(
     url: str,
     cache_dir: str | Path | None = None,
 ) -> pd.DataFrame:
+    """Dispatch supported directories while preserving the shared output schema.
+
+    Fort Wayne-South Bend has its own finder; other existing directory callers
+    continue to use the eCatholic scraper.
+    """
+    hostname = (urlparse(url).hostname or "").lower().rstrip(".").removeprefix("www.")
+    scraper = scrape_fwsb_parishes if hostname == "diocesefwsb.org" else scrape_ecatholic_parishes
+    return scraper(diocese, url, cache_dir=cache_dir)
+
+
+def scrape_ecatholic_parishes(
+    diocese: str,
+    url: str,
+    cache_dir: str | Path | None = None,
+) -> pd.DataFrame:
+    """Scrape directory entries from the eCatholic parish-finder markup."""
     html, page_url = get_page(url, cache_dir=cache_dir)
     soup = BeautifulSoup(html, "html.parser")
     parishes = []
@@ -200,7 +233,73 @@ def scrape_parishes(
 
     if not parishes:
         raise ValueError(f"No parish directory entries found for {diocese}: {url}")
-    return pd.DataFrame(parishes).drop_duplicates().reset_index(drop=True)
+    return pd.DataFrame(parishes, columns=PARISH_COLUMNS).drop_duplicates().reset_index(drop=True)
+
+
+def scrape_fwsb_parishes(
+    diocese: str,
+    url: str = "https://diocesefwsb.org/find?show=parish",
+    cache_dir: str | Path | None = None,
+) -> pd.DataFrame:
+    """Scrape parish cards and their website links from the FWSB finder.
+
+    The server sends schools and ministries even with show=parish, so filter
+    explicitly. Finder cards link to diocesan detail pages, not parish websites;
+    read each cached/downloaded detail's Contact/Website field for site_url.
+    Missing websites stay empty. Request or structural parsing failures stop
+    the run, consistent with the eCatholic scraper.
+    """
+    html, page_url = get_page(url, cache_dir=cache_dir)
+    soup = BeautifulSoup(html, "html.parser")
+    entries = soup.select('.finder-entry[data-category="parish"]')
+    if not entries:
+        raise ValueError(f"No FWSB parish directory entries found for {diocese}: {url}")
+    parishes = []
+    seen_details = set()
+    directory_host = (urlparse(page_url).hostname or "").lower().removeprefix("www.")
+    for entry in entries:
+        name_element = entry.select_one(".finder-entry-title")
+        name = (entry.get("data-title") or (name_element.get_text(" ", strip=True) if name_element else "")).strip()
+        if not name:
+            raise ValueError(f"Missing directory entry name for {diocese}: {url}")
+        link = entry.select_one("a.finder-entry-link[href]")
+        href = (entry.get("data-url") or (link["href"] if link else "")).strip()
+        detail_url = urljoin(page_url, href)
+        detail_parts = urlparse(detail_url)
+        if (
+            not href or detail_parts.scheme not in {"http", "https"}
+            or (detail_parts.hostname or "").lower().removeprefix("www.") != directory_host
+            or not detail_parts.path.startswith("/parishes/")
+        ):
+            raise ValueError(f"Missing or invalid parish detail URL for {name}: {href}")
+        if detail_url in seen_details:
+            continue
+        seen_details.add(detail_url)
+        detail_html, final_detail_url = get_page(detail_url, cache_dir=cache_dir)
+        detail = BeautifulSoup(detail_html, "html.parser")
+        contact_heading = next((h for h in detail.find_all("h2") if h.get_text(strip=True).casefold() == "contact"), None)
+        if not detail.find("h1") or contact_heading is None:
+            raise ValueError(f"Missing parish detail content for {name}: {detail_url}")
+        contact = contact_heading.parent
+        website_heading = next((h for h in contact.find_all("h3") if h.get_text(strip=True).casefold() == "website"), None)
+        website = website_heading.parent.select_one("a[href]") if website_heading else None
+        site_url = urljoin(final_detail_url, website["href"].strip()) if website and website["href"].strip() else ""
+        if site_url and (urlparse(site_url).scheme not in {"http", "https"} or not urlparse(site_url).hostname):
+            raise ValueError(f"Invalid parish website URL for {name}: {site_url}")
+        address = entry.get("data-address", "").strip()
+        if not address:
+            address_heading = next((h for h in contact.find_all("h3") if h.get_text(strip=True).casefold() == "address"), None)
+            address_text = address_heading.parent.find("p") if address_heading else None
+            address = address_text.get_text(", ", strip=True) if address_text else ""
+        # Keep the church address ahead of explicitly labeled secondary offices/mail.
+        address = re.split(r"\b(?:mailing|office)\s+address\s*:", address, maxsplit=1, flags=re.IGNORECASE)[0]
+        address = ", ".join(part.strip() for part in address.split(",") if part.strip())
+        parishes.append({
+            "name": name, "address": address, "site_url": site_url,
+            "diocese": diocese, "category": "Parish", "parish_list_url": url,
+        })
+        print(f"FWSB {len(parishes)}/{len(entries)}: {name}", flush=True)
+    return pd.DataFrame(parishes, columns=PARISH_COLUMNS).drop_duplicates().reset_index(drop=True)
 
 
 def _selenium_fetch(url: str, user_agent: str | None = None) -> Tuple[bytes, str]:

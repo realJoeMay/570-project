@@ -1,0 +1,865 @@
+parish_index,name,diocese,site_url,homepage_url,homepage_status,homepage_link_count,external_link_count,error
+0,Father Purcell Memorial Center for Exceptional Children,Archdiocese of Mobile,https://fatherpurcell.org/,https://fatherpurcell.org/,ok,7,2,
+1,Holy Spirit Catholic Parish,Archdiocese of Mobile,https://holyspiritmgm.org/,https://holyspiritmgm.org/,ok,44,7,
+2,Blessed Francis Xavier Seelos Parish,Archdiocese of Mobile,https://francisxseelos.org/,https://francisxseelos.org/,ok,51,15,
+3,Chapel of Our Lady of Bon Secour,Archdiocese of Mobile,https://www.stjohnms.com/our-lady-of-bon-secour,,cache_missing,,,No cached homepage HTML for https://www.stjohnms.com/our-lady-of-bon-secour
+4,Christ the King Catholic Church,Archdiocese of Mobile,https://ctkdaphne.org/,https://ctkdaphne.org/,ok,150,31,
+5,Our Lady of the Gulf Catholic Church,Archdiocese of Mobile,https://olgal.org/,https://olgal.org/,ok,101,12,
+6,Shrine of the Holy Cross & St. John Mission,Archdiocese of Mobile,https://shrineoftheholycross.org/,https://shrineoftheholycross.org/,ok,36,8,
+7,St Robert Bellarmine Catholic Church,Archdiocese of Mobile,https://strobertatmore.com/,https://strobertatmore.com/,ok,48,7,
+8,St. Agatha Parish,Archdiocese of Mobile,https://stagathabm.com/,https://stagathabm.com/,ok,19,2,
+9,St. Bartholomew,Archdiocese of Mobile,https://stbartselberta.org/,https://stbartselberta.org/,ok,22,5,
+10,St. John the Baptist Parish,Archdiocese of Mobile,https://www.stjohnms.com/,https://stjohnms.com/,ok,27,4,
+11,St. Joseph Catholic Church,Archdiocese of Mobile,https://saint-josephs.org/,https://saint-josephs.org/,ok,34,4,
+12,St. Lawrence Parish,Archdiocese of Mobile,http://www.stlawrencefairhope.com,https://www.stlawrencefairhope.com/,ok,22,2,
+13,St. Margaret of Scotland Parish,Archdiocese of Mobile,http://www.stmargaretofscotlandfoley.org,http://StMargaretofScotlandfoley.com,ok,18,18,
+14,St. Maurice Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+15,St. Patrick Parish,Archdiocese of Mobile,https://stpatcatholic.com/,https://stpatcatholic.com/,ok,75,6,
+16,St. Thomas by the Sea Catholic Church,Archdiocese of Mobile,https://stthomasbythesea.com/,https://stthomasbythesea.com/,ok,46,8,
+17,Christ the King Parish,Archdiocese of Mobile,https://www.ctkandalusia.com/,,cache_missing,,,No cached homepage HTML for https://www.ctkandalusia.com/
+18,Holy Redeemer Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+19,Our Lady of Guadalupe Mission,Archdiocese of Mobile,https://holytrinityal.org/our-lady-of-guadalupe.html,https://www.holytrinityal.org/our-lady-of-guadalupe.html,ok,8,0,
+20,St. Columba Catholic Church,Archdiocese of Mobile,https://stcolumbacatholic.com/,https://stcolumbacatholic.com/,ok,96,6,
+21,St. John Parish,Archdiocese of Mobile,https://sjccozark.weconnect.com/,https://sjccozark.weconnect.com/,ok,0,0,
+22,St. John the Evangelist Parish,Archdiocese of Mobile,http://www.stjohnenterprise.org,https://www.stjohnenterprise.org/,ok,11,3,
+23,St. Joseph Parish,Archdiocese of Mobile,http://www.holytrinityal.org,https://www.holytrinityal.org/index.html,ok,10,1,
+24,St. Martin of Tours Parish,Archdiocese of Mobile,https://www.stmartintroy.com/,https://www.stmartintroy.com/,ok,13,4,
+25,St. Mary Mission,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+26,St. Pius X Mission,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+27,Annunciation Parish,Archdiocese of Mobile,https://annunciationmonroeville.org/,https://annunciationmonroeville.org/,ok,14,4,
+28,Cathedral-Basilica of the Immaculate Conception,Archdiocese of Mobile,https://mobilecathedral.org/,https://mobilecathedral.org/,ok,46,15,
+29,Corpus Christi Parish,Archdiocese of Mobile,https://corpuschristiparish.com/,https://corpuschristiparish.com/,ok,52,9,
+30,Holy Family Parish,Archdiocese of Mobile,https://holyfamilymobile.com/,https://holyfamilymobile.com/,ok,13,3,
+31,Holy Name of Jesus Parish,Archdiocese of Mobile,https://www.hnjcatholic.com/,https://www.hnjcatholic.com/,ok,20,4,
+32,Little Flower Parish,Archdiocese of Mobile,https://littleflowermobile.com/,https://littleflowermobile.com/,ok,45,11,
+33,Most Pure Heart of Mary Catholic Church,Archdiocese of Mobile,https://mostpureheartofmarymobile.org/,https://mostpureheartofmarymobile.org/,ok,33,8,
+34,Our Lady of Lourdes Parish,Archdiocese of Mobile,https://ourladyoflourdesparish.com/,https://ourladyoflourdesparish.com/,ok,18,6,
+35,Our Lady of Sorrows Mission,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+36,Our Mother of Mercy Parish,Archdiocese of Mobile,https://ourmotherofmercymobile.org/,https://ourmotherofmercymobile.org/,ok,22,6,
+37,Our Savior Parish,Archdiocese of Mobile,https://oursaviorparish.org/,https://oursaviorparish.org/,ok,63,5,
+38,Prince of Peace Parish,Archdiocese of Mobile,https://popcatholicmobile.org/,https://popcatholicmobile.org/,ok,75,6,
+39,Sacred Heart of Jesus Catholic Student Center (USA),Archdiocese of Mobile,https://csajags.com/,https://csajags.com/,ok,50,14,
+40,Sacred Heart Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+41,St. Bridget Parish,Archdiocese of Mobile,https://stthomastheapostlecatholicchurch.com/wordpress/st-bridget/,https://stthomastheapostlecatholicchurch.com/wordpress/st-bridget/,ok,29,6,
+42,St. Catherine of Siena Catholic Church,Archdiocese of Mobile,https://stcatherinemobile.org/,https://stcatherinemobile.org/,ok,28,2,
+43,St. Cecilia Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+44,St. Dominic Parish,Archdiocese of Mobile,http://www.stdominicmobile.org,https://www.stdominicmobile.org/,ok,26,3,
+45,St. Edmund By the Sea Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+46,St. Francis Xavier Parish,Archdiocese of Mobile,https://stfrancisxaviermobile.org/,https://stfrancisxaviermobile.org/,ok,18,3,
+47,St. Ignatius Parish,Archdiocese of Mobile,https://stignatiusmobile.org/,https://stignatiusmobile.org/,ok,94,11,
+48,St. James Major Parish,Archdiocese of Mobile,https://stjamesmajor.org/,https://stjamesmajor.org/,ok,21,2,
+49,St. Joan of Arc Parish,Archdiocese of Mobile,http://www.stjoanofarcmobile.com,https://stjoanofarcmobile.com/,ok,11,6,
+50,St. John the Baptist Catholic Church,Archdiocese of Mobile,https://stjohngrandbay.org/,https://stjohngrandbay.org/,ok,37,5,
+51,St. John the Evangelist Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+52,St. Joseph Mission,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+53,St. Joseph Parish (Maysville),Archdiocese of Mobile,http://www.stjosephmaysville.org,https://www.stjosephmaysville.org/,ok,17,9,
+54,St. Margaret Parish,Archdiocese of Mobile,https://stmargaretbayoulabatre.org/,https://stmargaretbayoulabatre.org/,ok,32,4,
+55,St. Mary Parish,Archdiocese of Mobile,http://www.stmarymobile.org,https://www.stmarymobile.org/,ok,35,9,
+56,St. Matthew Catholic Parish,Archdiocese of Mobile,https://stmatthewsmobile.com/,https://stmatthewsmobile.com/,ok,12,3,
+57,St. Michael Mission,Archdiocese of Mobile,https://stsphilipandmichael.com/,https://stsphilipandmichael.com/,ok,20,8,
+58,St. Monica Parish,Archdiocese of Mobile,https://stmonicamobile.org/,https://stmonicamobile.org/,ok,28,5,
+59,St. Peter the Apostle Parish & Our Lady of Sorrows Mission,Archdiocese of Mobile,https://stpetertheapostlechurch.com/,https://stpetertheapostlechurch.com/,ok,20,5,
+60,St. Philip Neri Parish,Archdiocese of Mobile,https://stsphilipandmichael.com/,https://stsphilipandmichael.com/,ok,20,8,
+61,St. Pius X Parish,Archdiocese of Mobile,http://spxmobile.com,https://www.spxmobile.com/,ok,34,5,
+62,St. Rose Of Lima Parish,Archdiocese of Mobile,http://www.stroseonmonlouis.com,,cache_missing,,,No cached homepage HTML for http://www.stroseonmonlouis.com
+63,St. Theresa Catholic Church,Archdiocese of Mobile,https://sttheresacatholic.com/,https://sttheresacatholic.com/,ok,16,5,
+64,St. Thomas Aquinas Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+65,St. Thomas the Apostle Parish,Archdiocese of Mobile,http://stthomastheapostlecatholicchurch.com,https://stthomastheapostlecatholicchurch.com/wordpress/,ok,29,4,
+66,St. Vincent de Paul Parish,Archdiocese of Mobile,https://svdpmobile.com/,https://svdpmobile.com/,ok,41,6,
+67,Auburn+Catholic Campus Ministry,Archdiocese of Mobile,https://aucatholic.org/,https://aucatholic.org/,ok,39,6,
+68,City of St. Jude,Archdiocese of Mobile,http://www.cityofstjude.org,https://www.cityofstjude.org/,ok,31,10,
+69,Holy Spirit Parish,Archdiocese of Mobile,http://www.holyspiritmgm.org,https://www.holyspiritmgm.org/,ok,44,7,
+70,Immaculate Conception,Archdiocese of Mobile,https://icorrville.com/,https://icorrville.com/,ok,16,9,
+71,Our Lady of Guadalupe Parish,Archdiocese of Mobile,http://ologchurch.org,,cache_missing,,,No cached homepage HTML for http://ologchurch.org
+72,Our Lady Queen of Mercy Catholic Church,Archdiocese of Mobile,https://olqm.org/,https://olqm.org/,ok,25,8,
+73,Our Lady Queen of Peace,Archdiocese of Mobile,https://qpselma.com/,https://qpselma.com/,ok,18,9,
+74,Resurrection Parish,Archdiocese of Mobile,http://www.rcmsouth.org,https://www.rcmsouth.org/,ok,50,12,
+75,Saint Michael the Archangel Parish,Archdiocese of Mobile,https://stmichaelsauburn.com/,https://stmichaelsauburn.com/,ok,168,13,
+76,St Joseph,Archdiocese of Mobile,https://stjoseph-tuskegee.org/,https://stjoseph-tuskegee.org/,ok,29,9,
+77,St Vincent De Paul Catholic Parish,Archdiocese of Mobile,https://stvincent-tallassee.com/,https://stvincent-tallassee.com/,ok,43,10,
+78,St. Andrew Kim Taegon Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+79,St. Bede the Venerable Parish,Archdiocese of Mobile,http://stbede.org,https://stbede.org/,ok,29,10,
+80,St. Elizabeth Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+81,St. John the Baptist Parish,Archdiocese of Mobile,,,missing_url,,,Invalid parish homepage URL: 
+82,St. Joseph Parish,Archdiocese of Mobile,http://www.stjosephprattville.org,https://www.stjosephprattville.org/,ok,34,4,
+83,St. Mary Catholic Church,Archdiocese of Mobile,https://stmaryopelika.org/,https://stmaryopelika.org/,ok,34,5,
+84,St. Peter Catholic Parish,Archdiocese of Mobile,https://stpetermontgomery.com/,https://stpetermontgomery.com/,ok,44,5,
+85,St. Vincent De Paul Parish,Archdiocese of Mobile,http://stvincent-tallassee.org,,cache_missing,,,No cached homepage HTML for http://stvincent-tallassee.org
+86,Corpus Christi,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+87,All Saints Catholic Church,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+88,Sacred Heart of Jesus,Diocese of Birmingham,https://sacredheartanniston.org,https://sacredheartanniston.org/,ok,28,15,
+89,St. Charles Borromeo,Diocese of Birmingham,https://stcharlescatholicchurch.com,https://www.stcharlescatholicchurch.com/,ok,13,2,
+90,St. Joachim,Diocese of Birmingham,https://stcharlescatholicchurch.com,https://www.stcharlescatholicchurch.com/,ok,13,2,
+91,Holy Family,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+92,St. Michael the Archangel,Diocese of Birmingham,https://stmichaelcatholicchurchdotcom.wordpress.com/,https://stmichaelcatholicchurchdotcom.wordpress.com/,ok,13,7,
+93,Resurrection,Diocese of Birmingham,https://resurrection-catholic-church.com/,,cache_missing,,,No cached homepage HTML for https://resurrection-catholic-church.com/
+94,St. Mark,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+95,Our Lady of Shoals,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+96,Sacred Heart of Jesus,Diocese of Birmingham,https://sacredheartchurchcullman.org,https://www.sacredheartchurchcullman.org/,ok,85,17,
+97,St. Boniface,Diocese of Birmingham,https://sacredheartchurchcullman.org,https://www.sacredheartchurchcullman.org/,ok,85,17,
+98,Our Lady of the Valley,Diocese of Birmingham,https://olvfortpayne.com,https://olvfortpayne.com/,ok,67,11,
+99,St.James,Diocese of Birmingham,https://www.sjccgadsden.org/,https://www.sjccgadsden.org/,ok,22,3,
+100,Holy Family,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+101,Good Shepherd,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+102,St. Mary,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+103,St.Jude,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+104,Blessed Sacrament,Diocese of Birmingham,http://www.myblessedsacrament.org,https://www.myblessedsacrament.org/,ok,13,3,
+105,Cathedral of St. Paul,Diocese of Birmingham,http://www.stpaulsbhm.org,https://stpaulsbhm.org/,ok,69,16,
+106,Holy Family,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+107,Holy Infant of Prague,Diocese of Birmingham,https://www.hiopcc.org/,https://www.hiopcc.org/,ok,49,14,
+108,Holy Rosary,Diocese of Birmingham,https://www.holyrosarybirmingham.org/,https://www.holyrosarybirmingham.org/,ok,27,8,
+109,Our Lady of Fatima,Diocese of Birmingham,https://olfbirmingham.org,https://olfbirmingham.org/,ok,57,11,
+110,Our Lady of La Vang-Vietnamese Parish@ St.John Bosco Church,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+111,Our Lady of Lourdes,Diocese of Birmingham,https://OLLCatholicChurch.org,,cache_missing,,,No cached homepage HTML for https://OLLCatholicChurch.org
+112,Our Lady of Sorrows,Diocese of Birmingham,http://www.ourladyofsorrows.com/,https://www.ourladyofsorrows.com/,ok,80,14,
+113,Our Lady Queen of the Universe,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+114,Prince of Peace,Diocese of Birmingham,https://popcatholic.org,https://www.popcatholic.org/,ok,58,19,
+115,Sacred Heart of Jesus,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+116,St. Barnabas,Diocese of Birmingham,https://stbarnabasbhm.com/,https://stbarnabasbhm.com/,ok,36,13,
+117,St. Elias(Maronite Rite),Diocese of Birmingham,https://stelias.org,https://stelias.org/,ok,25,6,
+118,St. Francis of Assisi,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+119,St. Francis Xavier,Diocese of Birmingham,https://sfxbirmingham.com,https://www.sfxbirmingham.com/,ok,74,12,
+120,St. George the Great Martyr(Melkite Rite),Diocese of Birmingham,https://saintgeorgeonline.org,https://www.saintgeorgeonline.org/,ok,41,5,
+121,St. Joseph,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+122,St. Luke Hwang,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+123,St. Mary,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+124,St. Patrick,Diocese of Birmingham,http://www.saintpatrickcc.com/,https://www.saintpatrickcc.com/,ok,56,4,
+125,St. Stanislaus,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+126,St. Stephen the Martyr Catholic University Chapel,Diocese of Birmingham,https://ststsbhm.org,,cache_missing,,,No cached homepage HTML for https://ststsbhm.org
+127,St. Theresa of the Child Jesus,Diocese of Birmingham,https://sttheresaleeds.org,https://sttheresaleeds.org/,ok,8,1,
+128,St.Aloysius,Diocese of Birmingham,https:// staloysiuscc.org,,cache_missing,,,No cached homepage HTML for https:// staloysiuscc.org
+129,St.Elizabeth Ann Seton,Diocese of Birmingham,https://seagardendale.org,,cache_missing,,,No cached homepage HTML for https://seagardendale.org
+130,St.Henry,Diocese of Birmingham,https://sthenrywarrior.org,https://www.sthenrywarrior.org/,ok,17,4,
+131,St.Peter the Apostle,Diocese of Birmingham,https://stpeterapostle.com,https://www.stpeterapostle.com/,ok,26,13,
+132,St. Joseph,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+133,St. Michael's,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+134,Resurrection Catholic Chapel,Diocese of Birmingham,https://www.moultoncatholics.org,https://www.moultoncatholics.org/,ok,31,7,
+135,Most Merciful Jesus,Diocese of Birmingham,http://mostmercifuljesuschurch.org,https://www.mostmercifuljesuschurch.org/,ok,40,13,
+136,St. Paul,Diocese of Birmingham,https://stpaulcatholicchurchathens.org,,cache_missing,,,No cached homepage HTML for https://stpaulcatholicchurchathens.org
+137,Good Shepherd,Diocese of Birmingham,https://goodshephsv.org,https://www.goodshephsv.org/,ok,28,5,
+138,Holy Spirit,Diocese of Birmingham,https://holyspirithsv.com/,https://holyspirithsv.com/,ok,33,8,
+139,Huntsville Korean Community,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+140,Our Lady Queen of the Universe,Diocese of Birmingham,http:// olqu.org,,cache_missing,,,No cached homepage HTML for http:// olqu.org
+141,"Our Lady, Help of Christians",Diocese of Birmingham,https://ourladyhelpofchristians-al.org,https://ourladyhelpofchristians-al.org/,ok,15,5,
+142,St. John the Baptist,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+143,St. Joseph,Diocese of Birmingham,https://saintjosephcc.com,https://saintjosephcc.com/,ok,75,10,
+144,St. Mary of the Visitation,Diocese of Birmingham,https://smvparish.org,https://www.smvparish.com/,ok,16,2,
+145,St. Leo the Great,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+146,Holy Spirit,Diocese of Birmingham,http://our3churches.com,,cache_missing,,,No cached homepage HTML for http://our3churches.com
+147,Chapel of the Holy Cross,Diocese of Birmingham,https://st.williamchurch.com,,cache_missing,,,No cached homepage HTML for https://st.williamchurch.com
+148,St. William,Diocese of Birmingham,https://stwilliamchurch.com,https://stwilliamchurch.com/,ok,52,27,
+149,Annunciation of the Lord,Diocese of Birmingham,http://annunlord.com,https://annunlord.com/,ok,25,3,
+150,St. Robert Bellarmine,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+151,Immaculate Conception,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+152,Our Lady of the Valley,Diocese of Birmingham,https://www.olvchurchbirmingham.com,https://www.olvchurchbirmingham.com/,ok,58,13,
+153,St. Mark the Evangelist,Diocese of Birmingham,https://stmarkrc.org/,https://www.stmarkrc.org/,ok,50,7,
+154,St. Thomas the Apostle,Diocese of Birmingham,https://stthomascatholic.com,https://www.stthomascatholic.com/,ok,45,14,
+155,Our Lady of the Lake,Diocese of Birmingham,https://ollpellcity.com,https://ollpellcity.com/,ok,70,23,
+156,St. Francis of Assisi,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+157,Holy Name of Jesus,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+158,St. Francis of Assisi,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+159,St.Jude,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+160,St. John the Apostle,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+161,Holy Spirit,Diocese of Birmingham,http://hschurch.com,https://www.hschurch.com/,ok,46,5,
+162,St. Francis of Assisi University Parish,Diocese of Birmingham,https://stfrancisuofa.com/,https://stfrancisuofa.com/,ok,35,6,
+163,St. John the Baptist,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+164,St. Cecilia,Diocese of Birmingham,http://www.stceciliajasper.com,https://www.stceciliajasper.com/,ok,65,8,
+165,Our Lady of Guadalupe,Diocese of Birmingham,,,missing_url,,,Invalid parish homepage URL: 
+166,Co-Cathedral of the Nativity of the Blessed Virgin Mary,Archdiocese of Anchorage-Juneau,https://juneaucathedralbvm.org/,https://juneaucathedralbvm.org/,ok,39,10,
+167,National Shrine of St. Therese,Archdiocese of Anchorage-Juneau,http://www.shrineofsainttherese.org/,https://www.shrineofsainttherese.org/,ok,47,8,
+168,St. Paul the Apostle,Archdiocese of Anchorage-Juneau,https://stpaulsjuneau.org/,https://stpaulsjuneau.org/,ok,22,3,
+169,Arctic Warrior Chapel,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+170,Midnight Sun Chapel,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+171,Our Lady Star of the Sea,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+172,Cathedral of Our Lady of Guadalupe,Archdiocese of Anchorage-Juneau,http://www.olgakcocathedral.org/,https://olgak.org/,ok,32,4,
+173,Holy Cross Parish,Archdiocese of Anchorage-Juneau,http://www.holycrossalaska.net/,https://www.holycrossalaska.net/,ok,30,7,
+174,Holy Family Parish,Archdiocese of Anchorage-Juneau,https://holyfamilyalaska.org,https://holyfamilyalaska.org/,ok,56,9,
+175,Holy Spirit Center,Archdiocese of Anchorage-Juneau,http://www.holyspiritcenterak.org/,https://www.holyspiritcenterak.org/,ok,7,1,
+176,"Monastery, Sisters of Perpetual Adoration",Archdiocese of Anchorage-Juneau,https://blessedsacramentmonastery.org,https://blessedsacramentmonastery.org/,ok,14,2,
+177,Our Lady of Providence Chapel,Archdiocese of Anchorage-Juneau,http://alaska.providence.org/about-us/mission/spiritualcare,https://www.providence.org/locations/ak/alaska-medical-center/chapel-and-spiritual-care,ok,83,8,
+178,Our Lady of the Snows Mission,Archdiocese of Anchorage-Juneau,http://www.chapelourladyofthesnows.org,http://chapelourladyofthesnows.org/,ok,14,2,
+179,St. Andrew Kim Parish,Archdiocese of Anchorage-Juneau,http://www.alaskakcc.com,https://www.alaskakcc.com/,ok,51,0,
+180,St. Andrew Parish,Archdiocese of Anchorage-Juneau,http://www.aksaintandrews.org,https://www.aksaintandrews.org/,ok,130,19,
+181,St. Anthony Parish,Archdiocese of Anchorage-Juneau,https://www.stanthonyak.org,https://www.stanthonyak.org/,ok,28,3,
+182,St. Benedict Parish,Archdiocese of Anchorage-Juneau,http://www.stbenedictsak.com,https://www.stbenedictsak.com/,ok,72,25,
+183,St. Elizabeth Ann Seton Parish,Archdiocese of Anchorage-Juneau,http://www.akseas.net,https://www.akseas.net/,ok,41,10,
+184,St. Patrick Parish,Archdiocese of Anchorage-Juneau,http://www.st.patsak.org,https://www.st.patsak.org/,ok,71,21,
+185,Holy Family Parish,Archdiocese of Anchorage-Juneau,https://glnholyfamily.com,https://glnholyfamily.com/,ok,10,2,
+186,Holy Rosary Parish,Archdiocese of Anchorage-Juneau,http://www.holyrosaryalaska.org,https://www.holyrosaryalaska.org/,ok,36,10,
+187,Our Lady of Perpetual Help Parish,Archdiocese of Anchorage-Juneau,https://soldotnacatholicchurch.org/,https://soldotnacatholicchurch.org/,ok,45,18,
+188,Our Lady of the Angels Parish,Archdiocese of Anchorage-Juneau,http://www.kenaicatholicchurch.org,https://www.kenaicatholicchurch.org/,ok,51,14,
+189,Our Lady of the Lake Parish,Archdiocese of Anchorage-Juneau,https://www.facebook.com/OLOLBiglakeak/,https://www.facebook.com/OLOLBiglakeak/,ok,0,0,
+190,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,https://sacredheartseward.org/,https://sacredheartseward.org/,ok,34,20,
+191,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,http://www.sacredheartwasilla.org/,https://mat-sucatholics.org/wasilla,ok,108,11,
+192,St. Bernard Parish,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+193,St. Christopher by the Sea Parish,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+194,St. Christopher Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+195,St. Francis Xavier Parish,Archdiocese of Anchorage-Juneau,https://vdzsaintfrancis.com,https://vdzsaintfrancis.com/,ok,14,7,
+196,St. John Neumann Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+197,St. John the Baptist Parish,Archdiocese of Anchorage-Juneau,http://www.stjohnthebaptistcatholicchurch.org,https://www.stjohnthebaptistcatholicchurch.org/,ok,38,16,
+198,St. Joseph Parish,Archdiocese of Anchorage-Juneau,https://www.facebook.com/stjoescdv/,https://www.facebook.com/stjoescdv/,ok,0,0,
+199,St. Mary Parish,Archdiocese of Anchorage-Juneau,http://www.stmaryskodiak.org/,https://www.stmaryskodiak.org/,ok,44,9,
+200,St. Michael Parish,Archdiocese of Anchorage-Juneau,https://www.saintmichaelcatholicchurch.org,https://www.saintmichaelcatholicchurch.org/,ok,53,4,
+201,St. Peter the Apostle Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+202,St. Peter the Fisherman Mission,Archdiocese of Anchorage-Juneau,https://www.holyrosaryalaska.org,https://www.holyrosaryalaska.org/,ok,36,10,
+203,St. Philip Benizi Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+204,St. Theresa Mission,Archdiocese of Anchorage-Juneau,http://www.holyrosaryalaska.org/,https://www.holyrosaryalaska.org/,ok,36,10,
+205,Body of Christ Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+206,Holy Family Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+207,Holy Family Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+208,Holy Name Parish,Archdiocese of Anchorage-Juneau,https://www.holynamektn.com/,https://www.holynamektn.com/,ok,56,24,
+209,Kake Catholic Community Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+210,Sacred Heart Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+211,Sacred Heart Parish,Archdiocese of Anchorage-Juneau,http://www.sacredhearthaines.org/,https://www.sacredhearthaines.org/,ok,4,1,
+212,St. Ann Parish,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+213,St. Catherine of Siena Parish,Archdiocese of Anchorage-Juneau,http://www.stcatherineofsienapetersburg.com/,http://www.stcatherineofsienapetersburg.com/,ok,0,0,
+214,St. Francis Mission,Archdiocese of Anchorage-Juneau,,,missing_url,,,Invalid parish homepage URL: 
+215,St. Gregory Nazianzen Parish,Archdiocese of Anchorage-Juneau,https://sites.google.com/site/stgregorysitka/,https://sites.google.com/site/stgregorysitka/,ok,25,2,
+216,St. John by the Sea Parish,Archdiocese of Anchorage-Juneau,https://aoaj.org/st-john-by-the-sea,https://aoaj.org/st-john-by-the-sea,ok,88,12,
+217,St. Rose of Lima Parish,Archdiocese of Anchorage-Juneau,http://www.stroseoflimawrangell.com/,http://www.stroseoflimawrangell.com/,ok,10,4,
+218,St. Therese of the Child Jesus Parish,Archdiocese of Anchorage-Juneau,https://www.skagwaycatholicchurch.org/,https://www.skagwaycatholicchurch.org/,ok,7,3,
+219,Blessed Sacrament Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+220,Church of the Holy Angels Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+221,Church of the Nativity Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+222,Holy Family Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+223,Holy Family Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+224,Holy Mary of Guadalupe Catholic Church,Diocese of Fairbanks,https://www.hmogcatholic.com/,https://www.hmogcatholic.com/,ok,29,5,
+225,Holy Rosary Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+226,Immaculate Conception Catholic Church,Diocese of Fairbanks,http://iccfairbanks.org/,https://iccfairbanks.org/,ok,61,22,
+227,Immaculate Conception Catholic Church,Diocese of Fairbanks,http://bethelcatholic.org/,http://bethelcatholic.org/,ok,15,5,
+228,Immaculate Conception Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+229,Immaculate Heart of Mary Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+230,Little Flower of Jesus Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+231,Our Lady of Guadalupe Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+232,Our Lady of Perpetual Help Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+233,Our Lady of Sorrows Catholic Church,Diocese of Fairbanks,https://sites.google.com/view/ourladyofsorrowstest2/,https://sites.google.com/view/ourladyofsorrowstest2/,ok,4,1,
+234,Our Lady of the Snows Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+235,Sacred Heart Cathedral,Diocese of Fairbanks,http://www.sacreheartak.org,,cache_missing,,,No cached homepage HTML for http://www.sacreheartak.org
+236,Sacred Heart Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+237,Sacred Heart Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+238,Saint Aloysius Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+239,Saint Ann Catholic Church,Diocese of Fairbanks,https://walaskacatholic.org,https://walaskacatholic.org/,ok,46,20,
+240,Saint Bernard Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+241,Saint Catherine of Siena Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+242,Saint Charles Spinola Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+243,Saint Francis Regis Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+244,Saint Francis Xavier,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+245,Saint Francis Xavier Catholic Church,Diocese of Fairbanks,http://walaskacatholic.org/,https://walaskacatholic.org/,ok,46,20,
+246,Saint Ignatius Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+247,Saint John Berchmans Catholic Church,Diocese of Fairbanks,http://kiyu.com/stjohnschu,,cache_missing,,,No cached homepage HTML for http://kiyu.com/stjohnschu
+248,Saint Joseph Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+249,Saint Joseph Catholic Church,Diocese of Fairbanks,http://walaskacatholic.org/,https://walaskacatholic.org/,ok,46,20,
+250,Saint Joseph Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+251,Saint Jude Catholic Church,Diocese of Fairbanks,http://walaskacatholic.org,https://walaskacatholic.org/,ok,46,20,
+252,Saint Lawrence Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+253,Saint Mark's University Parish,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+254,Saint Michael Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+255,Saint Michael Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+256,Saint Nicholas Catholic Church,Diocese of Fairbanks,http://www.stnicholasnp.org,https://www.stnicholasnp.org/,ok,81,7,
+257,Saint Patrick Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+258,Saint Patrick Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+259,Saint Peter Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+260,Saint Peter in Chains Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+261,Saint Peter the Fisherman Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+262,Saint Raphael Catholic Church,Diocese of Fairbanks,https://straphaelfairbanks.org,https://straphaelfairbanks.org/,ok,728,691,
+263,Saint Teresa Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+264,Saint Theresa Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+265,Saint Theresa Catholic Church,Diocese of Fairbanks,,,missing_url,,,Invalid parish homepage URL: 
+266,Saint Andrews Catholic Church,Diocese of Tucson,https://standrewsv.org/,https://standrewsv.org/,ok,86,15,
+267,St. Augustine Cathedral,Diocese of Tucson,https://cathedral-staugustine.org/,https://cathedral-staugustine.org/,ok,20,5,
+268,Immaculate Conception,Diocese of Tucson,https://www.douglascatholic.org/immaculate-conception,https://www.douglascatholic.org/immaculate-conception,ok,33,5,
+269,Our Lady of Lourdes,Diocese of Tucson,https://ololparish.com,https://ololparish.com/,ok,20,5,
+270,Our Lady of the Mountains,Diocese of Tucson,https://olmaz.org,https://olmaz.org/,ok,27,13,
+271,Sacred Heart of Jesus,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+272,Sacred Heart of Jesus,Diocese of Tucson,https://www.shctombstone.org,https://www.shctombstone.org/,ok,16,3,
+273,Saint Andrew the Apostle,Diocese of Tucson,https://standrewsv.org,https://standrewsv.org/,ok,86,15,
+274,Saint Bernard,Diocese of Tucson,https://www.douglascatholic.org/st-bernard-and-missions,https://www.douglascatholic.org/st-bernard-and-missions,ok,33,5,
+275,Saint Francis of Assisi Mission,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+276,Saint Jude Thaddeus,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+277,Saint Luke,Diocese of Tucson,https://www.douglascatholic.org/st-luke,https://www.douglascatholic.org/st-luke,ok,33,5,
+278,Saint Patrick,Diocese of Tucson,https://www.stpatsbisbee.com/,https://www.stpatsbisbee.com/,ok,92,21,
+279,Blessed Sacrament,Diocese of Tucson,https://blessedsacramentparishmammoth.org/,https://blessedsacramentparishmammoth.org/,ok,17,1,
+280,Holy Angels,Diocese of Tucson,https://www.holyangelscatholicchurchglobe.org,https://www.holyangelscatholicchurchglobe.org/,ok,58,15,
+281,Holy Cross,Diocese of Tucson,https://greenleecatholic.org/holycrossparish,,cache_missing,,,No cached homepage HTML for https://greenleecatholic.org/holycrossparish
+282,Infant Jesus of Prague,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+283,Our Lady of Guadalupe,Diocese of Tucson,https://olgsolomon.com,https://olgsolomon.com/,ok,6,1,
+284,Our Lady of the Blessed Sacrament,Diocese of Tucson,https://www.ourladymiami.com,https://www.ourladymiami.com/,ok,13,4,
+285,Sacred Heart,Diocese of Tucson,https://greenleecatholic.org/sacredheartparish,,cache_missing,,,No cached homepage HTML for https://greenleecatholic.org/sacredheartparish
+286,Saint Bartholomew,Diocese of Tucson,https://stbartholomewparishsanmanuel.org/,https://stbartholomewparishsanmanuel.org/,ok,19,1,
+287,Saint Charles Apache Mission Church,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+288,Saint Helen,Diocese of Tucson,https://www.sthelenparishoracle.org/,https://www.sthelenparishoracle.org/,ok,37,4,
+289,Saint Joseph,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+290,Saint Philip the Apostle,Diocese of Tucson,https://catholicpayson.com,https://catholicpayson.com/,ok,22,11,
+291,Saint Rose of Lima,Diocese of Tucson,https://www.saintroselima-safford.com,https://www.saintroselima-safford.com/,ok,52,5,
+292,St. Francis of Assisi Church,Diocese of Tucson,https://stfrancissuperior.org/,https://stfrancissuperior.org/,ok,41,18,
+293,Most Holy Trinity,Diocese of Tucson,https://mostholytrinityparish.org/,https://mostholytrinityparish.org/,ok,54,8,
+294,Our Lady of La Vang / St. Frances Cabrini,Diocese of Tucson,http://www.lavangtucson.com,,cache_missing,,,No cached homepage HTML for http://www.lavangtucson.com
+295,Sacred Heart,Diocese of Tucson,https://sacredhearttucson.weconnect.com,https://sacredhearttucson.weconnect.com/,ok,0,0,
+296,Saint Ambrose,Diocese of Tucson,https://www.stambroseparishtucson.org,https://www.stambroseparishtucson.org/,ok,31,8,
+297,Saint Thomas More Newman Center,Diocese of Tucson,https://www.uacatholic.org,https://www.uacatholic.org/,ok,40,5,
+298,Sts. Peter and Paul Catholic Church,Diocese of Tucson,https://sspp-parish.org/,https://sspp-parish.org/,ok,31,13,
+299,Corpus Christi,Diocese of Tucson,http://www.cccctucson.org/,https://www.cccctucson.org/,ok,59,3,
+300,Our Lady Star of the Sea (Korean Community),Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+301,Our Mother of Sorrows,Diocese of Tucson,https://omosparish.org/,https://omosparish.org/,ok,97,20,
+302,Saint Cyril of Alexandria,Diocese of Tucson,http://stcyrilchurch-tucson.org/,https://stcyrilchurch-tucson.org/,ok,31,9,
+303,Saint Joseph,Diocese of Tucson,https://www.stjosephtucsonaz.org/,https://www.stjosephtucsonaz.org/,ok,65,28,
+304,Saint Rita in the Desert,Diocese of Tucson,https://www.stritainthedesert.org/,https://www.stritainthedesert.org/,ok,67,9,
+305,St. Francis de Sales Parish,Diocese of Tucson,https://sfdstucson.org/,https://sfdstucson.org/,ok,160,19,
+306,St. Pius X,Diocese of Tucson,https://stpiusxtucson.org/,https://stpiusxtucson.org/,ok,107,5,
+307,Our Lady of the Desert Conventual Church,Diocese of Tucson,http://desertrenewal.org/,https://desertrenewal.org/,ok,65,6,
+308,Santa Catalina,Diocese of Tucson,https://jxlx5a.sites.ecatholic.com/,https://jxlx5a.sites.ecatholic.com/,ok,93,6,
+309,St. Christopher,Diocese of Tucson,https://stchristophermarana.org/,https://stchristophermarana.org/,ok,70,21,
+310,St. Elizabeth Ann Seton,Diocese of Tucson,https://parish.seastucson.org/,https://parish.seastucson.org/,ok,77,17,
+311,St. Elizabeth Ann Seton,Diocese of Tucson,https://oe1qa.sites.ecatholic.com/,https://oe1qa.sites.ecatholic.com/,ok,72,21,
+312,St. Mark the Evangelist,Diocese of Tucson,https://stmarkov.com/,https://stmarkov.com/,ok,124,15,
+313,St. Odilia,Diocese of Tucson,https://stodiliaparish.org/,https://stodiliaparish.org/,ok,37,16,
+314,St. Thomas the Apostle,Diocese of Tucson,https://statucson.org/,https://statucson.org/,ok,240,20,
+315,Holy Family,Diocese of Tucson,https://holyfamilytucson.org/,https://holyfamilytucson.org/,ok,8,7,
+316,Our Lady of Fatima,Diocese of Tucson,https://www.fatimaintucson.org,https://www.fatimaintucson.org/,ok,19,10,
+317,Our Lady Queen of All Saints,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+318,Saint Augustine Cathedral,Diocese of Tucson,http://cathedral-staugustine.org/,https://cathedral-staugustine.org/,ok,20,5,
+319,Saint Gianna Oratory,Diocese of Tucson,https://institute-christ-king.org/tucson-home,https://institute-christ-king.org/tucson-home,ok,23,5,
+320,Saint John the Evangelist,Diocese of Tucson,https://www.stjohnevangelisttucson.org,https://www.stjohnevangelisttucson.org/,ok,28,3,
+321,Saint Margaret Mary Alacoque,Diocese of Tucson,https://www.stmargaretmarytucson.org,https://www.stmargaretmarytucson.org/,ok,13,5,
+322,Saint Mary of the Desert Mission,Diocese of Tucson,http://stmarydesert.org/en/,,cache_missing,,,No cached homepage HTML for http://stmarydesert.org/en/
+323,Saint Monica,Diocese of Tucson,https://www.stmonicaparishtucson.org,https://www.stmonicaparishtucson.org/,ok,12,5,
+324,Santa Cruz,Diocese of Tucson,https://santacruzchurchtucson.com,https://santacruzchurchtucson.com/,ok,39,12,
+325,Immaculate Conception,Diocese of Tucson,http://www.iccajo.com,,cache_missing,,,No cached homepage HTML for http://www.iccajo.com
+326,San Solano Missions,Diocese of Tucson,https://www.facebook.com/SanSolanoMissions/,https://www.facebook.com/SanSolanoMissions/,ok,0,0,
+327,San Xavier del Bac Mission,Diocese of Tucson,https://sanxaviermission.org,https://sanxaviermission.org/,ok,40,10,
+328,St. Kateri Tekakwitha Indian Mission,Diocese of Tucson,https://stkateritucson.org/,https://stkateritucson.org/,ok,27,4,
+329,Assumption of the Blessed Virgin Mary Catholic Church,Diocese of Tucson,https://assumptionofmary.org/,https://assumptionofmary.org/,ok,87,9,
+330,Our Lady of Grace,Diocese of Tucson,https://www.maricopacatholic.org,https://www.maricopacatholic.org/,ok,35,4,
+331,Saint Anthony of Padua,Diocese of Tucson,https://www.stanthonycg.org,https://www.stanthonycg.org/,ok,90,16,
+332,Saint George,Diocese of Tucson,https://stgeorgeaj.com,https://stgeorgeaj.com/,ok,49,13,
+333,Saint Helen of the Cross,Diocese of Tucson,https://www.sthelenofthecross.org,https://www.sthelenofthecross.org/,ok,58,20,
+334,Saint James the Apostle Catholic Church,Diocese of Tucson,https://stjamescoolidge.org/,https://stjamescoolidge.org/,ok,40,3,
+335,Saint Michael the Archangel,Diocese of Tucson,http://www.stmichaels77.org,https://www.stmichaels77.org/,ok,47,28,
+336,Most Holy Nativity of Our Lord Jesus Christ,Diocese of Tucson,https://www.mhnparish.org,https://www.mhnparish.org/,ok,30,12,
+337,Our Lady of the Angels Mission,Diocese of Tucson,https://olamissionaz.com/,https://olamissionaz.com/,ok,22,9,
+338,Our Lady of the Valley,Diocese of Tucson,https://www.olvgv.org,https://www.olvgv.org/,ok,48,15,
+339,Sacred Heart of Jesus,Diocese of Tucson,http://www.sacredheartnogales.com,https://www.sacredheartnogales.com/,ok,17,4,
+340,Saint Ann,Diocese of Tucson,https://stannsparishtubacaz.org,https://stannsparishtubacaz.org/,ok,20,5,
+341,San Felipe de Jesus,Diocese of Tucson,http://www.sanfelipedejesusparish.org,http://www.sanfelipedejesusparish.org/,ok,11,5,
+342,San Martin de Porres,Diocese of Tucson,http://www.sanmartinsahuarita.org,https://www.sanmartinsahuarita.org/,ok,29,12,
+343,St. Therese of Lisieux,Diocese of Tucson,https://sttheresepatagonia.org/,https://sttheresepatagonia.org/,ok,27,4,
+344,Immaculate Conception,Diocese of Tucson,https://www.icyuma.com,,cache_missing,,,No cached homepage HTML for https://www.icyuma.com
+345,Immaculate Heart of Mary,Diocese of Tucson,https://www.ihmsomertonaz.com,https://www.ihmsomertonaz.com/,ok,0,0,
+346,Sacred Heart,Diocese of Tucson,http://www.sacredheartparker.org,https://www.sacredheartparker.org/,ok,27,15,
+347,Saint Francis of Assisi,Diocese of Tucson,https://www.stfrancisyuma.com,https://stfrancisyuma.com/,ok,25,9,
+348,Saint Joseph the Worker,Diocese of Tucson,http://www.stjosephwellton.com,https://www.stjosephwellton.com/,ok,13,6,
+349,Saint Jude Thaddeus,Diocese of Tucson,,,missing_url,,,Invalid parish homepage URL: 
+350,St. John Neumann,Diocese of Tucson,https://sjnyuma.com/,https://sjnyuma.com/,ok,54,18,
+351,Christ the King,Diocese of Fresno,http://christtheking.ws/,https://christtheking.ws/,ok,16,3,
+352,Our Lady of Perpetual Help,Diocese of Fresno,https://www.olphbakersfield.org/,https://www.olphbakersfield.org/,ok,120,17,
+353,Our Lady of the Snows Mission,Diocese of Fresno,http://ourladyofthesnows.net/,http://ourladyofthesnows.net/,ok,16,0,
+354,Sacred Heart,Diocese of Fresno,https://sacredheartbakersfield.org/,https://sacredheartbakersfield.org/,ok,26,16,
+355,San Clemente Mission Parish,Diocese of Fresno,http://www.sanclementemission.org/,,cache_missing,,,No cached homepage HTML for http://www.sanclementemission.org/
+356,"Shrine of Our Lady of Guadalupe, Co-Patroness of the Unborn",Diocese of Fresno,https://www.guadalupebakersfield.org/,https://guadalupebakersfield.org/,ok,74,10,
+357,St. Augustine,Diocese of Fresno,https://www.facebook.com/StAugustineChurchLamont,https://www.facebook.com/StAugustineChurchLamont,ok,0,0,
+358,St. Elizabeth Ann Seton,Diocese of Fresno,http://www.setoncatholicchurch.org/,https://www.setoncatholicchurch.org/,ok,42,10,
+359,St. Francis of Assisi,Diocese of Fresno,https://www.stfran.org/,,cache_missing,,,No cached homepage HTML for https://www.stfran.org/
+360,St. Joseph,Diocese of Fresno,https://stjosephchurchbak.wixsite.com,,cache_missing,,,No cached homepage HTML for https://stjosephchurchbak.wixsite.com
+361,St. Philip the Apostle,Diocese of Fresno,http://www.stphilipchurch.org,https://www.stphilipchurch.org/,ok,57,5,
+362,St. Thomas the Apostle,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+363,Holy Spirit,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+364,Catholic Community of St. Jude and Our Lady of the Assumption,Diocese of Fresno,https://www.stjude-easton.org/,https://www.stjude-easton.org/,ok,3,1,
+365,"Divine Mercy, Clovis; station: Shaver Laker  Community Chapel",Diocese of Fresno,https://divinemercyclovis.org,https://divinemercyclovis.org/,ok,62,9,
+366,"Holy Spirit, Fresno",Diocese of Fresno,http://www.holyspiritfresno.org/,https://www.holyspiritfresno.org/,ok,56,12,
+367,Our Lady of La Vang,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+368,Our Lady of Mount Carmel,Diocese of Fresno,https://ourladyofmountcarmelchurch-catholicchurch.business.site/,,cache_missing,,,No cached homepage HTML for https://ourladyofmountcarmelchurch-catholicchurch.business.site/
+369,Our Lady of Perpetual Help,Diocese of Fresno,https://www.olphclovis.org/,https://www.olphclovis.org/,ok,58,19,
+370,Our Lady of the Assumption,Diocese of Fresno,https://www.stjude-easton.org/,https://www.stjude-easton.org/,ok,3,1,
+371,Our Lady of Victory,Diocese of Fresno,https://olv-church.com/,https://olv-church.com/,ok,28,5,
+372,Sacred Heart,Diocese of Fresno,http://www.sacredheartfresno.org/,https://www.sacredheartfresno.org/,ok,16,6,
+373,St Anthony Mary Claret Church,Diocese of Fresno,https://stanthonymaryclaretfresno.org/,https://stanthonymaryclaretfresno.org/,ok,24,7,
+374,St. Alphonsus,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+375,St. Anthony of Padua,Diocese of Fresno,https://stanthonyfresno.org/,https://stanthonyfresno.org/,ok,46,7,
+376,St. Genevieve,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+377,St. Helen,Diocese of Fresno,http://www.sthelensfresno.com/,https://www.sthelensfresno.com/,ok,28,7,
+378,St. John's Cathedral,Diocese of Fresno,https://www.stjohnsfresno.org/,https://www.stjohnsfresno.org/,ok,48,11,
+379,St. Mary Queen of Apostles,Diocese of Fresno,http://stmaryschurchfresno.org/,https://stmaryschurchfresno.org/,ok,30,5,
+380,St. Paul Catholic Newman Center,Diocese of Fresno,https://fresnonewmancenter.org/,https://fresnonewmancenter.org/,ok,78,15,
+381,The Shrine of St. Therese,Diocese of Fresno,https://shrineofsttherese.wordpress.com/,https://shrineofsttherese.wordpress.com/,ok,35,10,
+382,Christ the King,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+383,Infant Jesus of Prague,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+384,St. Agnes,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+385,Holy Family,Diocese of Fresno,https://www.holyfamilykingsburg.com/,https://www.holyfamilykingsburg.com/,ok,21,5,
+386,Our Lady of Sorrows,Diocese of Fresno,https://ourladyofsorrowsparlier.org/,https://ourladyofsorrowsparlier.org/,ok,20,13,
+387,St. Anthony of Padua,Diocese of Fresno,http://www.stanthonyschurch-reedley.org/,http://www.stanthonyschurch-reedley.org/,ok,46,22,
+388,St. Catherine of Siena,Diocese of Fresno,https://stcatherinesdinuba.com/,https://stcatherinesdinuba.com/,ok,60,28,
+389,St. Isidore the Farmer,Diocese of Fresno,https://stisidoreoc.com/,,cache_missing,,,No cached homepage HTML for https://stisidoreoc.com/
+390,St. Joseph,Diocese of Fresno,http://stjosephselma.org,,cache_missing,,,No cached homepage HTML for http://stjosephselma.org
+391,St. Katherine,Diocese of Fresno,https://www.stmarysparishsanger.org/,https://www.stmarysparishsanger.org/,ok,39,6,
+392,St. Lucy,Diocese of Fresno,https://www.facebook.com/stlucysfowler.org/,https://www.facebook.com/stlucysfowler.org/,ok,0,0,
+393,St. Mary,Diocese of Fresno,https://www.StMarysCatholicChurchParishCutler.com/,,cache_missing,,,No cached homepage HTML for https://www.StMarysCatholicChurchParishCutler.com/
+394,St. Mary,Diocese of Fresno,https://www.stmarysparishsanger.org/,https://www.stmarysparishsanger.org/,ok,39,6,
+395,Santa Cruz,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+396,St. John the Baptist,Diocese of Fresno,https://holyfamilykingsburg.com/,https://holyfamilykingsburg.com/,ok,21,5,
+397,St. Katherine,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+398,St. Rita,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+399,Our Lady of Lourdes,Diocese of Fresno,https://www.ollcalcity.org/,https://www.ollcalcity.org/,ok,51,20,
+400,Our Lady of Perpetual Help,Diocese of Fresno,http://olphbishop.org/,https://olphbishop.org/,ok,0,0,
+401,"Santa Rosa; Stations:  Death Valley, Furnace Creek, Olancha",Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+402,St. Ann,Diocese of Fresno,http://www.parishofsaintann.org/,https://www.parishofsaintann.org/,ok,63,17,
+403,St. Malachy,Diocese of Fresno,http://www.saintmalachy.church/,https://www.saintmalachy.church/,ok,48,8,
+404,St. Mary of the Desert,Diocese of Fresno,http://www.stmary-stfrancis.com/,,cache_missing,,,No cached homepage HTML for http://www.stmary-stfrancis.com/
+405,St. Therese of Lisieux,Diocese of Fresno,https://www.facebook.com/santateresita.catolica,https://www.facebook.com/santateresita.catolica,ok,0,0,
+406,Santa Barbara,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+407,St. Francis of Assisi,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+408,St. John the Baptist,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+409,St. Joseph,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+410,St. Stephen,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+411,St. Therese,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+412,St. Vivian,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+413,Our Lady of Guadalupe,Diocese of Fresno,https://www.facebook.com/iglesia.guadalupedelano,https://www.facebook.com/iglesia.guadalupedelano.7,ok,0,0,
+414,St. Elizabeth,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+415,St. John the Evangelist,Diocese of Fresno,https://www.facebook.com/stjohntheevangelistwasco/,https://www.facebook.com/stjohntheevangelistwasco/,ok,0,0,
+416,St. Jude Thaddeus,Diocese of Fresno,https://www.stjudeearlimart.com,https://www.stjudeearlimart.com/,ok,31,7,
+417,St. Jude Thaddeus,Diocese of Fresno,http://www.stjudecatholicchurch.faith,,cache_missing,,,No cached homepage HTML for http://www.stjudecatholicchurch.faith
+418,St. Mary,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+419,St. Mary,Diocese of Fresno,https://stmarystaft.com/,https://stmarystaft.com/,ok,12,0,
+420,St. Mary of the Miraculous Medal,Diocese of Fresno,https://www.facebook.com/stmarydelano/,https://www.facebook.com/stmarydelano/,ok,0,0,
+421,Nuestra de la Paz,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+422,St. Vincent de Paul,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+423,Immaculate Heart of Mary,Diocese of Fresno,http://.ihmhanford.org,,cache_missing,,,No cached homepage HTML for http://.ihmhanford.org
+424,Our Lady of Lourdes,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+425,Shrine Of Our Lady of Fatima,Diocese of Fresno,https://www.instagram.com/shrineolflaton/,https://www.instagram.com/shrineolflaton/,ok,0,0,
+426,"St. Ann; Holy Family, Five Points",Diocese of Fresno,https://www.facebook.com/stannriverdale,https://www.facebook.com/stannriverdale,ok,0,0,
+427,St. Brigid,Diocese of Fresno,http://www.stbrigid.org/,https://www.stbrigid.org/,ok,40,13,
+428,St. Frances Cabrini,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+429,St. Joseph,Diocese of Fresno,https://stjosephavenal.com,https://stjosephavenal.com/,ok,15,1,
+430,St. Paul the Apostle,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+431,St. Peter Prince of Apostles,Diocese of Fresno,http://www.saintpeterpoa.org/,https://www.saintpeterpoa.org/,ok,22,6,
+432,Sacred Heart,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+433,St. Cecilia,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+434,St. Joseph,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+435,Our Lady of Guadalupe,Diocese of Fresno,https://www.facebook.com/guadalupechurchmendota,https://www.facebook.com/guadalupechurchmendota,ok,0,0,
+436,Our Lady of the Sierra,Diocese of Fresno,http://www.ols-oakhurst.org,https://www.ols-oakhurst.org/,ok,25,8,
+437,Sacred Heart,Diocese of Fresno,https://www.facebook.com/Sacred-Heart-Church-Dos-Palos-113876106927500/,https://www.facebook.com/people/Sacred-Heart-Church-Dos-Palos/100067777706152/,ok,0,0,
+438,St. Columba,Diocese of Fresno,https://sites.google.com/view/st-columba-catholic-church/home,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/st-columba-catholic-church/home&followup=https://sites.google.com/view/st-columba-catholic-church/home&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S269326290:1790853918880067,ok,6,2,
+439,St. Joachim,Diocese of Fresno,https://www.sjoachim.org/,https://www.sjoachim.org/,ok,85,22,
+440,St. Joseph,Diocese of Fresno,https://www.stjosephfb.org/,https://www.stjosephfb.org/,ok,25,10,
+441,St. Patrick,Diocese of Fresno,https://sites.google.com/a/stpatrickkerman.org/home/,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/stpatrickkerman.org/home/&followup=https://sites.google.com/a/stpatrickkerman.org/home/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S269326290:1790853923724373,ok,6,2,
+442,St. Paul,Diocese of Fresno,http://www.stpaultranquillity.com/,http://www.stpaultranquillity.com/,ok,23,1,
+443,Our Lady of Lourdes,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+444,Our Lady of the Snows,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+445,St. Agnes Chapel,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+446,St. Anne Chapel,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+447,St. Dominic Savio,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+448,St. George,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+449,St. Joseph the Worker,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+450,St. Vincent de Paul,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+451,"Holy Rosary; St. Mary, Stevinson",Diocese of Fresno,http://www.hilmarholyrosary.org/,https://hilmarholyrosary.org/,ok,54,28,
+452,Our Lady of Mercy,Diocese of Fresno,https://sites.google.com/olmstpatrick.org/website/home,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/olmstpatrick.org/website/home&followup=https://sites.google.com/olmstpatrick.org/website/home&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1932250271:1790853938424857,ok,6,2,
+453,Our Lady of the Snows,Diocese of Fresno,http://www.olscatholic.org/churches/our-lady-of-the-snows,http://www.olscatholic.org/churches/our-lady-of-the-snows,ok,0,0,
+454,Sacred Heart,Diocese of Fresno,https://www.jeaf.com/shc/,https://www.jeaf.com/shc/,ok,1,1,
+455,Sacred Heart,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+456,Shrine of Our Lady of Miracles,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+457,Shrine of St. Jude Thaddeus,Diocese of Fresno,https://www.livingstonshrinestjudethaddeus.org/,https://www.livingstonshrinestjudethaddeus.org/,ok,13,2,
+458,St. Anthony,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+459,St. Joseph,Diocese of Fresno,https://stjosephsmariposa.org,https://stjosephsmariposa.org/,ok,24,6,
+460,St. Joseph,Diocese of Fresno,http://www.stjosephlosbanos.com,https://stjosephlosbanos.com/,ok,54,4,
+461,St. Patrick,Diocese of Fresno,https://sites.google.com/olmstpatrick.org/website/home,https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/olmstpatrick.org/website/home&followup=https://sites.google.com/olmstpatrick.org/website/home&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1932250271:1790853938424857,ok,6,2,
+462,Immaculate Conception,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+463,Our Lady of Lourdes,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+464,St. Catherine of Siena,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+465,St. Teresa of Calcutta,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+466,Holy Family,Diocese of Fresno,http://www.gscparish.org/,https://www.gscparish.com/,ok,66,8,
+467,"Sacred Heart; St. Anthony of Egypt, Farmersville",Diocese of Fresno,https://www.facebook.com/Sacred-HeartSagrado--ExeterFarmersville-112978373668855/,https://www.facebook.com/people/Sacred-HeartSagrado-Corazon-ExeterFarmersville/100068738774591/,ok,0,0,
+468,"Sacred Heart; Station: Santa Cruz, Lindsay",Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+469,St. Aloysius,Diocese of Fresno,https://www.facebook.com/staloysiustulare/,https://www.facebook.com/staloysiustulare/,ok,0,0,
+470,St. Anne Parish,Diocese of Fresno,http://www.stannesparish.com/,https://www.stannesparish.com/,ok,115,17,
+471,St. Anthony Retreat Center,Diocese of Fresno,https://www.stanthonyretreat.org/,https://www.stanthonyretreat.org/,ok,70,13,
+472,St. Charles Borromeo,Diocese of Fresno,https://www.gscparish.com/,https://www.gscparish.com/,ok,66,8,
+473,St. Frances Cabrini,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+474,"St. John the Evangelist; Station:  Our Lady of Assumption, Pixley",Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+475,St. Rita,Diocese of Fresno,http://www.stritacatholicchurch.com/,https://www.stritacatholicchurch.com/,ok,39,6,
+476,St. Teresita Youth Retreat Center,Diocese of Fresno,https://www.stteresitaycc.org/,https://www.stteresitaycc.org/,ok,63,15,
+477,The Nativity of the Blessed Virgin Mary,Diocese of Fresno,http://www.gscparish.org/,https://www.gscparish.com/,ok,66,8,
+478,Blessed Miguel Agustin Pro,Diocese of Fresno,https://stannesparish.com/blessed-miguel-agustin-pro-mission,https://stannesparish.com/blessed-miguel-agustin-pro-mission,ok,101,7,
+479,Holy Cross Church,Diocese of Fresno,https://stannesparish.com/holy-cross-church,https://stannesparish.com/holy-cross-church,ok,101,7,
+480,Mater Dolorosa,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+481,San Felipe de Jesus,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+482,St. Anthony,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+483,St. Clair,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+484,St. Francis of Assisi,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+485,St. James,Diocese of Fresno,,,missing_url,,,Invalid parish homepage URL: 
+486,St. Maximillian Kolbe,Diocese of Fresno,https://stannesparish.com/st-maximilian-kolbe-mission,https://stannesparish.com/st-maximilian-kolbe-mission,ok,102,8,
+487,Carmel Mission Basilica,Diocese of Monterey,http://www.carmelmission.org,https://carmelmission.org/,ok,37,4,
+488,Christ Child Church,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+489,Christ the King Church,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+490,Holy Cross Church,Diocese of Monterey,http://www.holycrosssantacruz.com,https://holycrosssantacruz.com/,ok,42,5,
+491,Holy Eucharist Church,Diocese of Monterey,http://www.holyeucharistca.com,https://www.holyeucharistca.com/,ok,11,2,
+492,Holy Trinity Church,Diocese of Monterey,http://www.holytrinitygreenfield.org,https://www.holytrinitygreenfield.org/,ok,5,0,
+493,Immaculate Conception Church,Diocese of Monterey,http://www.immaculateattrespinos.org/contact.php,,cache_missing,,,No cached homepage HTML for http://www.immaculateattrespinos.org/contact.php
+494,Madonna del Sasso Church,Diocese of Monterey,http://www.mdschurch.org,https://www.mdschurch.org/,ok,72,11,
+495,Mission San Antonio de Padua,Diocese of Monterey,http://missionsanantonio.net,https://www.missionsanantonio.net/,ok,27,3,
+496,Nativity of Our Lady Church,Diocese of Monterey,https://www.nativityslo.org/,https://www.nativityslo.org/,ok,50,27,
+497,Old Mission Church,Diocese of Monterey,http://www.missionsanluisobispo.org/?page_id=27,,cache_missing,,,No cached homepage HTML for http://www.missionsanluisobispo.org/?page_id=27
+498,Old Mission Church,Diocese of Monterey,https://www.oldmissionsanmiguel.org,https://www.oldmissionsanmiguel.org/,ok,54,9,
+499,Old Mission Church,Diocese of Monterey,http://www.oldmissionsjb.org/contact,https://www.oldmissionsjb.org/contact,ok,18,0,
+500,Our Lady Help of Christians Church,Diocese of Monterey,http://www.olhcchurch.org,http://www.olhcchurch.org/,ok,39,17,
+501,Our Lady of Mt. Carmel Church,Diocese of Monterey,http://www.ourladycarmelvalley.org/?doing_wp_cron=1478878936.9869189262390136718750,https://ourladycarmelvalley.org/?doing_wp_cron=1478878936.9869189262390136718750,ok,22,3,
+502,Our Lady of Refuge Church,Diocese of Monterey,http://www.olorc.org,https://www.olorc.org/,ok,24,7,
+503,Our Lady of Solitude Church,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+504,Our Lady of the Assumption Church,Diocese of Monterey,http://www.ladyassumptionchurch.org,http://www.ladyassumptionchurch.org/index.html,ok,11,4,
+505,Our Lady Star of the Sea Church,Diocese of Monterey,http://www.ourladystar.org,http://www.ourladystar.org/,ok,0,0,
+506,Resurrection Church,Diocese of Monterey,http://resurrection-aptos.org,https://resurrection-aptos.org/,ok,27,13,
+507,Sacred Heart & St. Benedict's Pastoral Center,Diocese of Monterey,http://catholichollister.org,https://www.catholichollister.org/,ok,27,8,
+508,Sacred Heart Church,Diocese of Monterey,http://www.shsalinas.org,https://www.shsalinas.org/,ok,37,10,
+509,San Agustin Church,Diocese of Monterey,http://sanagustin.church,https://sanagustin.church/,ok,61,26,
+510,San Carlos Cathedral,Diocese of Monterey,http://www.sancarloscathedral.org,https://sancarloscathedral.org/,ok,3,2,
+511,Santa Margarita de Cortona,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+512,Santa Rosa Church,Diocese of Monterey,http://www.santarosaparish.org,https://www.santarosaparish.org/,ok,74,16,
+513,Shrine of St. Joseph,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+514,St. Angela Merici Church,Diocese of Monterey,http://www.stangelamericipacificgrove.org,https://www.stangelamericipacificgrove.org/,ok,80,23,
+515,St. Elizabeth Seton Parish,Diocese of Monterey,http://www.seasparishlo.org,https://www.seasparishlo.org/,ok,50,10,
+516,St. Francis Xavier Church,Diocese of Monterey,http://www.stfxavier.org/,http://www.stfxavier.org/,ok,21,7,
+517,St. John the Baptist Church,Diocese of Monterey,http://stjohnparishkc.wixsite.com/saintjohnparishkc,,cache_missing,,,No cached homepage HTML for http://stjohnparishkc.wixsite.com/saintjohnparishkc
+518,St. John’s Church,Diocese of Monterey,http://www.stjohnsfelton.org/ministries.php,,cache_missing,,,No cached homepage HTML for http://www.stjohnsfelton.org/ministries.php
+519,St. Joseph's Church,Diocese of Monterey,http://saint-josephs.church/,https://www.saint-josephs.church/,ok,42,4,
+520,St. Joseph’s Church,Diocese of Monterey,http://stjonipomo.org,https://stjonipomo.org/,ok,22,11,
+521,St. Joseph’s Church,Diocese of Monterey,http://www.stjosephcayucos.org,,cache_missing,,,No cached homepage HTML for http://www.stjosephcayucos.org
+522,St. Joseph’s Church,Diocese of Monterey,http://stjchurch.org/contact/,,cache_missing,,,No cached homepage HTML for http://stjchurch.org/contact/
+523,St. Jude’s Catholic Church & Shrine,Diocese of Monterey,https://www.stjudemarina.org,https://www.stjudemarina.org/,ok,69,17,
+524,St. Mary of the Nativity Church,Diocese of Monterey,http://www.stmarysalinas.org,https://www.stmarysalinas.org/,ok,18,5,
+525,St. Michael’s Church,Diocese of Monterey,http://www.stmichaelschurchbc.org,https://www.stmichaelschurchbc.org/,ok,22,18,
+526,St. Patrick's Church,Diocese of Monterey,http://spatricks.org,https://spatricks.org/,ok,42,24,
+527,St. Patrick's Church,Diocese of Monterey,http://www.stpatsag.org,https://www.stpatsag.org/,ok,55,13,
+528,St. Paul the Apostle Church,Diocese of Monterey,http://www.stpaulspismobeach.com,https://stpaulspismobeach.com/,ok,27,17,
+529,St. Rose of Lima Church,Diocese of Monterey,http://www.saintrosechurch.org,https://www.saintrosechurch.org/,ok,19,7,
+530,St. Theodore’s Church,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+531,St. Timothy’s Church,Diocese of Monterey,http://www.sttimothymorrobay.org,https://sttimothymorrobay.org/,ok,15,6,
+532,St. Vincent de Paul Church c/o Shrine of St. Joseph,Diocese of Monterey,,,missing_url,,,Invalid parish homepage URL: 
+533,St. William’s Church,Diocese of Monterey,http://stwilliams.org,https://stwilliams.org/,ok,154,4,
+534,Blessed Sacrament Mission,Diocese of Santa Rosa,https://coastcatholic.org/blessed-sacrament-elk,https://coastcatholic.org/blessed-sacrament-elk,ok,10,4,
+535,Cal Poly Newman Center,Diocese of Santa Rosa,https://humboldtnewman.org/,https://humboldtnewman.org/,ok,14,4,
+536,Cathedral of St. Eugene,Diocese of Santa Rosa,http://www.steugenes.com/,https://www.steugenes.com/,ok,40,3,
+537,Christ the King Church,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+538,Church of the Assumption,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+539,Hanna Boys Center,Diocese of Santa Rosa,http://www.hannacenter.org/,https://hannacenter.org/,ok,43,9,
+540,Holy Family Church,Diocese of Santa Rosa,http://www.holyfamilycatholicchurch-amcan.org/?,https://holyfamily-amcan.church,ok,26,11,
+541,Holy Family Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+542,Holy Spirit Church,Diocese of Santa Rosa,http://www.holyspirit-sr.org/,http://holyspirit-sr.org/,ok,30,7,
+543,Holy Trinity Mission (Christ The King),Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+544,Mary Star of the Sea Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+545,Our Lady of Good Counsel Church,Diocese of Santa Rosa,http://www.olgcinfb.org/,http://www.olgcinfb.org/,ok,8,5,
+546,Our Lady of Guadalupe Church,Diocese of Santa Rosa,http://www.olgwindsor.org/,https://olgwindsor.org/,ok,33,10,
+547,Our Lady of Mount Carmel Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+548,Our Lady of Perpetual Help Church,Diocese of Santa Rosa,http://www.olphcalistoga.org/,https://www.olphcalistoga.org/,ok,14,2,
+549,Our Lady of the Lakes,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+550,Our Lady of the Redwoods Church,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+551,Our Lady Queen of Peace Church,Diocese of Santa Rosa,https://qopcatholicchurch.org/,https://qopcatholicchurch.org/,ok,12,4,
+552,Our Lady Queen of Peace Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+553,Queen of the Rosary Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+554,Resurrection Church,Diocese of Santa Rosa,http://www.resurrectionfamilies.org/,http://www.resurrectionfamilies.org/,ok,65,10,
+555,Sacred Heart Church,Diocese of Santa Rosa,https://www.sacredheartparisheureka.com/,https://www.sacredheartparisheureka.com/,ok,8,1,
+556,Sonoma State Newman Center,Diocese of Santa Rosa,https://connection.newmanministry.com/colleges/sonoma-state-university/,https://connection.newmanministry.com/colleges/sonoma-state-university/,ok,50,26,
+557,St. Aloysius Church,Diocese of Santa Rosa,http://www.staloysiuscatholicchurch.org/,https://staloysiuscatholicchurch.org/,ok,31,15,
+558,St. Anthony Church,Diocese of Santa Rosa,https://stanthonysofmendocino.org/,https://stanthonysofmendocino.org/,ok,21,13,
+559,St. Anthony of Padua Church,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+560,St. Apollinaris Church,Diocese of Santa Rosa,http://www.stapollinarisparish.org/,https://stapollinarisparish.org/,ok,81,19,
+561,St. Bernard Church,Diocese of Santa Rosa,http://www.saintbernards.org/,https://www.saintbernards.org/,ok,7,0,
+562,St. Catherine of Siena Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+563,St. Colman Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+564,St. Elizabeth Ann Seton Church,Diocese of Santa Rosa,https://www.stelizabethrp.com/,https://www.stelizabethrp.com/,ok,6,1,
+565,St. Elizabeth Church,Diocese of Santa Rosa,http://www.rrchurches.com/,https://stelizabeth.churchtrac.com:443/,ok,12,3,
+566,St. Francis Solano Church,Diocese of Santa Rosa,http://www.stfrancissolano.org/,https://www.stfrancissolano.org/,ok,19,8,
+567,St. Helena Church,Diocese of Santa Rosa,http://www.sthelenacatholic.com/,https://sthelenacatholic.com/,ok,9,1,
+568,St. James Church,Diocese of Santa Rosa,http://www.stjamespetaluma.org,https://www.stjamespetaluma.org/,ok,29,6,
+569,St. Joan of Arc Church,Diocese of Santa Rosa,https://www.facebook.com/stjoanofarcyountville/,https://www.facebook.com/stjoanofarcyountville/,ok,0,0,
+570,St. John the Baptist Church,Diocese of Santa Rosa,http://www.stjb1858.com/,https://www.stjb1858.com/,ok,21,4,
+571,St. John the Baptist Church,Diocese of Santa Rosa,http://www.stjohnshealdsburg.org/,https://www.stjohnshealdsburg.org/,ok,25,4,
+572,St. Joseph Church,Diocese of Santa Rosa,http://www.stjoseph-middletown.com/,https://stjoseph-middletown.com/,ok,18,0,
+573,St. Joseph Church,Diocese of Santa Rosa,http://www.sjccc.net/,https://www.sjccc.net/,ok,35,11,
+574,St. Joseph Church,Diocese of Santa Rosa,http://www.sjccotati.org/,https://sjccotati.org/,ok,47,20,
+575,St. Joseph Church,Diocese of Santa Rosa,http://www.saintjoeparish.org/,http://www.saintjoeparish.org/,ok,14,2,
+576,St. Joseph Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+577,St. Joseph Mission Church,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+578,St. Kateri Tekakwitha Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+579,St. Leo the Great Church,Diocese of Santa Rosa,http://www.stleosonoma.org/,https://www.stleosonoma.org/,ok,63,3,
+580,St. Mary Church,Diocese of Santa Rosa,http://www.stmarysarcata.org,http://www.stmarysarcata.org/,ok,0,0,
+581,St. Mary Immaculate Church,Diocese of Santa Rosa,http://www.stmaryslakeport.com/,https://stmaryslakeport.com/,ok,43,3,
+582,St. Mary of the Angels Church,Diocese of Santa Rosa,http://www.stmaryschurchukiah.com/,https://www.stmaryschurchukiah.com/,ok,19,4,
+583,St. Patrick Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+584,St. Patrick Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+585,St. Peter Church,Diocese of Santa Rosa,http://www.stpeterscloverdale.org,https://www.stpeterscloverdale.org/,ok,40,6,
+586,St. Peter Mission,Diocese of Santa Rosa,http://www.stmaryslakeport.com/,https://stmaryslakeport.com/,ok,43,3,
+587,St. Philip the Apostle Church,Diocese of Santa Rosa,http://www.stphilipstteresa.org/,https://www.stphilipstteresa.org/,ok,28,3,
+588,"St. Robert & St. Anne Mission, (St. Joseph, Crescent City) Klamath",Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+589,St. Rose of Lima Church,Diocese of Santa Rosa,http://www.stroseonline.com/,https://www.stroseonline.com/,ok,20,4,
+590,St. Sebastian Church,Diocese of Santa Rosa,http://www.stseb.org/,https://stseb.org/,ok,40,10,
+591,St. Teresa of Avila Mission,Diocese of Santa Rosa,,,missing_url,,,Invalid parish homepage URL: 
+592,St. Thomas Aquinas Church,Diocese of Santa Rosa,https://stthomasaquinasnapa.com/,https://stthomasaquinasnapa.com/,ok,0,0,
+593,St. Vincent de Paul Church,Diocese of Santa Rosa,http://www.svdppetaluma.org/,https://svdppetaluma.org/,ok,51,11,
+594,Star of the Valley Church,Diocese of Santa Rosa,http://www.starofthevalley.org/,http://www.starofthevalley.org/,ok,95,9,
+595,Our Lady of the Rosary Parish,Diocese of Pensacola-Tallahassee,https://olr.ptdiocese.org,https://olr.ptdiocese.org/,ok,14,3,
+596,Our Lady Queen of Peace Mission,Diocese of Pensacola-Tallahassee,https://qop.ptdiocese.org/,https://qop.ptdiocese.org/,ok,14,5,
+597,St. Anne Parish,Diocese of Pensacola-Tallahassee,http://stannemar.ptdiocese.org,https://stannemar.ptdiocese.org/,ok,11,3,
+598,St. Bernadette Parish,Diocese of Pensacola-Tallahassee,http://www.stbernadette.com,https://www.stbernadette.com/,ok,24,7,
+599,St. Dominic Parish,Diocese of Pensacola-Tallahassee,http://saintdominicpc.com/,https://www.saintdominicpc.com/,ok,50,8,
+600,St. Francis of Assisi Parish,Diocese of Pensacola-Tallahassee,,,missing_url,,,Invalid parish homepage URL: 
+601,St. John the Evangelist Parish,Diocese of Pensacola-Tallahassee,http://www.saintjohnpc.com/,https://www.saintjohnpc.org/,ok,48,7,
+602,St. Joseph Parish,Diocese of Pensacola-Tallahassee,http://stjosephpsj.com,https://www.stjosephpsj.com/,ok,26,7,
+603,St. Joseph the Worker Parish,Diocese of Pensacola-Tallahassee,https://stjoeworker.ptdiocese.org,https://stjoeworker.ptdiocese.org/,ok,10,2,
+604,St. Patrick Parish,Diocese of Pensacola-Tallahassee,http://www.stpatricksmass.com/,https://stpatricksmass.com/,ok,11,2,
+605,St. Theresa Parish,Diocese of Pensacola-Tallahassee,https://sttheresa.ptdiocese.org/,https://sttheresa.ptdiocese.org/,ok,8,0,
+606,Sts. Peter and Paul Vietnamese Parish,Diocese of Pensacola-Tallahassee,http://sspp.ptdiocese.org,https://sspp.ptdiocese.org/,ok,10,2,
+607,Blessed Sacrament Parish,Diocese of Pensacola-Tallahassee,http://bsctlh.com,https://bsctlh.com/,ok,55,13,
+608,Co-Cathedral of St. Thomas More,Diocese of Pensacola-Tallahassee,http://www.cocathedral.com,https://www.cocathedral.com/,ok,88,17,
+609,Good Shepherd Parish,Diocese of Pensacola-Tallahassee,http://www.goodshepherdparish.org/,https://www.goodshepherdparish.org/,ok,183,12,
+610,Immaculate Conception Parish,Diocese of Pensacola-Tallahassee,https://www.immaculateperry.com/,https://www.immaculateperry.com/,ok,6,4,
+611,Sacred Heart of Jesus Parish,Diocese of Pensacola-Tallahassee,http://shj.ptdiocese.org,https://shj.ptdiocese.org/,ok,10,2,
+612,St. Augustine Yu Korean Mission,Diocese of Pensacola-Tallahassee,,,missing_url,,,Invalid parish homepage URL: 
+613,St. Elizabeth Ann Seton Parish,Diocese of Pensacola-Tallahassee,http://www.catholicchurchwakulla.org,https://catholicchurchwakulla.org/,ok,23,2,
+614,St. Eugene Mission,Diocese of Pensacola-Tallahassee,https://steugene.ptdiocese.org/,https://steugene.ptdiocese.org/,ok,23,3,
+615,St. John Paul II Catholic Chapel,Diocese of Pensacola-Tallahassee,https://sjpiichapel.org/,https://sjpiichapel.org/,ok,65,5,
+616,St. Louis Parish,Diocese of Pensacola-Tallahassee,https://www.stlouiscatholicchurch.org,https://www.stlouiscatholicchurch.org/,ok,65,22,
+617,St. Margaret Parish,Diocese of Pensacola-Tallahassee,,,missing_url,,,Invalid parish homepage URL: 
+618,St. Thomas the Apostle Parish,Diocese of Pensacola-Tallahassee,http://stthomasquincy.com/,https://www.stthomasquincy.com/,ok,55,4,
+619,St. Vincent de Paul Parish,Diocese of Pensacola-Tallahassee,,,missing_url,,,Invalid parish homepage URL: 
+620,Msgr. James Amos Pastoral Center,Diocese of Pensacola-Tallahassee,http://www.ptdiocese.org,https://www.ptdiocese.org/,ok,241,31,
+621,Blessed Trinity Parish,Diocese of Pensacola-Tallahassee,http://blessedtrinity.ptdiocese.org/,https://blessedtrinity.ptdiocese.org/,ok,10,2,
+622,Christ Our Redeemer Parish,Diocese of Pensacola-Tallahassee,http://corcatholic.org/,https://corcatholic.org/,ok,104,19,
+623,Christ the King Parish,Diocese of Pensacola-Tallahassee,http://ctk.ptdiocese.org,https://ctk.ptdiocese.org/,ok,12,4,
+624,Corpus Christi Parish,Diocese of Pensacola-Tallahassee,https://ccdestin.com/,https://ccdestin.com/,ok,74,15,
+625,Holy Name of Jesus Parish,Diocese of Pensacola-Tallahassee,http://www.holynamechurch.org/,https://www.holynamechurch.org/,ok,85,19,
+626,Our Lady of Victory Parish,Diocese of Pensacola-Tallahassee,https://olvnow.com/,https://olvnow.com/,ok,59,7,
+627,Resurrection Parish,Diocese of Pensacola-Tallahassee,http://resurrectionbythebeach.org/,https://www.resurrectionbythebeach.org/,ok,26,3,
+628,St. Margaret of Scotland Parish,Diocese of Pensacola-Tallahassee,https://stmargaret.ptdiocese.org/,https://stmargaret.ptdiocese.org/,ok,10,2,
+629,St. Mary Parish,Diocese of Pensacola-Tallahassee,https://www.saintmary.life/,https://saintmary.life/,ok,72,17,
+630,St. Peter Parish,Diocese of Pensacola-Tallahassee,http://www.stpeter.ptdiocese.org/,https://www.stpeter.ptdiocese.org/,ok,45,14,
+631,St. Rita Parish,Diocese of Pensacola-Tallahassee,http://www.saintritaparish.org/,https://www.saintritaparish.org/,ok,22,7,
+632,Basilica of St. Michael the Archangel,Diocese of Pensacola-Tallahassee,https://stmichaelbasilica.com/,https://stmichaelbasilica.com/,ok,39,9,
+633,Cathedral of the Sacred Heart,Diocese of Pensacola-Tallahassee,http://www.shc.ptdiocese.org/,https://shc.ptdiocese.org/,ok,37,19,
+634,Holy Spirit Parish,Diocese of Pensacola-Tallahassee,http://www.holyspiritperdido.com,https://www.holyspiritperdido.com/,ok,33,11,
+635,Little Flower Parish,Diocese of Pensacola-Tallahassee,https://www.ptlittleflower.org,https://www.ptlittleflower.org/,ok,46,7,
+636,Nativity of Our Lord Parish,Diocese of Pensacola-Tallahassee,http://www.nativityofourlordcc.org/,https://www.nativityofourlordcc.org/,ok,48,11,
+637,Our Lady of the Assumption Mission,Diocese of Pensacola-Tallahassee,https://www.stanngulfbreeze.org/,https://www.stanngulfbreeze.org/,ok,84,31,
+638,Our Lady Queen of Martyrs Parish,Diocese of Pensacola-Tallahassee,https://cttdpcola.org/index.html,https://cttdpcola.org/index.html,ok,5,1,
+639,St. Ann Parish,Diocese of Pensacola-Tallahassee,https://www.stanngulfbreeze.org/,https://www.stanngulfbreeze.org/,ok,84,31,
+640,St. Anne Parish,Diocese of Pensacola-Tallahassee,http://www.saintannebellview.org/,https://www.saintannebellview.org/,ok,77,28,
+641,St. Anthony of Padua Parish,Diocese of Pensacola-Tallahassee,http://StAnthony.ptdiocese.org,https://stanthony.ptdiocese.org/,ok,9,0,
+642,St. Elizabeth of Hungary Mission,Diocese of Pensacola-Tallahassee,http://StElizabeth.ptdiocese.org,https://ecatholic.com/site-error,ok,62,4,
+643,St. John the Evangelist Parish,Diocese of Pensacola-Tallahassee,http://www.stjohnpensacola.com/,https://www.stjohnpensacola.com/,ok,19,3,
+644,St. Joseph Parish,Diocese of Pensacola-Tallahassee,https://stjoseph.ptdiocese.org/,https://stjoseph.ptdiocese.org/,ok,10,4,
+645,St. Jude Thaddeus Parish,Diocese of Pensacola-Tallahassee,http://StJude.ptdiocese.org,https://stjude.ptdiocese.org/,ok,10,2,
+646,St. Mary Parish,Diocese of Pensacola-Tallahassee,http://stmarypensacola.org/,https://www.stmarypensacola.org/,ok,20,8,
+647,St. Paul Parish,Diocese of Pensacola-Tallahassee,http://www.stpaulcatholic.net/,https://www.stpaulcatholic.net/,ok,38,8,
+648,St. Rose of Lima Parish,Diocese of Pensacola-Tallahassee,http://www.srolparish.org,https://www.srolparish.org/,ok,82,17,
+649,St. Stephen Parish,Diocese of Pensacola-Tallahassee,https://latinmasspensacola.org/,https://latinmasspensacola.org/,ok,17,4,
+650,St. Sylvester Parish,Diocese of Pensacola-Tallahassee,http://www.stsylv.org,https://www.stsylv.org/,ok,114,21,
+651,St. Thomas More Parish,Diocese of Pensacola-Tallahassee,http://stthomasmore.ptdiocese.org/,https://stthomasmore.ptdiocese.org/,ok,82,12,
+652,All Saints Parish (St. John the Baptist Campus),Archdiocese of Indianapolis,https://allsaintscatholic.net/,https://allsaintscatholic.net/,ok,54,14,
+653,All Saints Parish (St. Joseph Campus),Archdiocese of Indianapolis,https://allsaintscatholic.net/,https://allsaintscatholic.net/,ok,54,14,
+654,All Saints Parish (St. Martin Campus),Archdiocese of Indianapolis,http://allsaintscatholic.net,https://allsaintscatholic.net/,ok,54,14,
+655,All Saints Parish (St. Paul Campus),Archdiocese of Indianapolis,,,missing_url,,,Invalid parish homepage URL: 
+656,American Martyrs (Church of the) Parish,Archdiocese of Indianapolis,http://amartyrs.org/,http://amartyrs.org/,ok,27,12,
+657,Annunciation Parish,Archdiocese of Indianapolis,http://annunciationbrazil.org,https://annunciationbrazil.org/,ok,25,4,
+658,Christ the King Parish,Archdiocese of Indianapolis,https://www.ctk-indy.org/,,cache_missing,,,No cached homepage HTML for https://www.ctk-indy.org/
+659,Good Shepherd Parish,Archdiocese of Indianapolis,https://goodshepherdindy.org/,https://goodshepherdindy.org/,ok,28,7,
+660,Holy Angels (Church of the) Parish,Archdiocese of Indianapolis,https://holyangelsindy.org/,https://holyangelsindy.org/,ok,22,8,
+661,Holy Cross Parish,Archdiocese of Indianapolis,https://www.facebook.com/holycross.saintcroix/,https://www.facebook.com/holycross.saintcroix/,ok,0,0,
+662,Holy Family Parish,Archdiocese of Indianapolis,https://holyfamilyoldenburg.com/,https://holyfamilyoldenburg.com/,ok,40,2,
+663,Holy Family Parish,Archdiocese of Indianapolis,https://www.holyfamilynewalbany.org/,https://www.holyfamilynewalbany.org/,ok,29,5,
+664,"Holy Name (of Jesus, Church of the Most) Parish",Archdiocese of Indianapolis,https://www.holyname.cc/,https://www.holyname.cc/,ok,132,8,
+665,Holy Rosary (Our Lady of the Most) Parish,Archdiocese of Indianapolis,https://www.holyrosaryindy.org/,https://www.holyrosaryindy.org/,ok,57,6,
+666,Holy Spirit Parish,Archdiocese of Indianapolis,http://www.holyspirit-indy.org/,,cache_missing,,,No cached homepage HTML for http://www.holyspirit-indy.org/
+667,Holy Trinity Parish,Archdiocese of Indianapolis,https://holytrinitycatholic.life,https://holytrinitycatholic.life/,ok,12,10,
+668,Immaculate Conception Parish,Archdiocese of Indianapolis,https://millhousenchurch.com/,https://millhousenchurch.com/,ok,37,15,
+669,Immaculate Heart of Mary Parish,Archdiocese of Indianapolis,http://www.ihmindy.org/,https://ihmindy.org/,ok,112,7,
+670,Mary Queen of Peace Parish,Archdiocese of Indianapolis,https://www.mqpdanville.org/,https://www.mqpdanville.org/,ok,82,18,
+671,Most Sorrowful Mother of God Parish,Archdiocese of Indianapolis,https://www.popeace.org,https://popeace.org/,ok,142,15,
+672,Nativity (of Our Lord Jesus Christ) Parish,Archdiocese of Indianapolis,http://www.nativityindy.org/,https://www.nativityindy.org/,ok,87,9,
+673,Our Lady of Lourdes Parish,Archdiocese of Indianapolis,https://www.ollindy.org/,https://www.ollindy.org/,ok,2,0,
+674,Our Lady of Perpetual Help Parish,Archdiocese of Indianapolis,http://www.olphna.org/,,cache_missing,,,No cached homepage HTML for http://www.olphna.org/
+675,Our Lady of the Greenwood Parish,Archdiocese of Indianapolis,http://www.olgreenwood.org/,,cache_missing,,,No cached homepage HTML for http://www.olgreenwood.org/
+676,Our Lady of the Springs Parish,Archdiocese of Indianapolis,https://occ-indy.org/,https://occ-indy.org/,ok,30,9,
+677,Our Lord Jesus Christ the King Parish,Archdiocese of Indianapolis,https://www.occ-indy.org,https://occ-indy.org/,ok,30,9,
+678,Prince of Peace Parish,Archdiocese of Indianapolis,http://www.popeace.org/,https://popeace.org/,ok,142,15,
+679,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,https://www.sacredheart-stmarysvillage.org/,https://www.sacredheart-stmarysvillage.org/,ok,23,6,
+680,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,https://www.jeffersonvillecatholic.org/,https://www.jeffersonvillecatholic.org/,ok,38,3,
+681,Sacred Heart of Jesus Parish,Archdiocese of Indianapolis,https://www.sacredheartindy.com/,https://www.sacredheartindy.com/,ok,32,15,
+682,Sacred Heart Parish,Archdiocese of Indianapolis,https://parkevermillioncatholicchurches.org,https://parkevermillioncatholicchurches.org/,ok,10,2,
+683,St. Agnes Parish,Archdiocese of Indianapolis,https://www.stagnescatholicnashville.org/,https://www.stagnescatholicnashville.org/,ok,72,48,
+684,St. Ambrose Parish,Archdiocese of Indianapolis,https://www.stambroseseymour.org/,https://www.stambroseseymour.org/,ok,72,11,
+685,St. Andrew the Apostle Parish,Archdiocese of Indianapolis,https://www.standrewindy.org/,https://www.standrewindy.org/,ok,42,15,
+686,St. Ann Parish,Archdiocese of Indianapolis,http://www.st-ann-rcindy.org/,http://www.st-ann-rcindy.org/,ok,28,4,
+687,St. Anne Parish,Archdiocese of Indianapolis,,,missing_url,,,Invalid parish homepage URL: 
+688,St. Anne Parish,Archdiocese of Indianapolis,https://www.sa-se.org/,https://www.sa-se.org/,ok,16,1,
+689,St. Anthony of Padua Parish,Archdiocese of Indianapolis,https://www.stanthonymorris.org/,https://www.stanthonymorris.org/,ok,76,19,
+690,St. Anthony of Padua Parish,Archdiocese of Indianapolis,https://www.stanthony-clarksville.org/,https://www.stanthony-clarksville.org/,ok,109,9,
+691,St. Anthony Parish,Archdiocese of Indianapolis,https://www.saintanthonyindy.org/,https://www.saintanthonyindy.org/,ok,12,4,
+692,St. Augustine Parish,Archdiocese of Indianapolis,https://www.facebook.com/p/St-Augustine-Catholic-Church-100067775066147/,https://www.facebook.com/p/St-Augustine-Catholic-Church-100067775066147/,ok,0,0,
+693,St. Augustine Parish,Archdiocese of Indianapolis,https://www.jeffersonvillecatholic.org/,https://www.jeffersonvillecatholic.org/,ok,38,3,
+694,St. Barnabas Parish,Archdiocese of Indianapolis,https://www.stbindy.org/,,cache_missing,,,No cached homepage HTML for https://www.stbindy.org/
+695,St. Bartholomew Parish,Archdiocese of Indianapolis,https://www.saintbartholomew.org/,,cache_missing,,,No cached homepage HTML for https://www.saintbartholomew.org/
+696,St. Benedict Parish,Archdiocese of Indianapolis,https://www.stbenedictth.org/,https://www.stbenedictth.org/,ok,64,19,
+697,St. Bernard Parish,Archdiocese of Indianapolis,https://www.saintmichaelschurch.net/,https://www.saintmichaelschurch.net/,ok,68,9,
+698,St. Boniface Parish,Archdiocese of Indianapolis,https://www.sbcatholic.church/,https://www.sbcatholic.church/,ok,255,16,
+699,St. Bridget of Ireland Parish,Archdiocese of Indianapolis,https://stgandb.org/,https://stgandb.org/,ok,30,6,
+700,St. Catherine of Siena Parish (St. John the Evangelist Campus),Archdiocese of Indianapolis,https://stcatherinegreensburg.com/,https://stcatherinegreensburg.com/,ok,42,6,
+701,St. Catherine of Siena Parish (St. Maurice Campus),Archdiocese of Indianapolis,https://www.stmauricechurch.org/index.html,https://www.stmauricechurch.org/index.html,ok,28,19,
+702,St. Charles Borromeo Parish,Archdiocese of Indianapolis,https://stcharlesmilan.org/,https://stcharlesmilan.org/,ok,45,21,
+703,St. Charles Borromeo Parish,Archdiocese of Indianapolis,https://parish.stcharlesbloomington.org/,https://parish.stcharlesbloomington.org/,ok,48,9,
+704,St. Christopher Parish,Archdiocese of Indianapolis,https://www.stchrisindy.org/,,cache_missing,,,No cached homepage HTML for https://www.stchrisindy.org/
+705,St. Elizabeth Ann Seton Parish (Holy Family Campus),Archdiocese of Indianapolis,https://www.setoncatholics.org/,https://www.setoncatholics.org/,ok,75,23,
+706,St. Elizabeth Ann Seton Parish (St. Andrew Campus),Archdiocese of Indianapolis,https://www.setoncatholics.org/,https://www.setoncatholics.org/,ok,75,23,
+707,St. Elizabeth Ann Seton Parish (St. Mary Campus),Archdiocese of Indianapolis,https://www.setoncatholics.org/,https://www.setoncatholics.org/,ok,75,23,
+708,St. Elizabeth of Hungary Parish,Archdiocese of Indianapolis,https://www.sa-se.org/,https://www.sa-se.org/,ok,16,1,
+709,St. Francis & Clare Parish,Archdiocese of Indianapolis,https://www.ss-fc.org/,,cache_missing,,,No cached homepage HTML for https://www.ss-fc.org/
+710,St. Francis Xavier Parish,Archdiocese of Indianapolis,http://www.stfrancisxavierhenryville.org/,,cache_missing,,,No cached homepage HTML for http://www.stfrancisxavierhenryville.org/
+711,St. Gabriel Parish,Archdiocese of Indianapolis,https://stgandb.org/,https://stgandb.org/,ok,30,6,
+712,St. Gabriel the Archangel Parish,Archdiocese of Indianapolis,https://stgabrielindy.org/,,cache_missing,,,No cached homepage HTML for https://stgabrielindy.org/
+713,St. Isidore the Farmer Parish,Archdiocese of Indianapolis,https://www.facebook.com/p/St-Isidore-Catholic-Church-Bristow-in-100081487843209/,https://www.facebook.com/p/St-Isidore-Catholic-Church-Bristow-in-100081487843209/,ok,0,0,
+714,St. Joan of Arc Parish,Archdiocese of Indianapolis,http://www.sjoa.org/,https://www.sjoa.org/,ok,135,26,
+715,St. John Paul II Parish,Archdiocese of Indianapolis,http://www.stjohnpaulparish.org/,https://www.stjohnpaulparish.org/,ok,114,13,
+716,St. John the Apostle Parish,Archdiocese of Indianapolis,http://www.sjabloomington.org/,https://www.sjabloomington.org/,ok,47,12,
+717,St. John the Baptist Parish,Archdiocese of Indianapolis,https://smn-sjs.org/,https://smn-sjs.org/,ok,49,24,
+718,St. John the Baptist Parish,Archdiocese of Indianapolis,http://www.stjohncatholicchurchosgood.com/,https://www.stjohncatholicchurchosgood.com/,ok,14,2,
+719,St. John the Evangelist Parish,Archdiocese of Indianapolis,https://www.stjohnsindy.org/,https://www.stjohnsindy.org/,ok,154,4,
+720,St. Joseph Parish,Archdiocese of Indianapolis,https://stjosephrockville.com/,https://stjosephrockville.com/,ok,31,2,
+721,St. Joseph Parish,Archdiocese of Indianapolis,https://www.stjosephindy.org/,https://www.stjosephindy.org/,ok,28,12,
+722,St. Joseph Parish,Archdiocese of Indianapolis,https://www.saintmichaelschurch.net/,https://www.saintmichaelschurch.net/,ok,68,9,
+723,St. Joseph Parish,Archdiocese of Indianapolis,https://www.catholic-community.org/,https://www.catholic-community.org/,ok,52,8,
+724,St. Joseph Parish,Archdiocese of Indianapolis,https://shelbycatholic.org/,,cache_missing,,,No cached homepage HTML for https://shelbycatholic.org/
+725,St. Joseph Parish,Archdiocese of Indianapolis,https://www.ccjc3.org/,https://www.ccjc3.org/,ok,35,8,
+726,St. Joseph University Parish,Archdiocese of Indianapolis,http://www.stjoeup.org/,https://www.stjoeup.org/,ok,38,14,
+727,St. Jude Parish,Archdiocese of Indianapolis,https://www.stjudeindy.org/,,cache_missing,,,No cached homepage HTML for https://www.stjudeindy.org/
+728,St. Jude the Apostle Parish,Archdiocese of Indianapolis,https://www.sjabloomington.org/,https://www.sjabloomington.org/,ok,47,12,
+729,St. Lawrence Parish,Archdiocese of Indianapolis,https://www.stlawrencecc.org/,https://www.stlawrencecc.org/,ok,39,13,
+730,St. Lawrence Parish,Archdiocese of Indianapolis,https://www.saintlawrence.net/,,cache_missing,,,No cached homepage HTML for https://www.saintlawrence.net/
+731,St. Louis Parish,Archdiocese of Indianapolis,https://www.stlouis-batesville.org/,https://www.stlouis-batesville.org/,ok,69,18,
+732,St. Luke the Evangelist Parish,Archdiocese of Indianapolis,https://www.stluke.org/,,cache_missing,,,No cached homepage HTML for https://www.stluke.org/
+733,St. Malachy Parish,Archdiocese of Indianapolis,https://stmalachy.org/,https://stmalachy.org/,ok,73,19,
+734,St. Margaret Mary Parish,Archdiocese of Indianapolis,https://www.smmth.org/,https://www.smmth.org/,ok,29,8,
+735,St. Mark Parish,Archdiocese of Indianapolis,https://www.thequadparishes.org/,https://www.thequadparishes.org/,ok,12,3,
+736,St. Mark the Evangelist Parish,Archdiocese of Indianapolis,https://www.stmarkindy.org/,https://www.stmarkindy.org/,ok,87,21,
+737,St. Martin of Tours Parish,Archdiocese of Indianapolis,https://www.stmtours.org/,,cache_missing,,,No cached homepage HTML for https://www.stmtours.org/
+738,St. Mary (Immaculate Conception) Parish,Archdiocese of Indianapolis,https://www.stmaryrush.org/,https://www.stmaryrush.org/,ok,34,4,
+739,St. Mary of the Annunciation Parish,Archdiocese of Indianapolis,https://smn-sjs.org/,https://smn-sjs.org/,ok,49,24,
+740,St. Mary of the Immaculate Conception Parish,Archdiocese of Indianapolis,https://www.stmaryscc.org/,https://www.stmaryscc.org/,ok,36,11,
+741,St. Mary Parish,Archdiocese of Indianapolis,https://www.yourcclc.org/,https://www.yourcclc.org/,ok,20,8,
+742,St. Mary Parish,Archdiocese of Indianapolis,https://www.ccjc3.org/,https://www.ccjc3.org/,ok,35,8,
+743,St. Mary Parish,Archdiocese of Indianapolis,http://www.stmarysna.org/,https://www.stmarysna.org/,ok,29,4,
+744,St. Mary Parish,Archdiocese of Indianapolis,https://catholic-community.org/,https://catholic-community.org/,ok,52,8,
+745,St. Mary Parish,Archdiocese of Indianapolis,https://saintmarysindy.org/,,cache_missing,,,No cached homepage HTML for https://saintmarysindy.org/
+746,St. Mary Parish,Archdiocese of Indianapolis,https://church.stmarysgreensburg.com/,https://church.stmarysgreensburg.com/,ok,100,22,
+747,St. Mary-of-the-Knobs Parish,Archdiocese of Indianapolis,https://www.yoursmk.org/,https://www.yoursmk.org/,ok,135,59,
+748,St. Mary-of-the-Woods Parish,Archdiocese of Indianapolis,https://www.sacredheart-stmarysvillage.org,https://www.sacredheart-stmarysvillage.org/,ok,23,6,
+749,St. Matthew the Apostle Parish,Archdiocese of Indianapolis,https://www.saintmatt.org/,https://www.saintmatt.org/,ok,67,4,
+750,St. Maurice Parish,Archdiocese of Indianapolis,https://www.stmauricechurch.org/index.html,https://www.stmauricechurch.org/index.html,ok,28,19,
+751,St. Meinrad Parish,Archdiocese of Indianapolis,https://www.sbcatholic.church/,https://www.sbcatholic.church/,ok,255,16,
+752,St. Michael Church,Archdiocese of Indianapolis,https://www.thequadparishes.org/,https://www.thequadparishes.org/,ok,12,3,
+753,St. Michael Parish,Archdiocese of Indianapolis,https://www.brookvilleparishes.com/,https://www.brookvilleparishes.com/,ok,45,10,
+754,St. Michael Parish,Archdiocese of Indianapolis,https://www.stmichaelsgrfld.org/,https://www.stmichaelsgrfld.org/,ok,54,18,
+755,St. Michael Parish,Archdiocese of Indianapolis,https://www.saintmichaelschurch.net/,https://www.saintmichaelschurch.net/,ok,68,9,
+756,St. Michael Parish,Archdiocese of Indianapolis,https://stmichaelcharlestown.org/,https://stmichaelcharlestown.org/,ok,43,2,
+757,St. Michael the Archangel Parish,Archdiocese of Indianapolis,https://saintmichaelindy.org/,,cache_missing,,,No cached homepage HTML for https://saintmichaelindy.org/
+758,St. Monica Parish,Archdiocese of Indianapolis,https://www.stmonicaindy.org/,https://www.stmonicaindy.org/,ok,40,10,
+759,St. Nicholas Parish,Archdiocese of Indianapolis,https://www.stnicholas-sunman.org/,https://www.stnicholas-sunman.org/,ok,93,14,
+760,St. Patrick Parish,Archdiocese of Indianapolis,https://www.stpatrickindy.com/,https://www.stpatrickindy.com/,ok,28,9,
+761,St. Patrick Parish,Archdiocese of Indianapolis,http://amartyrs.org/,http://amartyrs.org/,ok,27,12,
+762,St. Patrick Parish,Archdiocese of Indianapolis,https://www.saintpat.org/,https://www.saintpat.org/,ok,35,9,
+763,St. Paul Catholic Center,Archdiocese of Indianapolis,http://www.hoosiercatholic.org/,https://www.hoosiercatholic.org/,ok,34,4,
+764,St. Paul Parish,Archdiocese of Indianapolis,https://www.thequadparishes.org/,https://www.thequadparishes.org/,ok,12,3,
+765,St. Paul the Apostle Parish,Archdiocese of Indianapolis,https://stpaul-greencastle.com/,https://stpaul-greencastle.com/,ok,16,4,
+766,St. Peter,Archdiocese of Indianapolis,https://www.brookvilleparishes.com/,https://www.brookvilleparishes.com/,ok,45,10,
+767,St. Peter & Paul Cathedral,Archdiocese of Indianapolis,http://www.ssppc.org/,http://www.ssppc.org/,ok,38,15,
+768,St. Philip Neri Parish,Archdiocese of Indianapolis,https://www.spnindy.org/,https://www.spnindy.org/,ok,12,6,
+769,St. Philomena & Cecilia Oratory,Archdiocese of Indianapolis,https://www.latinmassbrookville.com/,https://www.latinmassbrookville.com/,ok,9,1,
+770,St. Pius V Parish,Archdiocese of Indianapolis,https://www.thequadparishes.org/,https://www.thequadparishes.org/,ok,12,3,
+771,St. Pius X Parish,Archdiocese of Indianapolis,https://www.spxparish.org/,https://www.spxparish.org/,ok,85,24,
+772,St. Rita Parish,Archdiocese of Indianapolis,https://www.stritaindy.org/,https://www.stritaindy.org/,ok,58,22,
+773,St. Roch Parish,Archdiocese of Indianapolis,https://www.strochindy.org/,,cache_missing,,,No cached homepage HTML for https://www.strochindy.org/
+774,St. Rose of Lima Parish,Archdiocese of Indianapolis,https://saintrose.net/,,cache_missing,,,No cached homepage HTML for https://saintrose.net/
+775,St. Simon the Apostle Parish,Archdiocese of Indianapolis,https://www.saintsimon.org/,https://www.saintsimon.org/,ok,110,15,
+776,St. Susanna Parish,Archdiocese of Indianapolis,https://www.saintsusannachurch.com/,https://www.saintsusannachurch.com/,ok,73,24,
+777,St. Teresa Benedicta of the Cross Parish,Archdiocese of Indianapolis,https://www.stteresacc.org/,https://www.stteresacc.org/,ok,42,14,
+778,St. Therese of the Infant Jesus (Little Flower) Parish,Archdiocese of Indianapolis,https://www.littleflowerparish.org/,https://www.littleflowerparish.org/,ok,72,6,
+779,St. Thomas Aquinas Parish,Archdiocese of Indianapolis,https://www.staindy.org/church/,https://www.staindy.org/church/,ok,101,12,
+780,St. Thomas More Parish,Archdiocese of Indianapolis,https://www.stm-church.org/,https://www.stm-church.org/,ok,37,8,
+781,St. Thomas the Apostle Parish,Archdiocese of Indianapolis,https://stthomasfortville.com/,,cache_missing,,,No cached homepage HTML for https://stthomasfortville.com/
+782,St. Vincent de Paul Parish,Archdiocese of Indianapolis,https://www.yourcclc.org/,https://www.yourcclc.org/,ok,20,8,
+783,St. Vincent de Paul Parish,Archdiocese of Indianapolis,https://shelbycatholic.org/,,cache_missing,,,No cached homepage HTML for https://shelbycatholic.org/
+784,Blessed Sacrament,Diocese of Fort Wayne-South Bend,https://blessedsacramentalbion.org,https://www.blessedsacramentalbion.org/,ok,12,1,
+785,Cathedral of the Immaculate Conception,Diocese of Fort Wayne-South Bend,https://cathedralfortwayne.org,https://www.cathedralfortwayne.org/,ok,27,13,
+786,Christ the King,Diocese of Fort Wayne-South Bend,https://sbctkonline.com,,cache_missing,,,No cached homepage HTML for https://sbctkonline.com
+787,Corpus Christi,Diocese of Fort Wayne-South Bend,https://corpuschristisb.org,https://www.corpuschristisb.org/,ok,57,9,
+788,Holy Cross,Diocese of Fort Wayne-South Bend,https://hcpsb.org,https://hcpsb.org/,ok,71,10,
+789,Holy Family,Diocese of Fort Wayne-South Bend,https://holyfamilysouthbend.org,https://www.holyfamilysouthbend.org/,ok,61,17,
+790,"Immaculate Conception, Auburn",Diocese of Fort Wayne-South Bend,https://iccauburn.com,https://www.iccauburn.com/,ok,43,19,
+791,"Immaculate Conception, Kendallville",Diocese of Fort Wayne-South Bend,,,missing_url,,,Invalid parish homepage URL: 
+792,"Immaculate Conception, LaOtto",Diocese of Fort Wayne-South Bend,https://icccege.org,https://icccege.org/,ok,42,15,
+793,Most Precious Blood,Diocese of Fort Wayne-South Bend,https://preciousblood.org,https://preciousblood.org/,ok,55,12,
+794,Our Lady of Good Hope,Diocese of Fort Wayne-South Bend,https://olghfw.com,https://olghfw.com/,ok,56,10,
+795,Our Lady of Guadalupe,Diocese of Fort Wayne-South Bend,,,missing_url,,,Invalid parish homepage URL: 
+796,Our Lady of Hungary,Diocese of Fort Wayne-South Bend,https://ourladyofhungary.org,,cache_missing,,,No cached homepage HTML for https://ourladyofhungary.org
+797,Queen of Angels,Diocese of Fort Wayne-South Bend,https://queenofangelsfw.org,https://queenofangelsfw.org/,ok,57,30,
+798,Queen of Peace,Diocese of Fort Wayne-South Bend,https://queenofpeace.cc,https://queenofpeace.cc/,ok,46,17,
+799,Sacred Heart of Jesus,Diocese of Fort Wayne-South Bend,https://sacredheartlakeville.org,https://www.sacredheartlakeville.org/,ok,39,5,
+800,"Sacred Heart, Fort Wayne",Diocese of Fort Wayne-South Bend,https://sacredheartfw.org,https://sacredheartfw.org/,ok,27,6,
+801,"Sacred Heart, Notre Dame",Diocese of Fort Wayne-South Bend,https://sacredheartparish.nd.edu,https://sacredheartparish.nd.edu/,ok,20,3,
+802,"Sacred Heart, Warsaw",Diocese of Fort Wayne-South Bend,https://sacredheartwarsaw.org,https://sacredheartwarsaw.org/,ok,35,13,
+803,SS. Casimir and Adalbert,Diocese of Fort Wayne-South Bend,https://stadalbertparish.org,https://stadalbertparish.org/,ok,0,0,
+804,SS. Peter and Paul,Diocese of Fort Wayne-South Bend,https://sspeterpaulparish.org,https://www.sspeterpaulparish.org/,ok,196,157,
+805,St. Aloysius,Diocese of Fort Wayne-South Bend,https://stalyoder.org,https://www.stalyoder.org/,ok,17,5,
+806,St. Anthony de Padua,Diocese of Fort Wayne-South Bend,https://stasb.org,https://stasb.org/,ok,125,13,
+807,St. Anthony of Padua,Diocese of Fort Wayne-South Bend,https://stanthonyangola.com,https://www.stanthonyangola.com/,ok,50,10,
+808,St. Augustine,Diocese of Fort Wayne-South Bend,https://saintaugustineparish.org,https://saintaugustineparish.org/,ok,32,6,
+809,St. Bavo,Diocese of Fort Wayne-South Bend,https://stbavochurch.com,https://www.stbavochurch.com/,ok,41,6,
+810,St. Bernard,Diocese of Fort Wayne-South Bend,https://stbwabash.org,https://www.stbwabash.org/,ok,23,9,
+811,St. Catherine of Alexandria,Diocese of Fort Wayne-South Bend,,,missing_url,,,Invalid parish homepage URL: 
+812,St. Charles Borromeo,Diocese of Fort Wayne-South Bend,https://stcharlesfortwayne.org,https://www.stcharlesfortwayne.org/,ok,42,7,
+813,St. Dominic,Diocese of Fort Wayne-South Bend,https://stdominicbremen.org,https://stdominicbremen.org/,ok,24,9,
+814,St. Elizabeth Ann Seton,Diocese of Fort Wayne-South Bend,https://seasfw.org,https://seasfw.org/,ok,149,18,
+815,St. Francis Xavier,Diocese of Fort Wayne-South Bend,https://sfxpierceton.org,https://www.sfxpierceton.org/,ok,43,4,
+816,St. Gaspar del Bufalo,Diocese of Fort Wayne-South Bend,https://stgasparrc.org,https://www.stgasparrc.org/,ok,49,3,
+817,St. Henry,Diocese of Fort Wayne-South Bend,,,missing_url,,,Invalid parish homepage URL: 
+818,St. John Bosco,Diocese of Fort Wayne-South Bend,https://stjohnboscochurubusco.org,https://stjohnboscochurubusco.org/,ok,30,5,
+819,"St. John the Baptist, Fort Wayne",Diocese of Fort Wayne-South Bend,https://saintjohnfortwayne.com,https://www.saintjohnfortwayne.com/,ok,3,0,
+820,"St. John the Baptist, New Haven",Diocese of Fort Wayne-South Bend,https://sjnewhaven.org,https://sjnewhaven.org/,ok,129,11,
+821,"St. John the Baptist, South Bend",Diocese of Fort Wayne-South Bend,https://stjohnspartans.com,https://stjohnspartans.com/,ok,37,8,
+822,St. John the Evangelist,Diocese of Fort Wayne-South Bend,https://stjohncatholic.com,https://www.stjohncatholic.com/,ok,31,12,
+823,St. Joseph - Hessen Cassel,Diocese of Fort Wayne-South Bend,https://stjoehc.org,https://stjoehc.org/,ok,71,6,
+824,"St. Joseph, Bluffton",Diocese of Fort Wayne-South Bend,https://stjosephchurchbluffton.org,https://www.stjosephchurchbluffton.org/,ok,10,3,
+825,"St. Joseph, Fort Wayne",Diocese of Fort Wayne-South Bend,https://saintjosephfw.com,,cache_missing,,,No cached homepage HTML for https://saintjosephfw.com
+826,"St. Joseph, Garrett",Diocese of Fort Wayne-South Bend,https://stjosephgarrett.org,https://stjosephgarrett.org/,ok,56,19,
+827,"St. Joseph, LaGrange",Diocese of Fort Wayne-South Bend,https://saintjosephlagrange.org,https://www.saintjosephlagrange.org/,ok,32,5,
+828,"St. Joseph, Mishawaka",Diocese of Fort Wayne-South Bend,https://stjoemish.com,,cache_missing,,,No cached homepage HTML for https://stjoemish.com
+829,"St. Joseph, Roanoke",Diocese of Fort Wayne-South Bend,,,missing_url,,,Invalid parish homepage URL: 
+830,"St. Joseph, South Bend",Diocese of Fort Wayne-South Bend,https://stjoeparish.com,,cache_missing,,,No cached homepage HTML for https://stjoeparish.com
+831,"St. Jude, Fort Wayne",Diocese of Fort Wayne-South Bend,https://stjudefw.org,,cache_missing,,,No cached homepage HTML for https://stjudefw.org
+832,"St. Jude, South Bend",Diocese of Fort Wayne-South Bend,https://stjudeparish.net,https://www.stjudeparish.net/,ok,3,0,
+833,St. Louis Besancon,Diocese of Fort Wayne-South Bend,https://stlouisb.org,https://www.stlouisb.org/,ok,26,5,
+834,St. Martin de Porres,Diocese of Fort Wayne-South Bend,https://stmartinchurchsyracuse.org,https://www.stmartinchurchsyracuse.org/,ok,28,7,
+835,St. Mary,Diocese of Fort Wayne-South Bend,https://stmaryhuntington.org,https://stmaryhuntington.org/,ok,40,11,
+836,St. Mary Mother of God,Diocese of Fort Wayne-South Bend,https://stmarysfw.org,,cache_missing,,,No cached homepage HTML for https://stmarysfw.org
+837,St. Mary of the Annunciation,Diocese of Fort Wayne-South Bend,https://stmarysbristol.com,https://stmarysbristol.com/,ok,38,8,
+838,"St. Mary of the Assumption, Avilla",Diocese of Fort Wayne-South Bend,https://stmaryavillachurch.org,https://stmaryavillachurch.org/,ok,19,5,
+839,"St. Mary of the Assumption, Decatur",Diocese of Fort Wayne-South Bend,https://www.stmarysdecatur.org/,https://www.stmarysdecatur.org/,ok,31,12,
+840,St. Mary of the Lake,Diocese of Fort Wayne-South Bend,https://stmaryculver.org,https://stmaryculver.org/,ok,57,9,
+841,St. Mary of the Presentation,Diocese of Fort Wayne-South Bend,https://stmarysgeneva.org,https://www.stmarysgeneva.org/,ok,10,2,
+842,St. Matthew Cathedral,Diocese of Fort Wayne-South Bend,https://stmatthewcathedral.org,https://stmatthewcathedral.org/,ok,50,11,
+843,St. Michael,Diocese of Fort Wayne-South Bend,https://www.stmichaelplymouth.org,https://www.stmichaelplymouth.org/,ok,47,7,
+844,St. Michael the Archangel,Diocese of Fort Wayne-South Bend,https://stmichaelwaterloo.com,https://www.stmichaelwaterloo.com/,ok,43,9,
+845,St. Monica,Diocese of Fort Wayne-South Bend,https://stmonicamish.org,https://www.stmonicamish.org/,ok,45,11,
+846,St. Patrick-St. Hedwig,Diocese of Fort Wayne-South Bend,https://saintpatricksainthedwig.church,https://www.saintpatricksainthedwig.church/,ok,48,5,
+847,"St. Patrick, Arcola",Diocese of Fort Wayne-South Bend,https://stpatrickarcola.org,https://stpatrickarcola.org/,ok,35,11,
+848,"St. Patrick, Fort Wayne",Diocese of Fort Wayne-South Bend,https://saintpatrickfw.com,,cache_missing,,,No cached homepage HTML for https://saintpatrickfw.com
+849,"St. Patrick, Ligonier",Diocese of Fort Wayne-South Bend,https://stpatrickligonier.org,https://www.stpatrickligonier.org/,ok,41,6,
+850,"St. Patrick, Walkerton",Diocese of Fort Wayne-South Bend,https://saintpatricks.church,https://saintpatricks.church/,ok,9,3,
+851,St. Paul of the Cross,Diocese of Fort Wayne-South Bend,https://saintpaulcc.org,https://saintpaulcc.org/,ok,12,6,
+852,St. Paul Oratory,Diocese of Fort Wayne-South Bend,https://stpaulcatholicchapel.org,https://www.stpaulcatholicchapel.org/,ok,27,6,
+853,St. Peter,Diocese of Fort Wayne-South Bend,https://saintpetersfortwayne.org,https://saintpetersfortwayne.org/,ok,22,7,
+854,St. Pius X,Diocese of Fort Wayne-South Bend,https://stpius.net,https://stpius.net/,ok,171,11,
+855,St. Robert Bellarmine,Diocese of Fort Wayne-South Bend,https://strobertsnmanchester.org,https://www.strobertsnmanchester.org/,ok,34,8,
+856,St. Rose of Lima,Diocese of Fort Wayne-South Bend,https://strosedelima.org,https://www.strosedelima.org/,ok,45,12,
+857,St. Stanislaus Bishop and Martyr,Diocese of Fort Wayne-South Bend,https://ststanparish.com,https://ststanparish.com/,ok,24,7,
+858,St. Stanislaus Kostka,Diocese of Fort Wayne-South Bend,https://ststansnewcarlisle.org,https://www.ststansnewcarlisle.org/,ok,38,10,
+859,St. Therese,Diocese of Fort Wayne-South Bend,https://sttheresefw.org,https://www.sttheresefw.org/,ok,26,12,
+860,"St. Thérèse, Little Flower",Diocese of Fort Wayne-South Bend,https://littleflowerchurch.org,https://littleflowerchurch.org/,ok,75,11,
+861,St. Thomas the Apostle,Diocese of Fort Wayne-South Bend,https://stthomaselkhart.com,https://www.stthomaselkhart.com/,ok,0,0,
+862,"St. Vincent de Paul, Elkhart",Diocese of Fort Wayne-South Bend,https://svcelkhart.org,https://www.stvincentelkhart.org/,ok,58,12,
+863,"St. Vincent de Paul, Fort Wayne",Diocese of Fort Wayne-South Bend,https://saintv.org,https://saintv.org/,ok,48,5,

@@ -1,0 +1,54 @@
+match_type,pattern,is_social,service,category
+domain,facebook.com,TRUE,Facebook,social_media
+domain,fb.com,TRUE,Facebook,social_media
+domain,fb.me,TRUE,Facebook,social_media
+domain,instagram.com,TRUE,Instagram,social_media
+domain,threads.net,TRUE,Threads,social_media
+domain,threads.com,TRUE,Threads,social_media
+domain,twitter.com,TRUE,X,social_media
+domain,x.com,TRUE,X,social_media
+domain,t.co,TRUE,X,social_media
+domain,bsky.app,TRUE,Bluesky,social_media
+domain,tiktok.com,TRUE,TikTok,social_media
+domain,linkedin.com,TRUE,LinkedIn,social_media
+domain,pinterest.com,TRUE,Pinterest,social_media
+domain,snapchat.com,TRUE,Snapchat,social_media
+domain,reddit.com,TRUE,Reddit,social_media
+domain,tumblr.com,TRUE,Tumblr,social_media
+domain,mastodon.social,TRUE,Mastodon,social_media
+domain,youtube.com,TRUE,YouTube,video
+domain,youtu.be,TRUE,YouTube,video
+domain,youtube-nocookie.com,TRUE,YouTube,video
+domain,vimeo.com,TRUE,Vimeo,video
+domain,livestream.com,TRUE,Livestream,video
+domain,twitch.tv,TRUE,Twitch,video
+domain,spotify.com,TRUE,Spotify,audio
+domain,soundcloud.com,TRUE,SoundCloud,audio
+domain,podcasts.apple.com,TRUE,Apple Podcasts,audio
+domain,blogspot.com,TRUE,Blogger,social_publishing
+domain,flocknote.com,TRUE,Flocknote,parish_communication
+domain,flocknote.me,TRUE,Flocknote,parish_communication
+domain,myparishapp.com,TRUE,myParish,parish_communication
+domain,evangelus.com,TRUE,Evangelus,parish_communication
+domain,whatsapp.com,TRUE,WhatsApp,messaging
+domain,wa.me,TRUE,WhatsApp,messaging
+domain,telegram.me,TRUE,Telegram,messaging
+domain,t.me,TRUE,Telegram,messaging
+domain,discord.com,TRUE,Discord,messaging
+domain,discord.gg,TRUE,Discord,messaging
+domain,mailchimp.com,TRUE,Mailchimp,email_marketing
+domain,list-manage.com,TRUE,Mailchimp,email_marketing
+domain,list-manage1.com,TRUE,Mailchimp,email_marketing
+domain,list-manage2.com,TRUE,Mailchimp,email_marketing
+domain,mailchi.mp,TRUE,Mailchimp,email_marketing
+domain,constantcontact.com,TRUE,Constant Contact,email_marketing
+domain,constantcontactpages.com,TRUE,Constant Contact,email_marketing
+domain,conta.cc,TRUE,Constant Contact,email_marketing
+domain,rs6.net,TRUE,Constant Contact,email_marketing
+domain,sendinblue.com,TRUE,Brevo,email_marketing
+domain,brevo.com,TRUE,Brevo,email_marketing
+domain,sibforms.com,TRUE,Brevo,email_marketing
+domain,mailerlite.com,TRUE,MailerLite,email_marketing
+domain,substack.com,TRUE,Substack,email_marketing
+domain,buttondown.email,TRUE,Buttondown,email_marketing
+domain,linktr.ee,TRUE,Linktree,social_links

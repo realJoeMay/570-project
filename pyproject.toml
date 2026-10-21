@@ -12,6 +12,10 @@ version = "0.1.0"
 requires-python = ">=3.10"
 dependencies = [
     "pandas",
+    "numpy",
+    "scikit-learn>=1.2",
+    "matplotlib",
+    "threadpoolctl",
     "requests",
     "beautifulsoup4",
     "python-dotenv",

@@ -1,0 +1,5 @@
+model_feature,explained_variance_fraction
+log_county_population,0.6161633995393117
+county_median_age,0.5824673059542207
+log_n_social_links,0.7252457422820546
+attached_school,0.07221988687371306
