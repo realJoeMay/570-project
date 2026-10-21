@@ -1,0 +1,81 @@
+target_parish_index,target_name,target_diocese,report_path,n_current_ministries,n_neighbors,n_additional_ministry_labels,ministry_coverage_status,assignment_quality
+784,Blessed Sacrament,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0784_blessed-sacrament.md,2,10,55,resolved_or_rule_skipped,complete
+785,Cathedral of the Immaculate Conception,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0785_cathedral-of-the-immaculate-conception.md,5,10,30,resolved_or_rule_skipped,complete
+786,Christ the King,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0786_christ-the-king.md,0,10,56,no_listed_pages,provisional_imputed
+787,Corpus Christi,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0787_corpus-christi.md,6,10,104,resolved_or_rule_skipped,complete
+788,Holy Cross,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0788_holy-cross.md,20,10,45,resolved_or_rule_skipped,complete
+789,Holy Family,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0789_holy-family.md,7,10,91,resolved_or_rule_skipped,complete
+790,"Immaculate Conception, Auburn",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0790_immaculate-conception-auburn.md,5,10,51,resolved_or_rule_skipped,complete
+791,"Immaculate Conception, Kendallville",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0791_immaculate-conception-kendallville.md,0,10,51,no_listed_pages,provisional_imputed
+792,"Immaculate Conception, LaOtto",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0792_immaculate-conception-laotto.md,1,10,6,resolved_or_rule_skipped,complete
+793,Most Precious Blood,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0793_most-precious-blood.md,9,10,40,resolved_or_rule_skipped,complete
+794,Our Lady of Good Hope,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0794_our-lady-of-good-hope.md,10,10,39,resolved_or_rule_skipped,complete
+795,Our Lady of Guadalupe,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0795_our-lady-of-guadalupe.md,0,10,44,no_listed_pages,provisional_imputed
+796,Our Lady of Hungary,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0796_our-lady-of-hungary.md,0,10,56,no_listed_pages,provisional_imputed
+797,Queen of Angels,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0797_queen-of-angels.md,5,10,64,resolved_or_rule_skipped,complete
+798,Queen of Peace,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0798_queen-of-peace.md,8,10,45,resolved_or_rule_skipped,complete
+803,SS. Casimir and Adalbert,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0803_ss-casimir-and-adalbert.md,0,10,36,resolved_or_rule_skipped,complete
+804,SS. Peter and Paul,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0804_ss-peter-and-paul.md,8,10,89,resolved_or_rule_skipped,complete
+799,Sacred Heart of Jesus,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0799_sacred-heart-of-jesus.md,13,10,45,resolved_or_rule_skipped,complete
+800,"Sacred Heart, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0800_sacred-heart-fort-wayne.md,2,10,34,resolved_or_rule_skipped,complete
+801,"Sacred Heart, Notre Dame",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0801_sacred-heart-notre-dame.md,12,10,24,resolved_or_rule_skipped,complete
+802,"Sacred Heart, Warsaw",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0802_sacred-heart-warsaw.md,3,10,111,resolved_or_rule_skipped,complete
+805,St. Aloysius,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0805_st-aloysius.md,5,10,60,resolved_or_rule_skipped,complete
+806,St. Anthony de Padua,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0806_st-anthony-de-padua.md,26,10,84,resolved_or_rule_skipped,complete
+807,St. Anthony of Padua,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0807_st-anthony-of-padua.md,12,10,42,resolved_or_rule_skipped,complete
+808,St. Augustine,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0808_st-augustine.md,10,10,26,resolved_or_rule_skipped,complete
+809,St. Bavo,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0809_st-bavo.md,3,10,37,resolved_or_rule_skipped,complete
+810,St. Bernard,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0810_st-bernard.md,7,10,41,resolved_or_rule_skipped,complete
+811,St. Catherine of Alexandria,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0811_st-catherine-of-alexandria.md,0,10,33,no_listed_pages,provisional_imputed
+812,St. Charles Borromeo,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0812_st-charles-borromeo.md,9,10,56,resolved_or_rule_skipped,complete
+813,St. Dominic,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0813_st-dominic.md,8,10,56,resolved_or_rule_skipped,complete
+814,St. Elizabeth Ann Seton,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0814_st-elizabeth-ann-seton.md,22,10,78,resolved_or_rule_skipped,complete
+815,St. Francis Xavier,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0815_st-francis-xavier.md,7,10,34,resolved_or_rule_skipped,complete
+816,St. Gaspar del Bufalo,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0816_st-gaspar-del-bufalo.md,5,10,55,resolved_or_rule_skipped,complete
+817,St. Henry,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0817_st-henry.md,0,10,53,no_listed_pages,provisional_imputed
+818,St. John Bosco,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0818_st-john-bosco.md,5,10,53,resolved_or_rule_skipped,complete
+819,"St. John the Baptist, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0819_st-john-the-baptist-fort-wayne.md,0,10,44,resolved_or_rule_skipped,complete
+820,"St. John the Baptist, New Haven",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0820_st-john-the-baptist-new-haven.md,9,10,60,resolved_or_rule_skipped,complete
+821,"St. John the Baptist, South Bend",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0821_st-john-the-baptist-south-bend.md,0,10,98,resolved_or_rule_skipped,complete
+822,St. John the Evangelist,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0822_st-john-the-evangelist.md,7,10,109,resolved_or_rule_skipped,complete
+823,St. Joseph - Hessen Cassel,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0823_st-joseph-hessen-cassel.md,9,10,60,resolved_or_rule_skipped,complete
+824,"St. Joseph, Bluffton",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0824_st-joseph-bluffton.md,0,10,40,resolved_or_rule_skipped,complete
+825,"St. Joseph, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0825_st-joseph-fort-wayne.md,0,10,53,no_listed_pages,provisional_imputed
+826,"St. Joseph, Garrett",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0826_st-joseph-garrett.md,14,10,87,resolved_or_rule_skipped,complete
+827,"St. Joseph, LaGrange",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0827_st-joseph-lagrange.md,13,10,65,resolved_or_rule_skipped,complete
+828,"St. Joseph, Mishawaka",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0828_st-joseph-mishawaka.md,0,10,56,no_listed_pages,provisional_imputed
+829,"St. Joseph, Roanoke",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0829_st-joseph-roanoke.md,0,10,33,no_listed_pages,provisional_imputed
+830,"St. Joseph, South Bend",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0830_st-joseph-south-bend.md,0,10,56,no_listed_pages,provisional_imputed
+831,"St. Jude, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0831_st-jude-fort-wayne.md,0,10,53,no_listed_pages,provisional_imputed
+832,"St. Jude, South Bend",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0832_st-jude-south-bend.md,16,10,20,resolved_or_rule_skipped,complete
+833,St. Louis Besancon,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0833_st-louis-besancon.md,1,10,64,resolved_or_rule_skipped,complete
+834,St. Martin de Porres,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0834_st-martin-de-porres.md,4,10,37,resolved_or_rule_skipped,complete
+835,St. Mary,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0835_st-mary.md,16,10,42,resolved_or_rule_skipped,complete
+836,St. Mary Mother of God,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0836_st-mary-mother-of-god.md,0,10,53,no_listed_pages,provisional_imputed
+837,St. Mary of the Annunciation,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0837_st-mary-of-the-annunciation.md,10,10,46,resolved_or_rule_skipped,complete
+838,"St. Mary of the Assumption, Avilla",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0838_st-mary-of-the-assumption-avilla.md,1,10,40,resolved_or_rule_skipped,complete
+839,"St. Mary of the Assumption, Decatur",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0839_st-mary-of-the-assumption-decatur.md,3,10,90,resolved_or_rule_skipped,complete
+840,St. Mary of the Lake,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0840_st-mary-of-the-lake.md,14,10,30,resolved_or_rule_skipped,complete
+841,St. Mary of the Presentation,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0841_st-mary-of-the-presentation.md,0,10,19,resolved_or_rule_skipped,complete
+842,St. Matthew Cathedral,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0842_st-matthew-cathedral.md,11,10,29,resolved_or_rule_skipped,complete
+843,St. Michael,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0843_st-michael.md,13,10,46,resolved_or_rule_skipped,complete
+844,St. Michael the Archangel,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0844_st-michael-the-archangel.md,13,10,41,resolved_or_rule_skipped,complete
+845,St. Monica,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0845_st-monica.md,8,10,109,resolved_or_rule_skipped,complete
+847,"St. Patrick, Arcola",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0847_st-patrick-arcola.md,0,10,34,resolved_or_rule_skipped,complete
+848,"St. Patrick, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0848_st-patrick-fort-wayne.md,0,10,53,no_listed_pages,provisional_imputed
+849,"St. Patrick, Ligonier",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0849_st-patrick-ligonier.md,9,10,44,resolved_or_rule_skipped,complete
+850,"St. Patrick, Walkerton",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0850_st-patrick-walkerton.md,3,10,33,resolved_or_rule_skipped,complete
+846,St. Patrick-St. Hedwig,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0846_st-patrick-st-hedwig.md,6,10,30,resolved_or_rule_skipped,complete
+852,St. Paul Oratory,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0852_st-paul-oratory.md,3,10,3,resolved_or_rule_skipped,complete
+851,St. Paul of the Cross,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0851_st-paul-of-the-cross.md,2,10,31,resolved_or_rule_skipped,complete
+853,St. Peter,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0853_st-peter.md,1,10,52,resolved_or_rule_skipped,complete
+854,St. Pius X,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0854_st-pius-x.md,46,10,64,resolved_or_rule_skipped,complete
+855,St. Robert Bellarmine,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0855_st-robert-bellarmine.md,4,10,22,resolved_or_rule_skipped,complete
+856,St. Rose of Lima,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0856_st-rose-of-lima.md,8,10,27,resolved_or_rule_skipped,complete
+857,St. Stanislaus Bishop and Martyr,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0857_st-stanislaus-bishop-and-martyr.md,0,10,32,resolved_or_rule_skipped,complete
+858,St. Stanislaus Kostka,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0858_st-stanislaus-kostka.md,9,10,87,resolved_or_rule_skipped,complete
+859,St. Therese,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0859_st-therese.md,1,10,88,resolved_or_rule_skipped,complete
+861,St. Thomas the Apostle,Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0861_st-thomas-the-apostle.md,0,10,34,resolved_or_rule_skipped,complete
+860,"St. Thérèse, Little Flower",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0860_st-therese-little-flower.md,16,10,72,resolved_or_rule_skipped,complete
+862,"St. Vincent de Paul, Elkhart",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0862_st-vincent-de-paul-elkhart.md,13,10,26,resolved_or_rule_skipped,complete
+863,"St. Vincent de Paul, Fort Wayne",Diocese of Fort Wayne-South Bend,reports/parish_comparisons/0863_st-vincent-de-paul-fort-wayne.md,8,10,41,resolved_or_rule_skipped,complete

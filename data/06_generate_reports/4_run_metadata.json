@@ -1,0 +1,42 @@
+{
+  "target_diocese": "Diocese of Fort Wayne-South Bend",
+  "n_reports": 80,
+  "n_neighbor_matches": 800,
+  "n_targets_without_ministry_labels": 21,
+  "n_provisional_targets": 13,
+  "report_directory": "reports/parish_comparisons",
+  "report_index": "reports/parish_comparisons/index.md",
+  "ministry_matching": "Unicode/case/punctuation/spacing normalization; no synonym inference",
+  "accepted_prediction_statuses": [
+    "ok",
+    "rule"
+  ],
+  "unmatched_ministry_rows": 0,
+  "unmatched_listed_page_rows": 0,
+  "inputs": {
+    "parishes": {
+      "path": "data/05_cluster_parishes/4_parish_clusters.csv",
+      "sha256": "8fa23373f55899f90a3f09a11cd592019b95e5acd8224cfd8036ff368598cf3b"
+    },
+    "neighbors": {
+      "path": "data/05_cluster_parishes/5_target_nearest_matches.csv",
+      "sha256": "11f4022fb7327d188565542a86370ce6b0bb3e335dc4d67029ad2f7bad6dd6c9"
+    },
+    "target_summary": {
+      "path": "data/05_cluster_parishes/5_target_summary.csv",
+      "sha256": "d5b0eceee4d0eafa2b532a73a5774093090f3f0cf049d4b003fdbd7a911fd153"
+    },
+    "cluster_metadata": {
+      "path": "data/05_cluster_parishes/6_run_metadata.json",
+      "sha256": "7e6e0224d7a41d64231cc0754899af57e55e0127703974d2715e1503807426a1"
+    },
+    "ministries": {
+      "path": "data/03_extract_ministries/parish_ministries.csv",
+      "sha256": "d5ed2ef39f0c3906285fbc0f4c12c6d828b6edfe6010969462b7b139d9487ded"
+    },
+    "listed_pages": {
+      "path": "data/03_extract_ministries/1_pages_with_rules.csv",
+      "sha256": "c2b16dedc983db1334bbeaeee2395f767aa19177cd8ad3e9b0f144cae8c6d1f1"
+    }
+  }
+}
