@@ -22,4 +22,6 @@ dependencies = [
     "ollama",
     "openai",
     "pydantic>=2",
+    "markdown-it-py>=2.2",
+    "reportlab>=4",
 ]
